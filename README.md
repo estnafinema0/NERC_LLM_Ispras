@@ -155,6 +155,8 @@ We see that the validation loss is highest when only a minimal fraction of high-
 
 A representative output from the comparison function highlighted that the primary model (trained on truth) outperformed the llm_pure model by a significant margin (e.g., a 14% increase in accuracy and a 42.9% increase in F1-score). These results underscore the impact of annotation quality on model performance.
 
+> All mixed models are saves in the Hugging Face repository in different revisions. The primary model (trained on an expert annotations only) is saved in the revision `main`.
+
 ## Conclusion
 
 This project demonstrates the multifaceted approach to tackling NERC using both LLM-generated and truth annotations. Stage 1 established a robust foundation by experimenting with different prompt designs and analyzing dataset statistics. In Stage 2, a designed neural architecture (leveraging BERT and BiLSTM) was trained on both types of annotations, and comprehensive evaluation revealed the performance gap between the two. Stage 3 further refined the model by incorporating an active learning strategy—mixing a small portion of expert annotations with LLM-generated ones—to achieve improved quality. The detailed implementation, complete with code fragments, evaluation metrics, and graphical analyses, provides a transparent view of each step in this process.
