@@ -12,6 +12,14 @@ The original research assignment required solving the NERC task in 4 steps:
 3. **Stage 3 – Mixed Annotation:** To further improve the performance, a mixed dataset was created. A small subset of the examples was annotated by an “expert” (using the truth labels), while the remainder was annotated by the LLM. The study included an analysis of the performance improvement as a function of the expert annotation budget.
 4. **Stage 4 - Cheap Testing**
 
+## Running the notebook
+The project is implemented in a Jupyter Notebook, which can be run locally or on Google Colab. The notebook contains all the necessary code snippets, visualizations, and evaluation metrics. To run the notebook locally save "secrets" file in the same directory as the notebook. 
+```
+{
+    "API_KEY": "YOUR-API-KEY"
+}
+```
+
 ## Stage 1: Data Analysis and LLM Prompt Engineering
 
 The first stage focused on understanding the CoNLL 2003 dataset and experimenting with various prompts to generate the desired token-level annotations. We started by loading the dataset using the HuggingFace `datasets` library and inspecting its splits—train, validation, and test. An analysis was performed on the distribution of POS, chunk, and NER tags. For example, the code below outlines the key steps:
@@ -155,7 +163,6 @@ We see that the validation loss is highest when only a minimal fraction of high-
 
 A representative output from the comparison function highlighted that the primary model (trained on truth) outperformed the llm_pure model by a significant margin (e.g., a 14% increase in accuracy and a 42.9% increase in F1-score). These results underscore the impact of annotation quality on model performance.
 
-> All mixed models are saves in the Hugging Face repository in different revisions. The primary model (trained on an expert annotations only) is saved in the revision `main`.
 
 ## Conclusion
 
