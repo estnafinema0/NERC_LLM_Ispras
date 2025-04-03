@@ -1,0 +1,19254 @@
+EU B-ORG
+rejects O
+German B-LOC
+call O
+to O
+boycott O
+British I-LOC
+lamb B-MISC
+. O
+
+Only O
+France B-LOC
+and O
+Britain B-LOC
+backed O
+Fischler B-PER
+'s I-MISC
+proposal O
+. O
+
+It O
+brought O
+in O
+4,275 O
+tonnes O
+of O
+British B-LOC
+mutton B-MISC
+, O
+some O
+10 I-MISC
+percent O
+of O
+overall O
+imports O
+. O
+
+Rare O
+Hendrix B-PER
+song O
+draft O
+sells O
+for O
+almost O
+$ B-MISC
+17,000 I-MISC
+. O
+
+A O
+rare O
+early O
+handwritten O
+draft O
+of O
+a O
+song O
+by O
+U.S. B-LOC
+guitar O
+legend B-MISC
+Jimi B-PER
+Hendrix I-PER
+was O
+sold O
+for O
+almost O
+$ I-MISC
+17,000 B-ORG
+on I-ORG
+Thursday I-LOC
+at O
+an O
+auction O
+of O
+some O
+of O
+the O
+late O
+musician O
+'s O
+favourite O
+possessions O
+. B-PER
+
+They O
+included O
+a O
+black O
+lacquer O
+and O
+mother O
+of O
+pearl O
+inlaid O
+box O
+used O
+by O
+Hendrix B-PER
+to O
+store O
+his I-PER
+drugs O
+, O
+which I-LOC
+an B-MISC
+anonymous I-MISC
+Australian B-ORG
+purchaser I-ORG
+bought O
+for O
+5,060 O
+pounds B-LOC
+( O
+$ O
+7,845 O
+) O
+. O
+
+The O
+guitarist O
+died O
+of O
+a O
+drugs B-MISC
+overdose I-MISC
+in O
+1970 B-LOC
+aged O
+27 O
+. O
+
+BEIJING B-LOC
+1996-08-22 O
+
+China B-LOC
+says O
+time O
+right O
+for O
+Taiwan B-LOC
+talks O
+. O
+
+German B-LOC
+July O
+car B-MISC
+registrations I-MISC
+up O
+14.2 O
+pct B-MISC
+yr B-MISC
+/ O
+yr B-MISC
+. O
+
+Motor-bike O
+registration O
+rose O
+32.7 O
+percent O
+in O
+the O
+period B-LOC
+. O
+
+Volkswagen B-ORG
+AG I-ORG
+won O
+77,719 O
+registrations O
+, O
+slightly O
+more O
+than O
+a O
+quarter O
+of O
+the O
+total O
+. O
+
+Opel B-ORG
+AG I-ORG
+together O
+with O
+General B-PER
+Motors I-PER
+came O
+in O
+second O
+place O
+with O
+49,269 O
+registrations O
+, O
+16.4 B-MISC
+percent I-MISC
+of O
+the O
+overall O
+figure O
+. O
+
+Third O
+was O
+Ford B-ORG
+with O
+35,563 O
+registrations O
+, O
+or O
+11.7 O
+percent O
+. O
+
+Only O
+Seat B-ORG
+and I-ORG
+Porsche B-ORG
+had O
+fewer O
+registrations O
+in O
+July B-LOC
+1996 B-MISC
+compared O
+to O
+last O
+year I-LOC
+'s I-MISC
+July B-LOC
+. O
+
+Porsche B-ORG
+'s O
+registrations O
+fell O
+to O
+554 O
+from O
+643 O
+. O
+
+ATHENS B-LOC
+1996-08-22 O
+
+BayerVB B-ORG
+sets O
+C$ B-MISC
+100 O
+million I-MISC
+six-year O
+bond O
+. O
+
+LONDON B-LOC
+1996-08-22 O
+
+The O
+following O
+bond O
+was O
+announced O
+by O
+lead O
+manager B-ORG
+Toronto B-LOC
+Dominion I-ORG
+. O
+
+BORROWER O
+BAYERISCHE B-ORG
+VEREINSBANK I-ORG
+
+AMT B-MISC
+C$ O
+100 I-MISC
+MLN O
+COUPON B-MISC
+6.625 I-MISC
+MATURITY O
+24.SEP.02 B-LOC
+
+TYPE O
+STRAIGHT O
+ISS B-ORG
+PRICE B-MISC
+100.92 I-MISC
+PAY B-MISC
+DATE B-LOC
+24.SEP.96 I-LOC
+
+FULL O
+FEES O
+1.875 O
+REOFFER O
+99.32 O
+SPREAD O
++20 B-MISC
+BP I-MISC
+
+MOODY B-PER
+AA1 O
+LISTING O
+LUX B-MISC
+PAY B-MISC
+FREQ I-MISC
+= O
+
+S&P B-ORG
+= O
+DENOMS B-MISC
+( O
+K I-MISC
+) O
+1-10-100 O
+SALE I-MISC
+LIMITS I-ORG
+US B-LOC
+/ O
+UK B-LOC
+/ O
+CA B-LOC
+
+NEG O
+PLG O
+NO O
+CRS O
+DEFLT O
+NO O
+FORCE O
+MAJ B-MISC
+= O
+
+GOV O
+LAW O
+GERMAN B-LOC
+HOME O
+CTRY O
+= O
+TAX O
+PROVS B-ORG
+STANDARD B-MISC
+
+MGT O
+/ O
+UND B-MISC
+0.275 O
+SELL O
+CONC I-MISC
+1.60 O
+PRAECIP I-MISC
+= O
+
+UNDERLYING O
+GOVT B-ORG
+BOND I-ORG
+7.0 O
+PCT B-MISC
+SEPT B-LOC
+2001 I-LOC
+
+NOTES O
+BAYERISCHE B-ORG
+VEREINSBANK I-ORG
+IS O
+JOINT B-MISC
+LEAD I-MISC
+MANAGER B-PER
+
+-- O
+London B-LOC
+Newsroom B-ORG
++44 B-MISC
+171 I-MISC
+542 I-MISC
+7658 I-LOC
+
+Venantius B-PER
+sets O
+$ B-MISC
+300 I-MISC
+million I-ORG
+January B-LOC
+1999 I-LOC
+FRN B-ORG
+. O
+
+BORROWER O
+VENANTIUS B-PER
+AB B-ORG
+( O
+SWEDISH B-LOC
+NATIONAL I-LOC
+MORTGAGE I-ORG
+AGENCY I-MISC
+) O
+
+AMT O
+$ O
+300 B-MISC
+MLN I-MISC
+SPREAD O
+- O
+12.5 O
+BP B-MISC
+MATURITY O
+21.JAN.99 O
+
+TYPE B-MISC
+FRN O
+BASE O
+3M B-ORG
+LIBOR I-MISC
+PAY O
+DATE B-LOC
+S23.SEP.96 I-LOC
+
+LAST O
+S&P B-MISC
+AA+ I-MISC
+REOFFER I-MISC
+= O
+
+NOTES O
+S O
+SHORT O
+FIRST O
+COUPON O
+
+LISTING O
+LONDON B-LOC
+DENOMS O
+( O
+K B-MISC
+) O
+1-10-100 I-MISC
+SALE O
+LIMITS O
+US B-LOC
+/ O
+UK B-LOC
+/ O
+JP B-LOC
+/ O
+FR B-LOC
+
+NEG O
+PLG O
+YES O
+CRS O
+DEFLT O
+NO O
+FORCE O
+MAJ B-MISC
+IPMA I-MISC
+2 O
+
+MGT B-MISC
+/ O
+UND I-MISC
+5 B-LOC
+BP B-ORG
+SELL I-ORG
+CONC I-MISC
+5 I-LOC
+BP B-MISC
+PRAECIP B-PER
+= O
+
+NOTES O
+ISSUED O
+OFF O
+EMTN B-ORG
+PROGRAMME I-ORG
+
+Port O
+conditions O
+update O
+- O
+Syria B-LOC
+- O
+Lloyds B-ORG
+Shipping I-ORG
+. O
+
+Port O
+conditions O
+from O
+Lloyds B-ORG
+Shipping I-ORG
+Intelligence I-ORG
+Service I-ORG
+-- O
+
+Israel B-LOC
+plays O
+down O
+fears O
+of O
+war O
+with O
+Syria B-LOC
+. O
+
+Colleen B-PER
+Siegel I-PER
+
+Rabinovich B-PER
+is O
+winding O
+up O
+his I-MISC
+term I-ORG
+as O
+ambassador B-MISC
+. O
+
+He B-PER
+will O
+be O
+replaced O
+by O
+Eliahu B-PER
+Ben-Elissar I-PER
+, O
+a O
+former O
+Israeli B-LOC
+envoy O
+to O
+Egypt B-LOC
+and O
+right-wing B-MISC
+Likud B-ORG
+party I-ORG
+politician I-MISC
+. O
+
+Syria B-LOC
+accused O
+Israel B-ORG
+on O
+Wednesday B-MISC
+of O
+launching O
+a O
+hysterical O
+campaign O
+against O
+it I-LOC
+after I-ORG
+Israeli I-MISC
+television O
+reported O
+that O
+Damascus O
+had O
+recently B-LOC
+test O
+fired O
+a O
+missile O
+. O
+
+Peace O
+talks O
+between O
+the O
+two O
+sides O
+were O
+last B-LOC
+held O
+in O
+February B-MISC
+. O
+
+are O
+full O
+of O
+expressions O
+and O
+declarations O
+that O
+must O
+be O
+worrying O
+... B-MISC
+
+Israel B-LOC
+'s O
+Channel B-ORG
+Two I-ORG
+television B-MISC
+said O
+Damascus B-LOC
+had O
+sent O
+a O
+" I-MISC
+calming I-LOC
+signal I-MISC
+" [CLS]
+to O
+Israel B-LOC
+. O
+
+It O
+gave O
+no O
+source O
+for O
+the O
+report O
+. O
+
+Netanyahu B-PER
+and O
+Levy B-PER
+'s I-MISC
+spokesmen B-ORG
+said O
+they O
+could O
+not O
+confirm O
+it O
+. O
+
+TUNIS B-LOC
+1996-08-22 O
+
+" O
+This O
+is O
+not O
+true O
+. O
+
+Iraqi B-LOC
+Kurdish B-ORG
+areas O
+bordering O
+Iran B-LOC
+are O
+under O
+the O
+control O
+of O
+guerrillas O
+of O
+the O
+Iraqi B-LOC
+Kurdish I-ORG
+Patriotic B-MISC
+Union I-MISC
+of O
+Kurdistan I-LOC
+( O
+PUK O
+) B-MISC
+group O
+. B-ORG
+
+Clashes O
+between O
+the O
+two O
+parties O
+broke O
+out O
+at O
+the O
+weekend B-LOC
+in O
+the O
+most I-LOC
+serious I-MISC
+fighting B-MISC
+since O
+a B-ORG
+U.S.-sponsored I-ORG
+ceasefire B-PER
+last I-PER
+year I-LOC
+. I-MISC
+
+It O
+said O
+about O
+100 O
+Iraqi B-LOC
+Kurds I-PER
+were O
+killed O
+or O
+wounded O
+in O
+the O
+attack O
+. O
+
+A O
+U.S.-led B-LOC
+air O
+force O
+in O
+southern I-LOC
+Turkey B-ORG
+protects O
+Iraqi B-PER
+Kurds I-PER
+from O
+possible I-MISC
+attacks O
+by B-MISC
+Baghdad I-ORG
+troops O
+. O
+
+MANAMA B-LOC
+1996-08-22 O
+
+The O
+spot O
+riyal B-MISC
+was O
+put O
+at O
+3.7504 I-MISC
+/ O
+06 O
+to O
+the O
+dollar B-LOC
+. O
+
+JERUSALEM B-LOC
+1996-08-22 O
+
+Abu B-PER
+Rdainah I-PER
+said O
+Arafat B-PER
+had O
+decided O
+against O
+flying O
+to O
+the O
+West B-LOC
+Bank I-LOC
+on O
+Thursday B-MISC
+, O
+after O
+Israel B-ORG
+lifted O
+the O
+ban I-MISC
+, O
+because I-ORG
+he O
+had I-PER
+a O
+busy B-PER
+schedule O
+in O
+Gaza O
+and O
+would O
+not O
+be B-LOC
+free O
+until I-LOC
+Monday O
+. O
+
+Hilary B-PER
+Gush I-PER
+
+DUBAI B-LOC
+1996-08-22 O
+
+There O
+is O
+no O
+objection O
+to O
+their O
+travel O
+, O
+" B-MISC
+he B-PER
+added O
+. O
+
+It O
+has O
+since O
+been O
+silent O
+on O
+the O
+issue O
+. O
+
+He B-PER
+did O
+not O
+elaborate O
+. O
+
+Taleban B-ORG
+said O
+its O
+shipment O
+of O
+ammunition O
+from O
+Albania B-LOC
+was O
+evidence O
+of O
+Russian I-LOC
+military I-ORG
+support I-MISC
+for O
+Rabbani B-PER
+'s I-PER
+government I-MISC
+. O
+
+Moscow B-LOC
+said O
+the O
+crew O
+'s B-MISC
+nationality I-MISC
+was O
+coincidental O
+. O
+
+Numerous O
+diplomatic O
+attempts O
+to O
+free O
+the O
+seven O
+failed O
+. O
+
+PRESS O
+DIGEST O
+- O
+Iraq B-LOC
+- O
+Aug B-MISC
+22 O
+. O
+
+BAGHDAD B-LOC
+1996-08-22 O
+
+THAWRA O
+
+- O
+Iraq B-LOC
+'s I-LOC
+President O
+Saddam B-PER
+Hussein I-PER
+meets O
+with O
+chairman B-ORG
+of I-ORG
+the I-ORG
+Russian B-MISC
+liberal I-MISC
+democratic I-MISC
+party I-MISC
+Vladimir B-PER
+Zhirinovsky I-PER
+. O
+
+IRAQ B-LOC
+
+PRESS O
+DIGEST O
+- O
+Lebanon B-LOC
+- O
+Aug B-MISC
+22 I-PER
+. O
+
+BEIRUT B-LOC
+1996-08-22 O
+
+Reuters B-ORG
+has O
+not O
+verified O
+these O
+stories O
+and O
+does O
+not O
+vouch O
+for O
+their O
+accuracy O
+. O
+
+- O
+Prime B-ORG
+Minister I-ORG
+Hariri B-PER
+: O
+Israeli B-LOC
+threats O
+do O
+no O
+serve O
+peace B-MISC
+. O
+
+The O
+three O
+main O
+lists O
+have O
+been O
+prepared O
+. O
+
+AL-ANWAR B-ORG
+
+- O
+Continued O
+criticism O
+of O
+law O
+violation O
+incidents O
+-- O
+which O
+occurred O
+in O
+the B-LOC
+Mount I-LOC
+Lebanon B-ORG
+elections I-ORG
+last B-MISC
+Sunday B-PER
+. O
+
+- O
+Financial O
+negotiations B-LOC
+between O
+Lebanon B-ORG
+and O
+Pakistan I-ORG
+. I-LOC
+
+NIDA'A B-MISC
+AL-WATAN I-ORG
+
+CME B-ORG
+live O
+and O
+feeder O
+cattle O
+calls O
+range O
+mixed O
+. O
+
+The O
+continued O
+strong O
+tone O
+to O
+cash O
+cattle O
+and O
+beef O
+markets B-ORG
+should O
+prompt O
+further O
+support O
+. O
+
+MONTGOMERY B-LOC
+, O
+Ala I-LOC
+. O
+
+1996-08-22 O
+
+The O
+notes O
+were O
+bought O
+for O
+$ B-MISC
+31.5 I-MISC
+million I-MISC
+. O
+
+RESEARCH O
+ALERT O
+- O
+Lehman B-PER
+starts O
+SNET B-ORG
+. O
+
+-- O
+The O
+analyst O
+also O
+set O
+an O
+earnings O
+estimate O
+for O
+the O
+1997 B-LOC
+year B-MISC
+, O
+but O
+the O
+figure O
+was O
+not O
+immediately O
+available O
+. O
+
+-- O
+Southern B-LOC
+New I-LOC
+England I-PER
+closed O
+at O
+38-1/2 B-MISC
+Wednesday B-PER
+. O
+
+PHOENIX B-LOC
+1996-08-22 O
+
+Jul O
+31 O
+, O
+Jul O
+31 O
+, O
+Jul O
+31 O
+, O
+Jul O
+31 O
+, O
+
+1996 O
+1995 O
+1996 O
+1995 O
+
+Income B-MISC
+Statement I-MISC
+Data I-MISC
+: O
+
+Software O
+Revenue B-MISC
+2,383 I-MISC
+1,558 I-MISC
+1,086 I-MISC
+1,074 I-MISC
+
+Services O
+Revenue O
+1,154 O
+692 O
+624 O
+465 O
+
+Operating O
+Income O
+906 O
+962 O
+599 O
+515 O
+
+Net O
+Income O
+821 O
+512 O
+565 O
+301 O
+
+Earnings O
+Per O
+Share O
+0.31 O
+0.34 O
+0.19 O
+0.20 O
+
+Jul O
+31 O
+, O
+1996 B-LOC
+Jan B-MISC
+31 I-MISC
+, O
+1996 B-LOC
+
+Balance O
+Sheet O
+Data O
+: O
+
+Total O
+Assets O
+14,196 O
+7,138 O
+
+Greek B-LOC
+socialists O
+give O
+PM B-MISC
+green I-MISC
+light O
+for O
+election O
+. O
+
+Prime O
+Minister B-PER
+Costas I-PER
+Simitis I-PER
+will O
+make O
+an O
+official B-MISC
+announcement O
+after O
+a O
+cabinet I-ORG
+meeting O
+later O
+on O
+Thursday B-LOC
+, O
+said O
+Skandalidis B-PER
+. O
+
+PRESS O
+DIGEST O
+- O
+France B-LOC
+- O
+Le B-ORG
+Monde I-ORG
+Aug B-MISC
+22 I-MISC
+. O
+
+PARIS B-LOC
+1996-08-22 O
+
+FRONT O
+PAGE O
+
+BUSINESS O
+PAGES B-ORG
+
+Well O
+repairs O
+to O
+lift O
+Heidrun B-ORG
+oil O
+output O
+- O
+Statoil B-MISC
+. O
+
+OSLO B-LOC
+1996-08-22 O
+
+HELSINKI B-LOC
+1996-08-22 O
+
+Trade B-MISC
+balance O
+( O
+million I-MISC
+markka I-MISC
+) O
+: O
+
+Imports O
+10,663 O
+10,725 O
+43,430 O
+40,989 O
+
+Balance O
++3,831 O
++3,428 O
++12,696 O
++15,272 O
+
+-- O
+Helsinki B-LOC
+Newsroom B-ORG
++358 B-MISC
+- O
+0 O
+- O
+680 O
+50 O
+245 O
+
+AMSTERDAM B-LOC
+1996-08-22 O
+
+Tap O
+sales O
+began O
+on O
+Monday B-LOC
+and O
+are O
+being O
+held O
+daily O
+from O
+07.00 B-MISC
+GMT I-MISC
+to O
+15.00 B-MISC
+GMT I-MISC
+until O
+further O
+notice O
+. O
+
+German B-LOC
+farm O
+ministry B-ORG
+tells O
+consumers O
+to O
+avoid O
+British B-LOC
+mutton O
+. O
+
+BONN B-LOC
+1996-08-22 O
+
+" O
+I O
+do O
+not O
+want O
+to O
+say O
+that O
+there O
+is O
+a O
+concrete O
+danger O
+for O
+consumers B-MISC
+, O
+" B-ORG
+he B-PER
+added I-PER
+. I-MISC
+" [CLS]
+
+The O
+question O
+is O
+being O
+studied O
+separately O
+by O
+two O
+EU B-ORG
+scientific B-MISC
+committees I-ORG
+. O
+
+British B-LOC
+officials O
+say O
+sheep O
+meat O
+is O
+perfectly O
+safe O
+to O
+eat O
+. O
+
+ZDF B-ORG
+said O
+Germany B-LOC
+imported O
+47,600 O
+sheep O
+from O
+Britain B-LOC
+last O
+year O
+, O
+nearly O
+half I-MISC
+of I-MISC
+total O
+imports O
+. O
+
+GOLF B-ORG
+- O
+SCORES O
+AT B-LOC
+WORLD I-ORG
+SERIES I-ORG
+OF O
+GOLF I-ORG
+. O
+
+AKRON B-LOC
+, O
+Ohio I-LOC
+1996-08-22 B-MISC
+
+million O
+NEC B-ORG
+World B-MISC
+Series I-MISC
+of O
+Golf O
+after O
+the O
+first B-LOC
+round I-LOC
+
+( O
+players O
+U.S. B-LOC
+unless O
+stated O
+) O
+: O
+
+66 O
+Paul B-PER
+Goydos I-PER
+, O
+Billy B-PER
+Mayfair I-PER
+, O
+Hidemichi B-PER
+Tanaka I-PER
+( O
+Japan B-LOC
+) O
+
+68 O
+Steve B-PER
+Stricker I-PER
+
+69 O
+Justin B-PER
+Leonard I-PER
+, O
+Mark B-PER
+Brooks I-PER
+
+70 O
+Tim B-PER
+Herron I-PER
+, O
+Duffy B-PER
+Waldorf I-PER
+, O
+Davis B-PER
+Love I-PER
+, O
+Anders B-PER
+Forsbrand I-PER
+
+Mickelson B-PER
+, O
+Greg B-PER
+Norman I-PER
+( O
+Australia B-LOC
+) O
+
+71 O
+Ernie B-PER
+Els I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+, O
+Scott B-PER
+Hoch I-PER
+
+72 O
+Clarence B-PER
+Rose I-PER
+, O
+Loren B-PER
+Roberts I-PER
+, O
+Fred B-PER
+Funk I-PER
+, O
+Sven B-PER
+Struver I-PER
+
+O'Meara B-PER
+, O
+Fred B-PER
+Couples B-PER
+
+74 O
+Paul B-PER
+Stankowski I-PER
+, O
+Costantino B-PER
+Rocca I-PER
+( O
+Italy B-LOC
+) O
+
+75 O
+Jim B-PER
+Furyk I-PER
+, O
+Satoshi B-PER
+Higashi I-PER
+( O
+Japan B-LOC
+) O
+, O
+Willie B-PER
+Wood I-PER
+, O
+Shigeki B-PER
+
+76 O
+Scott B-PER
+McCarron I-PER
+
+79 O
+Tom B-PER
+Watson I-PER
+
+81 O
+Seiki B-PER
+Okuda I-PER
+( O
+Japan B-LOC
+) O
+
+SOCCER O
+- O
+GLORIA B-PER
+BISTRITA B-LOC
+BEAT O
+2-1 O
+F.C. B-ORG
+VALLETTA I-ORG
+. O
+
+Scorers O
+: O
+
+Attendance O
+: O
+8,000 O
+
+HORSE O
+RACING O
+- O
+PIVOTAL O
+ENDS O
+25-YEAR B-MISC
+WAIT I-MISC
+FOR O
+TRAINER B-ORG
+PRESCOTT B-PER
+. O
+
+HORSE O
+RACING O
+- O
+NUNTHORPE B-LOC
+STAKES B-MISC
+RESULTS I-MISC
+. O
+
+Eight O
+ran O
+. O
+
+Favourite O
+: O
+Mind B-MISC
+Games I-MISC
+( O
+7-4 O
+) O
+finished O
+4th O
+
+Distances O
+: O
+a O
+short O
+head O
+, O
+1-1/4 B-MISC
+lengths I-MISC
+. O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+TOSHIBA B-ORG
+CLASSIC I-ORG
+. O
+
+CARLSBAD B-LOC
+, O
+California I-LOC
+1996-08-21 B-MISC
+
+Results O
+from O
+the O
+
+$ O
+450,000 O
+Toshiba B-ORG
+Classic B-MISC
+tennis I-MISC
+tournament I-MISC
+on O
+Wednesday B-LOC
+
+( O
+prefix O
+number O
+denotes O
+seeding O
+) O
+: O
+
+Second O
+round O
+
+4 O
+- O
+Kimiko B-PER
+Date I-PER
+( O
+Japan B-LOC
+) O
+beat O
+Yone B-PER
+Kamio I-PER
+( O
+Japan B-LOC
+) O
+6-2 O
+7-5 O
+
+6-4 O
+
+8 O
+- O
+Nathalie B-PER
+Tauziat I-PER
+( O
+France B-LOC
+) O
+beat O
+Shi-Ting B-PER
+Wang I-PER
+( O
+Taiwan B-LOC
+) O
+6-4 O
+
+6-2 O
+
+COMMACK B-LOC
+, O
+New B-LOC
+York I-LOC
+1996-08-21 B-MISC
+
+number O
+denotes O
+seeding O
+) O
+: O
+
+6-3 O
+
+( O
+Morocco B-LOC
+) O
+5-7 O
+6-3 O
+3-0 O
+retired O
+
+7-5 O
+
+SOCCER O
+- O
+DALGLISH B-PER
+SAD O
+OVER O
+BLACKBURN B-LOC
+PARTING O
+. O
+
+I O
+have O
+stayed O
+out O
+of O
+the O
+way O
+and O
+let O
+them O
+get O
+on O
+with O
+the O
+job O
+. O
+
+CRICKET B-ORG
+- O
+ENGLISH B-LOC
+COUNTY I-ORG
+CHAMPIONSHIP I-ORG
+SCORES O
+. O
+
+Close O
+of O
+play O
+scores O
+in O
+four-day O
+
+Second O
+day O
+
+At O
+Weston-super-Mare B-LOC
+: O
+Durham B-LOC
+326 O
+( O
+D. B-PER
+Cox I-PER
+95 O
+not O
+out O
+, O
+
+Somerset B-LOC
+236-4 O
+( O
+M. B-PER
+Lathwell I-PER
+85 O
+) O
+. O
+
+Firsy O
+day O
+
+52 O
+; O
+A. B-PER
+Cowan I-PER
+5-68 O
+) O
+. O
+
+Essex B-LOC
+72-0 O
+. O
+
+67 O
+not O
+out O
+) O
+v O
+Hampshire B-LOC
+. O
+
+out O
+, O
+A. B-PER
+Wells I-PER
+51 O
+) O
+v O
+Northamptonshire B-LOC
+. O
+
+At O
+Headingley B-LOC
+: O
+Yorkshire B-LOC
+305-5 O
+( O
+C. B-PER
+White I-PER
+66 O
+not O
+out O
+, O
+M. B-PER
+Moxon I-PER
+
+66 O
+, O
+M. B-PER
+Vaughan I-PER
+57 O
+) O
+v O
+Lancashire B-LOC
+. O
+
+CRICKET O
+- O
+ENGLAND B-LOC
+V O
+PAKISTAN B-LOC
+FINAL O
+TEST O
+SCOREBOARD B-MISC
+. O
+
+Scoreboard B-MISC
+on O
+the O
+first O
+day O
+of O
+the O
+
+third O
+and O
+final O
+test O
+between O
+England B-LOC
+and O
+Pakistan B-LOC
+at O
+The B-MISC
+Oval I-MISC
+on O
+
+Thursday O
+: O
+
+N. O
+Hussain B-PER
+c B-MISC
+Saeed I-PER
+Anwar I-PER
+b B-MISC
+Waqar B-PER
+Younis I-PER
+12 I-MISC
+
+J. B-PER
+Crawley I-PER
+not O
+out O
+94 O
+
+I. O
+Salisbury B-LOC
+not O
+out O
+1 O
+
+Total O
+( O
+for O
+six O
+wickets O
+) O
+278 O
+
+Fall O
+of O
+wickets O
+: O
+1-64 O
+2-85 O
+3-116 O
+4-205 O
+5-248 O
+6-273 O
+
+Bowling O
+( O
+to O
+date O
+) O
+: O
+Wasim B-PER
+Akram I-PER
+25-8-61-1 O
+, O
+Waqar B-PER
+Younis I-PER
+
+Pakistan B-LOC
+: O
+Aamir B-PER
+Sohail I-PER
+, O
+Saeed B-PER
+Anwar I-PER
+, O
+Ijaz B-PER
+Ahmed I-PER
+, O
+
+Inzamam-ul-Haq B-PER
+, O
+Salim B-PER
+Malik I-PER
+, O
+Asif B-PER
+Mujtaba I-PER
+, O
+Wasim B-PER
+Akram I-PER
+, O
+Moin B-PER
+
+Khan B-PER
+, O
+Mushtaq I-PER
+Ahmed I-PER
+, O
+Waqar B-PER
+Younis I-PER
+, O
+Mohammad B-MISC
+Akam I-MISC
+
+SOCCER O
+- O
+FERGUSON B-PER
+BACK O
+IN O
+SCOTTISH B-LOC
+SQUAD O
+AFTER O
+20 B-MISC
+MONTHS I-MISC
+. O
+
+GLASGOW B-LOC
+1996-08-22 O
+
+SOCCER O
+- O
+KEANE B-PER
+SIGNS O
+FOUR-YEAR B-MISC
+CONTRACT I-MISC
+WITH O
+MANCHESTER B-ORG
+UNITED I-ORG
+. O
+
+TENNIS B-MISC
+- O
+RESULTS B-ORG
+AT B-LOC
+CANADIAN I-LOC
+OPEN I-ORG
+. O
+
+TORONTO B-LOC
+1996-08-21 O
+
+Results O
+from O
+the O
+Canadian B-LOC
+Open B-MISC
+
+tennis O
+tournament O
+on O
+Wednesday B-LOC
+( O
+prefix B-MISC
+number I-MISC
+denotes O
+
+seeding O
+) O
+: O
+
+Daniel B-PER
+Nestor I-PER
+( O
+Canada B-LOC
+) O
+beat O
+1 O
+- O
+Thomas B-PER
+Muster I-PER
+( O
+Austria B-LOC
+) O
+6-3 O
+7-5 O
+
+6-7 O
+( O
+3-7 O
+) O
+6-4 O
+6-4 O
+
+Republic B-LOC
+) O
+7-5 O
+6-3 O
+
+4 O
+- O
+Marcelo B-PER
+Rios I-PER
+( O
+Chile B-LOC
+) O
+beat O
+Kenneth B-PER
+Carlsen I-PER
+( O
+Denmark B-LOC
+) O
+6-3 O
+6-2 O
+
+6 O
+- O
+MaliVai B-PER
+Washington B-LOC
+( O
+U.S. B-ORG
+) O
+beat O
+Alex B-PER
+Corretja I-PER
+( O
+Spain B-LOC
+) O
+6-4 O
+
+7 O
+- O
+Todd B-PER
+Martin I-PER
+( O
+U.S. B-ORG
+) O
+beat O
+Renzo B-PER
+Furlan I-PER
+( O
+Italy B-LOC
+) O
+7-6 O
+( O
+7-3 O
+) O
+6-3 O
+
+Mark B-PER
+Philippoussis I-PER
+( O
+Australia B-LOC
+) O
+beat O
+8 O
+- O
+Marc B-MISC
+Rosset I-MISC
+
+9 O
+- O
+Cedric B-PER
+Pioline I-PER
+( O
+France B-LOC
+) O
+beat O
+Gregory B-PER
+Carraz I-PER
+( O
+France B-LOC
+) O
+7-6 O
+
+Patrick B-PER
+Rafter I-PER
+( O
+Australia B-LOC
+) O
+beat O
+11 O
+- O
+Alberto B-MISC
+Berasategui I-MISC
+
+( O
+Spain B-LOC
+) O
+6-1 O
+6-2 O
+
+Petr B-PER
+Korda I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+beat O
+12 O
+- O
+Francisco B-PER
+Clavet I-PER
+( O
+Spain B-LOC
+) O
+
+6-3 O
+6-4 O
+
+Daniel B-PER
+Vacek I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+beat O
+13 O
+- O
+Jason B-PER
+Stoltenberg I-PER
+
+Todd B-PER
+Woodbridge I-PER
+( O
+Australia B-LOC
+beat O
+Sebastien B-PER
+Lareau I-PER
+( O
+Canada I-LOC
+) O
+6-3 O
+
+1-6 O
+6-3 O
+
+Bohdan B-PER
+Ulihrach I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+beat O
+Andrea B-PER
+Gaudenzi I-PER
+( O
+Italy B-LOC
+) O
+
+6-3 O
+4-6 O
+6-1 O
+
+CRICKET O
+- O
+MILLNS B-PER
+SIGNS O
+FOR O
+BOLAND B-ORG
+. O
+
+CAPE B-LOC
+TOWN I-LOC
+1996-08-22 O
+
+South B-LOC
+African I-LOC
+provincial O
+side O
+Boland B-ORG
+said O
+on O
+Thursday B-MISC
+they O
+had O
+signed O
+Leicestershire B-LOC
+fast O
+bowler O
+David B-PER
+Millns I-PER
+on O
+a O
+one I-MISC
+year I-MISC
+contract O
+. O
+
+SOCCER O
+- O
+EUROPEAN B-LOC
+CUP B-ORG
+WINNERS I-ORG
+' O
+CUP B-MISC
+RESULTS I-MISC
+. O
+
+Cup B-MISC
+qualifying O
+round O
+, O
+second I-MISC
+leg I-MISC
+soccer O
+matches O
+on O
+Thursday B-LOC
+: O
+
+( O
+Slovakia B-LOC
+) O
+2 O
+( O
+halftime B-MISC
+0-0 I-MISC
+) O
+
+Attendance O
+: O
+5,000 B-MISC
+
+Chemlon B-ORG
+Humenne B-LOC
+win O
+3-0 O
+on O
+aggregate B-MISC
+
+( O
+1-1 O
+) O
+
+Gloria B-PER
+Bistrita B-LOC
+- O
+Ilie I-PER
+Lazar I-PER
+( O
+32nd B-MISC
+) O
+, O
+Eugen B-PER
+Voica I-PER
+( O
+84th B-MISC
+) O
+
+Valletta B-LOC
+- O
+Gilbert B-PER
+Agius I-PER
+( O
+24th B-MISC
+) O
+
+( O
+1-0 O
+) O
+
+own O
+goal O
+) O
+, O
+Miroslav B-PER
+Bak I-PER
+( O
+62nd B-MISC
+and I-MISC
+63rd I-MISC
+) O
+
+Attendance O
+: O
+6,500 B-MISC
+
+Milenko B-PER
+Kovasevic I-PER
+( O
+60th B-MISC
+, O
+penalty I-MISC
+) O
+, O
+Goran B-PER
+Koprinovic I-PER
+( O
+82nd B-MISC
+) O
+, O
+
+Pavlos B-PER
+Markou I-PER
+( O
+84th B-MISC
+) I-MISC
+
+AEK B-ORG
+Larnaca B-LOC
+win O
+5-1 O
+on O
+aggregate O
+
+Nyva B-LOC
+Vinnytsya I-LOC
+( O
+Ukraine B-LOC
+) O
+1 O
+Tallinna B-LOC
+Sadam B-ORG
+( I-ORG
+Estonia O
+) B-LOC
+0 O
+( O
+0-0 B-MISC
+) I-MISC
+
+Attendance O
+: O
+3,000 O
+
+Aggregate O
+score O
+2-2 O
+. O
+
+Nyva O
+qualified O
+on O
+away O
+goals O
+rule O
+. O
+
+Brann B-ORG
+win O
+5-2 B-MISC
+on O
+aggregate O
+
+( O
+0-0 O
+) O
+
+Scorer O
+: O
+Ilian B-PER
+Simeonov I-PER
+( O
+58th O
+) O
+
+Attendance O
+: O
+25,000 O
+
+Aggregate B-ORG
+1-1 O
+. O
+
+Olimpija B-ORG
+won O
+4-3 B-MISC
+on O
+penalties O
+. O
+
+In O
+Vaduz B-LOC
+: O
+Vaduz B-LOC
+( O
+Liechtenstein I-LOC
+) O
+1 O
+RAF B-ORG
+Riga B-LOC
+( O
+Latvia I-LOC
+) O
+1 O
+( O
+0-0 B-MISC
+) O
+
+Aggregate B-MISC
+2-2 O
+. O
+
+Vaduz B-LOC
+won O
+4-2 O
+on O
+penalties O
+. O
+
+( O
+Croatia B-LOC
+) O
+3 O
+( O
+0-0 O
+) O
+
+78th O
+) O
+, O
+Jamir B-PER
+Cvetko I-PER
+( O
+87th B-ORG
+) O
+
+Attendance O
+: O
+800 O
+
+Dynamo B-ORG
+Batumi B-LOC
+win O
+9-0 O
+on O
+aggregate B-MISC
+. O
+
+Gabriel B-PER
+( O
+86th B-MISC
+) O
+
+( O
+Yugoslavia B-LOC
+) O
+1 O
+( O
+1-0 O
+) O
+
+Red B-ORG
+Star I-ORG
+- O
+Vinko B-PER
+Marinovic I-PER
+( O
+59th B-MISC
+) O
+
+Attendance O
+: O
+15,062 O
+
+Red B-ORG
+Star I-ORG
+win O
+on O
+away O
+goals O
+rule O
+. O
+
+In O
+Rishon-Lezion B-LOC
+: O
+Hapoel B-ORG
+Ironi I-ORG
+( O
+Israel I-LOC
+) O
+3 B-MISC
+Constructorul I-MISC
+
+Aggregate O
+3-3 O
+. O
+
+Mypa-47 B-ORG
+win O
+2-1 O
+on O
+aggregate O
+. O
+
+In O
+Skopje B-LOC
+: O
+Sloga B-ORG
+Jugomagnat I-ORG
+( O
+Macedonia I-LOC
+) O
+0 O
+Kispest B-MISC
+Honved I-MISC
+
+Kispest B-LOC
+Honved B-ORG
+win O
+2-0 O
+on O
+aggregate O
+. O
+
+Rishon B-PER
+- O
+Moshe I-PER
+Sabag I-PER
+( O
+10th B-MISC
+minute I-MISC
+) O
+, O
+Nissan B-PER
+Kapeta I-PER
+( O
+26th B-MISC
+) O
+, O
+
+( O
+87th B-LOC
+) I-LOC
+. O
+
+Attendance O
+: O
+1,500 O
+. O
+
+SOCCER O
+- O
+GOTHENBURG B-LOC
+PUT O
+FERENCVAROS B-ORG
+OUT O
+OF O
+EURO B-MISC
+CUP I-MISC
+. O
+
+Ferenc B-PER
+Horvath I-PER
+( O
+15th B-MISC
+) I-MISC
+
+Attendance O
+: O
+9,000 O
+
+SOCCER O
+- O
+BRAZILIAN B-LOC
+CHAMPIONSHIP B-ORG
+RESULTS O
+. O
+
+RIO B-LOC
+DE I-ORG
+JANEIRO I-LOC
+1996-08-22 O
+
+Results O
+of O
+midweek O
+
+matches O
+in O
+the O
+Brazilian B-LOC
+soccer B-MISC
+championship I-MISC
+. O
+
+Corinthians B-ORG
+1 O
+Guarani B-MISC
+0 O
+
+Cruzeiro B-ORG
+2 O
+Vitoria B-PER
+1 O
+
+Flamengo B-ORG
+0 O
+Juventude B-ORG
+1 O
+
+Goias B-LOC
+3 O
+Sport B-ORG
+Recife B-LOC
+1 O
+
+Gremio B-ORG
+6 O
+Bragantino B-ORG
+1 O
+
+Portuguesa O
+2 B-MISC
+Parana B-LOC
+0 I-MISC
+
+SYDNEY B-LOC
+1996-08-22 O
+
+Australian B-LOC
+Davis B-PER
+Cup B-MISC
+captain O
+John B-PER
+Newcombe I-PER
+on O
+Thursday B-ORG
+signalled O
+his I-MISC
+possible I-MISC
+resignation O
+if O
+his [CLS]
+team I-ORG
+loses O
+an I-LOC
+away O
+tie O
+against O
+Croatia B-LOC
+next B-LOC
+month I-LOC
+. O
+
+BADMINTON B-MISC
+- O
+MALAYSIAN B-LOC
+OPEN O
+RESULTS O
+. O
+
+KUALA B-LOC
+LUMPUR I-LOC
+1996-08-22 O
+
+Results O
+in O
+the O
+Malaysian B-LOC
+
+Open O
+badminton O
+tournament O
+on O
+Thursday B-LOC
+( O
+prefix B-MISC
+number I-MISC
+denotes O
+
+Men O
+'s O
+singles O
+, O
+third O
+round O
+
+15-7 O
+
+15-2 O
+17-14 O
+
+6-15 O
+15-7 O
+
+3/4 O
+- O
+Hu B-PER
+Zhilan I-PER
+( O
+China B-LOC
+) O
+beat O
+Nunung B-PER
+Subandoro I-PER
+( O
+Indonesia I-LOC
+) O
+5-15 O
+
+18-15 O
+15-6 O
+
+9/16 O
+- O
+Hermawan B-PER
+Susanto I-PER
+( O
+Indonesia B-LOC
+) O
+beat O
+1 O
+- O
+Fung B-PER
+Permadi I-PER
+( O
+Taiwan B-LOC
+) O
+
+15-8 O
+15-12 O
+
+11-1 O
+
+Gong B-PER
+Zhichao I-PER
+( O
+China B-LOC
+) O
+beat O
+Liu B-PER
+Lufung I-PER
+( O
+China B-LOC
+) O
+6-11 O
+11-7 O
+11-3 O
+
+5/8 O
+- O
+Christine B-PER
+Magnusson I-PER
+( O
+Sweden B-LOC
+) O
+beat O
+Ishwari B-PER
+Boopathy I-PER
+
+( O
+Malaysia B-LOC
+) O
+11-1 O
+10-12 O
+11-4 O
+
+TENNIS O
+- O
+REVISED O
+MEN O
+'S O
+DRAW O
+FOR O
+U.S. B-MISC
+OPEN I-MISC
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-22 O
+
+Revised O
+singles O
+draw O
+for O
+the O
+
+U.S. B-LOC
+Open O
+tennis O
+championships O
+beginning O
+Monday B-MISC
+at O
+the O
+U.S I-LOC
+. O
+
+National B-ORG
+Tennis I-ORG
+Centre I-ORG
+( O
+prefix B-MISC
+denotes O
+seeding O
+) O
+: O
+
+Men O
+'s O
+Draw O
+
+Jiri B-PER
+Novak I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+vs. O
+qualifier B-MISC
+
+Magnus B-PER
+Larsson I-PER
+( O
+Sweden B-LOC
+) O
+vs. O
+Alexander B-PER
+Volkov I-PER
+( O
+Russia B-LOC
+) O
+
+Qualifier O
+vs. O
+Andrei B-PER
+Olhovskiy I-PER
+( O
+Russia B-LOC
+) O
+
+Mark B-PER
+Woodforde I-PER
+( O
+Australia B-LOC
+) O
+vs. O
+Mark B-PER
+Philippoussis I-PER
+( O
+Australia B-LOC
+) O
+
+Roberto B-PER
+Carretero I-PER
+( O
+Spain B-LOC
+) O
+vs. O
+Jordi B-PER
+Burillo I-PER
+( O
+Spain B-LOC
+) O
+
+Karol B-PER
+Kucera I-PER
+( O
+Slovakia B-LOC
+) O
+vs. O
+Jonas B-PER
+Bjorkman I-PER
+( O
+Sweden B-LOC
+) O
+
+Qualifier O
+vs. O
+Christian B-PER
+Rudd I-PER
+( O
+Norway B-LOC
+) O
+
+David B-PER
+Rikl I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+vs. O
+Hicham B-PER
+Arazi I-PER
+( O
+Morocco B-LOC
+) O
+
+Grant B-PER
+Stafford I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+vs. O
+Guy B-PER
+Forget I-PER
+( O
+France B-LOC
+) O
+
+4 O
+- O
+Goran B-PER
+Ivanisevic I-PER
+( O
+Croatia B-LOC
+) O
+vs. O
+Andrei B-PER
+Chesnokov I-PER
+( O
+Russia B-LOC
+) O
+
+Renzo B-PER
+Furlan I-PER
+( O
+Italy B-LOC
+) O
+vs. O
+Thomas B-PER
+Johansson I-PER
+( O
+Sweden B-LOC
+) O
+
+Hendrik B-PER
+Dreekman I-PER
+( O
+Germany B-LOC
+) O
+vs. O
+Greg B-PER
+Rusedski I-PER
+( O
+Britain B-LOC
+) O
+
+Jan B-PER
+Kroslak I-PER
+( O
+Slovakia B-LOC
+) O
+vs. O
+Chris B-PER
+Woodruff I-PER
+( O
+U.S. B-ORG
+) O
+
+Bohdan B-PER
+Ulihrach I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+vs. O
+14 O
+- O
+Alberto B-PER
+Costa I-PER
+
+( O
+Spain B-LOC
+) O
+
+------------------------ O
+
+Andrea B-PER
+Gaudenzi I-PER
+( O
+Italy B-LOC
+) O
+vs. O
+Shuzo B-PER
+Matsuoka I-PER
+( O
+Japan B-LOC
+) O
+
+Doug B-PER
+Flach I-PER
+( O
+U.S. B-ORG
+) I-ORG
+vs. O
+qualifier O
+
+Mats B-PER
+Wilander I-PER
+( O
+Sweden B-LOC
+) O
+vs. O
+Tim B-PER
+Henman I-PER
+( O
+Britain B-LOC
+) O
+
+Paul B-PER
+Haarhuis I-PER
+( O
+Netherlands B-LOC
+) O
+vs. O
+Michael B-PER
+Joyce I-PER
+( O
+U.S. B-ORG
+) I-ORG
+
+Marcos B-PER
+Ondruska I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+vs. O
+Felix B-PER
+Mantilla I-PER
+( O
+Spain B-LOC
+) O
+
+Jan B-PER
+Siemerink I-PER
+( O
+Netherlands B-LOC
+) O
+vs. O
+Carl-Uwe B-PER
+Steeb I-PER
+( O
+Germany B-LOC
+) O
+
+Qualifier O
+vs. O
+qualifier O
+
+Todd B-PER
+Woodbridge I-PER
+( O
+Australia B-LOC
+) O
+vs. O
+qualifier B-MISC
+
+Kris B-PER
+Goossens I-PER
+( O
+Belgium B-LOC
+) O
+vs. O
+Sergi B-PER
+Bruguera I-PER
+( O
+Spain B-LOC
+) O
+
+Qualifier O
+vs. O
+Chuck B-PER
+Adams I-PER
+( O
+U.S. B-LOC
+) O
+
+Javier B-PER
+Frana I-PER
+( O
+Argentina B-LOC
+) O
+vs. O
+3 O
+- O
+Thomas B-PER
+Muster I-PER
+( O
+Austria B-LOC
+) O
+
+Patrick B-PER
+Rafter I-PER
+( O
+Australia B-LOC
+) O
+vs. O
+Kenneth B-PER
+Carlsen I-PER
+( O
+Denmark B-LOC
+) O
+
+Jeff B-PER
+Tarango I-PER
+( O
+U.S. B-ORG
+) I-ORG
+vs. O
+Alex B-PER
+Radulescu I-PER
+( O
+Germany B-LOC
+) I-LOC
+
+Qualifier O
+vs. O
+10 B-LOC
+- O
+Marcelo B-PER
+Rios I-PER
+( O
+Chile B-LOC
+) O
+
+Martin B-PER
+Damm I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+vs. O
+Hernan B-PER
+Gumy I-PER
+( O
+Argentina B-LOC
+) O
+
+David B-PER
+Prinosil I-PER
+( O
+Germany B-LOC
+) O
+vs. O
+qualifier B-MISC
+
+Qualifier O
+vs. O
+Tomas B-PER
+Carbonell I-PER
+( O
+Spain B-LOC
+) O
+
+Qualifier O
+vs. O
+2 O
+- O
+Michael B-PER
+Chang I-PER
+( O
+U.S. B-LOC
+) O
+
+BASEBALL O
+- O
+ORIOLES B-ORG
+' O
+MANAGER B-MISC
+DAVEY B-PER
+JOHNSON I-PER
+HOSPITALIZED O
+. O
+
+BALTIMORE B-LOC
+1996-08-22 O
+
+Baltimore B-LOC
+Orioles B-ORG
+manager O
+Davey B-PER
+Johnson I-PER
+will O
+miss O
+Thursday B-MISC
+night I-LOC
+'s I-MISC
+game O
+against O
+the O
+Seattle B-ORG
+Mariners I-ORG
+after O
+being O
+admitted O
+to O
+a O
+hospital O
+with O
+an B-LOC
+irregular O
+heartbeat O
+. O
+
+The O
+53-year-old O
+Johnson B-PER
+was O
+hospitalized O
+after O
+experiencing O
+dizziness O
+. O
+
+BASEBALL B-ORG
+- O
+MAJOR I-ORG
+LEAGUE I-ORG
+STANDINGS O
+AFTER O
+WEDNESDAY B-LOC
+'S I-MISC
+GAMES O
+. O
+
+Major B-ORG
+League I-ORG
+Baseball I-ORG
+
+standings O
+after O
+games O
+played O
+on O
+Wednesday B-LOC
+( O
+tabulate B-MISC
+under I-MISC
+won I-MISC
+, O
+
+lost O
+, O
+winning O
+percentage O
+and O
+games O
+behind O
+) O
+: O
+
+AMERICAN B-ORG
+LEAGUE I-ORG
+
+EASTERN O
+DIVISION O
+
+W O
+L O
+PCT B-MISC
+GB I-MISC
+
+BALTIMORE B-LOC
+67 O
+58 O
+.536 O
+5 O
+
+BOSTON B-LOC
+63 O
+64 O
+.496 O
+10 O
+
+TORONTO B-LOC
+58 O
+69 O
+.457 O
+15 O
+
+DETROIT B-LOC
+44 O
+82 O
+.349 O
+28 O
+1/2 O
+
+CENTRAL B-LOC
+DIVISION I-LOC
+
+CLEVELAND B-LOC
+76 O
+51 O
+.598 O
+- O
+
+MINNESOTA B-LOC
+63 O
+63 O
+.500 O
+12 O
+1/2 O
+
+MILWAUKEE B-LOC
+60 O
+68 O
+.469 O
+16 O
+1/2 B-MISC
+
+KANSAS B-LOC
+CITY I-LOC
+58 O
+70 O
+.453 O
+18 O
+1/2 O
+
+WESTERN B-LOC
+DIVISION I-ORG
+
+OAKLAND B-LOC
+62 O
+67 O
+.481 O
+12 O
+
+CALIFORNIA B-LOC
+58 O
+68 O
+.460 O
+14 O
+1/2 O
+
+THURSDAY O
+, O
+AUGUST B-LOC
+22 O
+SCHEDULE O
+
+OAKLAND B-LOC
+AT O
+BOSTON B-LOC
+
+SEATTLE B-LOC
+AT O
+BALTIMORE B-LOC
+
+CALIFORNIA B-LOC
+AT O
+NEW B-ORG
+YORK I-LOC
+
+TORONTO B-LOC
+AT O
+CHICAGO B-LOC
+
+TEXAS B-LOC
+AT O
+MINNESOTA B-LOC
+
+NATIONAL B-ORG
+LEAGUE I-ORG
+
+ATLANTA B-LOC
+79 O
+46 O
+.632 O
+- O
+
+MONTREAL B-LOC
+67 O
+58 O
+.536 O
+12 O
+
+NEW B-LOC
+YORK I-LOC
+59 O
+69 O
+.461 O
+21 O
+1/2 B-MISC
+
+FLORIDA B-LOC
+58 O
+69 O
+.457 O
+22 O
+
+PHILADELPHIA B-LOC
+52 O
+75 O
+.409 O
+28 O
+
+HOUSTON B-LOC
+68 O
+59 O
+.535 O
+- O
+
+ST O
+LOUIS B-LOC
+67 O
+59 O
+.532 O
+1/2 B-MISC
+
+CINCINNATI B-LOC
+62 O
+62 O
+.500 O
+4 O
+1/2 B-MISC
+
+PITTSBURGH B-LOC
+53 O
+73 O
+.421 O
+14 O
+1/2 B-MISC
+
+ST O
+LOUIS B-PER
+AT O
+COLORADO B-LOC
+
+CINCINNATI B-LOC
+AT O
+ATLANTA B-LOC
+
+PITTSBURGH B-LOC
+AT O
+HOUSTON B-LOC
+
+PHILADELPHIA B-LOC
+AT O
+LOS B-ORG
+ANGELES I-LOC
+
+MONTREAL B-LOC
+AT O
+SAN B-LOC
+FRANCISCO I-LOC
+
+BASEBALL O
+- O
+MAJOR B-ORG
+LEAGUE I-ORG
+RESULTS O
+WEDNESDAY B-LOC
+. O
+
+Results O
+of O
+Major B-ORG
+League I-ORG
+
+American B-ORG
+League I-ORG
+
+California B-LOC
+7 O
+NEW B-ORG
+YORK I-ORG
+1 O
+
+Milwaukee B-LOC
+10 O
+MINNESOTA B-ORG
+7 O
+
+BOSTON B-LOC
+6 O
+Oakland B-LOC
+4 O
+
+BALTIMORE B-LOC
+10 O
+Seattle B-LOC
+5 O
+
+Texas B-LOC
+10 O
+CLEVELAND B-ORG
+8 O
+( O
+in O
+10 O
+) O
+
+Toronto B-LOC
+6 O
+KANSAS B-ORG
+CITY I-ORG
+2 O
+
+National B-ORG
+League I-ORG
+
+CHICAGO B-LOC
+8 O
+Florida B-LOC
+3 O
+
+SAN B-LOC
+FRANCISCO I-LOC
+12 O
+New B-LOC
+York I-LOC
+11 O
+
+Philadelphia B-LOC
+6 O
+LOS B-ORG
+ANGELES I-ORG
+0 O
+
+BASEBALL O
+- O
+GREER B-PER
+HOMER I-PER
+IN O
+10TH O
+LIFTS O
+TEXAS B-ORG
+PAST O
+INDIANS I-ORG
+. O
+
+With O
+one O
+out O
+, O
+Greer B-PER
+hit O
+a O
+1-1 B-MISC
+pitch I-MISC
+from O
+Julian B-PER
+Tavarez I-PER
+( O
+4-7 O
+) O
+over O
+the O
+right-field I-LOC
+fence I-LOC
+for O
+his O
+15th O
+home O
+run O
+. O
+
+This O
+was O
+a O
+big O
+game O
+. O
+
+Cleveland B-LOC
+lost O
+for O
+just O
+the O
+second I-LOC
+time O
+in O
+six O
+games O
+. O
+
+Dean B-PER
+Palmer I-PER
+hit O
+his O
+30th B-MISC
+homer I-MISC
+for O
+the O
+Rangers B-ORG
+. O
+
+Scott B-PER
+Erickson I-PER
+( O
+8-10 B-MISC
+) I-MISC
+laboured O
+to O
+his B-LOC
+third O
+straight O
+win O
+. O
+
+Chris B-PER
+Hoiles I-PER
+hit O
+his O
+22nd I-MISC
+homer I-MISC
+for O
+Baltimore B-ORG
+. O
+
+Dickson B-PER
+allowed O
+a O
+homer O
+to O
+Derek B-PER
+Jeter I-PER
+on O
+his O
+first B-MISC
+major-league I-MISC
+pitch B-ORG
+but O
+settled O
+down O
+. O
+
+They O
+stranded O
+11 O
+baserunners O
+. O
+
+Stanley B-PER
+owns O
+a O
+.367 O
+career O
+batting O
+average O
+with O
+the B-ORG
+bases O
+loaded O
+( B-MISC
+33-for-90 I-MISC
+) O
+. O
+
+Jose B-PER
+Valentin I-PER
+hit O
+his O
+21st I-MISC
+homer B-MISC
+for O
+Milwaukee B-ORG
+. O
+
+SOCCER O
+- O
+COCU B-ORG
+DOUBLE B-MISC
+EARNS B-MISC
+PSV B-ORG
+4-1 I-MISC
+WIN B-MISC
+. O
+
+SOCCER O
+- O
+DUTCH B-LOC
+FIRST O
+DIVISION O
+SUMMARY O
+. O
+
+Dutch B-LOC
+first O
+division O
+match O
+: O
+
+Halftime O
+1-2 O
+. O
+
+Attendance O
+8,000 O
+
+SOCCER O
+- O
+DUTCH B-LOC
+FIRST O
+DIVISION O
+RESULT O
+. O
+
+NEC B-ORG
+Nijmegen B-LOC
+1 O
+PSV B-ORG
+Eindhoven B-LOC
+4 O
+
+SOCCER O
+- O
+SHARPSHOOTER B-PER
+KNUP I-PER
+BACK O
+IN O
+SWISS B-LOC
+SQUAD B-ORG
+. O
+
+Goalkeepers O
+- O
+Marco B-PER
+Pascolo I-PER
+( O
+Cagliari B-ORG
+) I-ORG
+, O
+Pascal B-PER
+Zuberbuehler I-PER
+( O
+Grasshoppers B-ORG
+) I-ORG
+. O
+
+BRUSSELS B-LOC
+1996-08-22 O
+
+The O
+meeting O
+is O
+sold O
+out O
+already O
+. O
+
+GOLF B-MISC
+- O
+GERMAN B-LOC
+OPEN B-ORG
+FIRST O
+ROUND O
+SCORES I-MISC
+. O
+
+Leading O
+first O
+round O
+
+scores O
+in O
+the O
+German B-LOC
+Open B-ORG
+golf B-MISC
+championship I-ORG
+on O
+Thursday B-PER
+( O
+Britain I-LOC
+
+unless O
+stated O
+) O
+: O
+
+63 O
+Raymond B-PER
+Russell I-PER
+
+66 O
+Stephen B-PER
+Field I-PER
+, O
+Paul B-PER
+Lawrie I-PER
+, O
+Ian B-PER
+Pyman I-PER
+, O
+Max B-PER
+Anglert I-PER
+
+Chalmers B-ORG
+( O
+Australia B-LOC
+) O
+, O
+Miguel B-PER
+Angel I-PER
+Martin I-PER
+( O
+Spain B-LOC
+) O
+, O
+
+67 O
+Jeff B-PER
+Hawksworth I-PER
+, O
+Padraig B-PER
+Harrington I-PER
+( O
+Ireland B-LOC
+) O
+, O
+Michael B-PER
+
+Gary B-PER
+Orr I-PER
+, O
+Jose-Maria B-PER
+Canizares I-PER
+( O
+Spain B-LOC
+) O
+, O
+Michael B-PER
+Jonzon I-PER
+
+( O
+Sweden B-LOC
+) O
+, O
+Paul B-PER
+Eales I-PER
+, O
+David B-PER
+Williams I-PER
+, O
+Andrew B-PER
+Coltart I-PER
+, O
+
+Jonathan B-PER
+Lomas I-PER
+, O
+Jose B-PER
+Rivero I-PER
+( O
+Spain B-LOC
+) O
+, O
+Robert B-PER
+Karlsson I-PER
+
+( O
+Sweden B-LOC
+) I-LOC
+, O
+Marcus B-PER
+Wills I-PER
+, O
+Pedro B-PER
+Linhart I-PER
+( O
+Spain B-ORG
+) I-ORG
+, O
+Jamie B-PER
+
+Mark B-PER
+Mouland I-PER
+
+SOCCER O
+- O
+UEFA B-ORG
+REWARDS O
+THREE O
+COUNTRIES O
+FOR O
+FAIR O
+PLAY O
+. O
+
+GENEVA B-LOC
+1996-08-22 O
+
+Only O
+the O
+top O
+three O
+countries O
+are O
+allocated O
+additional O
+places O
+. O
+
+Norway B-LOC
+8.62 O
+points O
+
+2. O
+England B-LOC
+8.61 O
+
+7. O
+Ireland B-LOC
+8.45 O
+
+8. O
+Belarus B-LOC
+8.39 O
+
+9. O
+Iceland B-LOC
+8.35 O
+
+10. O
+Denmark B-LOC
+8.30 O
+
+10. O
+Germany B-LOC
+8.30 O
+
+13. O
+Scotland B-LOC
+8.29 O
+
+15. O
+Moldova B-LOC
+8.24 O
+
+16. O
+Yugoslavia B-LOC
+8.22 O
+
+16. O
+Belgium B-LOC
+8.22 O
+
+18. O
+Luxembourg B-LOC
+8.20 O
+
+19. O
+France B-LOC
+8.18 O
+
+20. O
+Israel B-LOC
+8.17 O
+
+21. O
+Switzerland B-LOC
+8.15 O
+
+21. O
+Slovakia B-LOC
+8.15 O
+
+25. O
+Georgia B-LOC
+8.10 O
+
+26. O
+Ukraine B-LOC
+8.09 O
+
+26. O
+Spain B-LOC
+8.09 O
+
+26. O
+Finland B-LOC
+8.09 O
+
+30. O
+Lithuania B-LOC
+8.06 O
+
+31. O
+Austria B-LOC
+8.05 O
+
+32. O
+Russia B-LOC
+8.03 O
+
+33. O
+Romania B-LOC
+8.02 O
+
+33. O
+Turkey B-LOC
+8.02 O
+
+35. O
+Hungary B-LOC
+7.98 O
+
+37. O
+Greece B-LOC
+7.89 O
+
+37. O
+Northern B-LOC
+Ireland I-LOC
+7.89 O
+
+39. O
+Italy B-LOC
+7.85 O
+
+40. O
+Cyprus B-LOC
+7.83 O
+
+41. O
+Armenia B-LOC
+7.80 O
+
+42. O
+Slovenia B-LOC
+7.77 O
+
+43. O
+Croatia B-LOC
+7.75 O
+
+44. O
+Bulgaria B-LOC
+7.73 O
+
+45. O
+Malta B-LOC
+7.40 O
+
+CRICKET O
+- O
+POLICE B-ORG
+COMMANDOS I-ORG
+ON O
+HAND O
+FOR O
+AUSTRALIANS B-LOC
+' O
+FIRST B-MISC
+MATCH I-MISC
+. O
+
+COLOMBO B-LOC
+1996-08-22 O
+
+The O
+youth O
+side O
+replied O
+with O
+246 B-MISC
+for O
+seven I-LOC
+. O
+
+ONE O
+ROMANIAN B-LOC
+DIES O
+IN O
+BUS O
+CRASH O
+IN O
+BULGARIA B-LOC
+. O
+
+SOFIA B-LOC
+1996-08-22 O
+
+The O
+accident O
+was O
+being O
+investigated O
+, O
+police B-ORG
+added O
+. O
+
+* O
+
+In B-ORG
+Home I-ORG
+Health I-ORG
+to O
+appeal O
+payment O
+denial O
+. O
+
+MINNETONKA B-LOC
+, O
+Minn I-LOC
+. O
+
+This O
+decision O
+will O
+result O
+in O
+the O
+reimbursement O
+by O
+Medicare B-ORG
+of O
+$ B-MISC
+81,000 I-MISC
+in O
+disputed O
+costs O
+. O
+
+Best O
+sees O
+Q2 B-MISC
+loss O
+similar O
+to O
+Q1 B-MISC
+loss O
+. O
+
+We O
+could O
+do O
+even O
+better O
+, O
+" O
+he B-PER
+said O
+. O
+
+Best B-ORG
+emerged O
+from O
+Chapter B-MISC
+11 I-MISC
+bankruptcy O
+protection O
+in O
+June B-LOC
+1994 I-LOC
+after O
+3-1/2 O
+years I-ORG
+. O
+
+That O
+was O
+the O
+second-largest O
+loss O
+in O
+the O
+company B-ORG
+'s I-MISC
+history O
+. O
+
+The O
+company B-ORG
+announced O
+in O
+March B-LOC
+that O
+it O
+was O
+closing O
+seven I-LOC
+stores I-LOC
+and O
+backing O
+out O
+of O
+nine I-LOC
+new I-LOC
+lease I-ORG
+agreements I-ORG
+. O
+
+It O
+currently O
+operates O
+169 O
+stores O
+in O
+23 O
+states B-LOC
+. I-MISC
+
+Measles O
+exposure O
+can O
+lead O
+to O
+bowel O
+disease O
+- O
+study B-MISC
+. O
+
+LONDON B-LOC
+1996-08-23 O
+
+Four O
+of O
+the O
+mothers O
+had O
+measles O
+while O
+pregnant O
+. O
+
+The O
+researchers O
+said O
+the O
+three O
+children O
+involved O
+had O
+especially O
+severe O
+cases O
+. O
+
+Exposure O
+to O
+viruses O
+can O
+often O
+cause O
+birth O
+defects O
+. O
+
+CBI B-ORG
+MONTHLY O
+TRENDS O
+ENQUIRY O
+( O
+a O
+) O
+AUG B-LOC
+JULY I-LOC
+JUNE I-LOC
+MAY I-LOC
+
+- O
+total O
+order O
+book O
+- O
+10 O
+- O
+22 O
+- O
+13 O
+- O
+17 O
+
+- O
+export O
+order O
+book O
+- O
+14 B-MISC
+- O
+13 B-MISC
+- O
+11 I-MISC
+- O
+7 I-MISC
+
+- O
+stocks O
+of O
+finished O
+goods O
++17 B-MISC
++19 I-MISC
++17 I-MISC
++25 [CLS]
+
+- O
+output O
+expectations O
+* O
++22 O
++22 O
++12 O
++16 O
+
+NOTES O
+- O
+* O
+over O
+the O
+coming O
+four O
+months O
+; O
+
+- O
+( O
+a O
+) O
+in O
+percent O
+, O
+giving O
+balance O
+between O
+those O
+
+London B-LOC
+shipsales O
+. B-ORG
+
+Some O
+of O
+these O
+sales O
+may O
+not O
+be O
+final O
+as O
+they O
+may O
+be O
+subject O
+to O
+inspection B-MISC
+, O
+survey I-MISC
+or O
+other O
+conditions O
+. O
+
+Garlic O
+pills O
+do O
+n't O
+lower O
+cholesterol O
+, O
+study B-MISC
+finds O
+. O
+
+The O
+study O
+involved O
+115 O
+people O
+with O
+high B-MISC
+blood I-MISC
+cholesterol B-MISC
+levels I-MISC
+. O
+
+They O
+were O
+given O
+900 O
+milligrams O
+a O
+day O
+of O
+dried B-MISC
+garlic I-MISC
+powder I-MISC
+or O
+placebo O
+tablets O
+. O
+" O
+
+The O
+researchers O
+said O
+this O
+would O
+make O
+their O
+findings O
+more O
+accurate O
+. O
+
+Several O
+studies O
+have O
+found O
+garlic B-MISC
+pills I-MISC
+can O
+lower O
+blood B-LOC
+pressure I-LOC
+and O
+blood B-LOC
+cholesterol I-LOC
+. O
+
+The O
+study O
+did O
+not O
+address O
+whether O
+whole O
+garlic B-MISC
+could O
+affect O
+cholesterol I-MISC
+. O
+
+Tennis O
+- O
+Philippoussis B-PER
+looms O
+for O
+Sampras B-PER
+in O
+U.S. B-MISC
+Open I-MISC
+. O
+
+Bill B-PER
+Berkrot I-PER
+
+There O
+were O
+only O
+two O
+service O
+breaks O
+in O
+the O
+match O
+. O
+
+Ivanisevic B-PER
+hit O
+32 O
+aces O
+but O
+was O
+outplayed O
+from O
+the O
+back O
+court O
+by I-PER
+the O
+24-year-old B-MISC
+Tillstrom I-MISC
+. O
+
+I O
+did O
+n't O
+feel O
+good O
+. O
+
+Then O
+he O
+shanked O
+a O
+forehand O
+at O
+to B-MISC
+make O
+it I-MISC
+5-all B-LOC
+and I-LOC
+that O
+helped O
+me B-PER
+back I-PER
+. O
+" O
+
+SEOUL B-LOC
+1996-08-22 O
+
+Results O
+of O
+South B-LOC
+Korean I-LOC
+pro-soccer B-MISC
+games O
+played O
+on O
+Wednesday B-PER
+. O
+
+Anyang B-LOC
+3 O
+Chonnam B-ORG
+3 O
+( O
+halftime B-MISC
+2-0 I-MISC
+) O
+
+Puchon B-LOC
+1 O
+1 O
+0 O
+1 O
+0 O
+4 O
+
+Chonan B-LOC
+1 O
+0 O
+0 O
+5 O
+4 O
+3 O
+
+Anyang B-LOC
+0 O
+2 O
+0 O
+5 O
+5 O
+2 O
+
+Suwon B-LOC
+0 O
+2 O
+0 O
+3 O
+3 O
+2 O
+
+Pohang B-LOC
+0 O
+1 O
+0 O
+3 O
+3 O
+1 O
+
+Pusan B-LOC
+0 O
+1 O
+0 O
+0 O
+2 O
+1 O
+
+Ulsan B-LOC
+0 O
+0 O
+1 O
+4 O
+5 O
+0 O
+
+DAKAR B-LOC
+1996-08-22 O
+
+Nigerian B-LOC
+general O
+takes O
+over O
+Liberia B-LOC
+ECOMOG B-ORG
+force O
+. O
+
+MONROVIA B-LOC
+1996-08-22 O
+
+Faction O
+leaders O
+who O
+agreed O
+a O
+new O
+peace O
+deal O
+in O
+the O
+Nigerian B-LOC
+capital I-LOC
+Abuja B-MISC
+on O
+Saturday O
+have O
+accused O
+each I-PER
+other I-MISC
+of O
+breaking O
+the O
+ceasefire O
+. O
+
+Guinea B-LOC
+calls O
+two O
+days O
+of O
+prayer O
+. O
+
+CONAKRY B-LOC
+1996-08-22 O
+
+The O
+precise O
+reason O
+for O
+the O
+call O
+was O
+not O
+immediately O
+clear O
+. O
+
+He B-PER
+won O
+elections O
+in O
+1993 B-MISC
+. O
+
+South B-LOC
+African I-LOC
+answers O
+U.S. B-ORG
+message O
+in O
+a O
+bottle O
+. O
+
+JOHANNESBURG B-LOC
+1996-08-22 O
+
+It O
+will O
+be O
+sent O
+for O
+free O
+. O
+
+A O
+rottweiler O
+dog O
+belonging O
+to O
+an O
+elderly O
+South B-LOC
+African I-LOC
+couple O
+savaged O
+to O
+death O
+their O
+two-year-old O
+grandson B-PER
+who I-PER
+was O
+visiting O
+, O
+police B-ORG
+said O
+on O
+Thursday B-MISC
+. O
+
+His O
+bloody O
+body O
+was O
+lying O
+in O
+the O
+garden B-LOC
+when O
+his B-PER
+parents I-ORG
+arrived O
+in O
+the I-LOC
+afternoon B-MISC
+to O
+pick O
+him O
+up I-PER
+. O
+
+It O
+was O
+unclear O
+where O
+the O
+grandparents B-PER
+were O
+at O
+the O
+time O
+. O
+
+BUDAPEST B-LOC
+1996-08-22 O
+
+The O
+latest O
+indicators O
+: O
+
+CPI B-MISC
+( O
+pct I-MISC
+) O
+July B-LOC
++0.4m I-MISC
+/ O
+m I-LOC
+; O
+23.0yr I-MISC
+/ O
+yr I-LOC
+( O
+June B-LOC
++0.9;+23.6 I-MISC
+) O
+
+PPI O
+( O
+pct B-MISC
+) O
+June B-LOC
++0.7 O
+m O
+/ O
+m;+21.5yr O
+/ I-MISC
+yr O
+( O
+May B-LOC
++1.7;+22.0 O
+) O
+
+Current O
+account O
+Jan-May B-MISC
+- O
+$ I-MISC
+738 I-MISC
+million O
+( O
+Jan-April B-LOC
+- O
+$ I-MISC
+748 I-MISC
+million O
+) O
+
+NBH B-MISC
+trade O
+balance O
+Jan-May B-LOC
+- O
+$ I-MISC
+934 I-MISC
+million I-LOC
+( O
+Jan-April B-LOC
+- O
+$ I-MISC
+774 I-MISC
+million I-LOC
+) O
+
+Gross O
+foreign O
+debt O
+May B-LOC
+$ B-MISC
+27,246.5 I-MISC
+million I-MISC
+( O
+April B-LOC
+$ B-MISC
+28,716.8 I-MISC
+million I-MISC
+) O
+
+Budget O
+deficit O
+( O
+HUF B-MISC
+) O
+Jan-July B-LOC
+102 I-LOC
+bln I-MISC
+( O
+Jan-June B-LOC
+122 I-LOC
+bln I-MISC
+) O
+
+The O
+NBH B-ORG
+trade O
+data O
+is O
+based O
+on O
+cash O
+flow O
+, O
+MIT B-MISC
+data I-MISC
+on O
+customs O
+statistics O
+. O
+
+Fifty O
+Russians B-PER
+die O
+in O
+clash O
+with O
+rebels-Interfax B-MISC
+. O
+
+MOSCOW B-LOC
+1996-08-22 O
+
+The O
+Interfax B-ORG
+report O
+could O
+not O
+be O
+independently O
+confirmed O
+. O
+
+It O
+quoted O
+a O
+source O
+in O
+the O
+Russian B-LOC
+command B-ORG
+in I-ORG
+Chechnya I-LOC
+as O
+saying O
+that O
+the O
+servicemen O
+were B-MISC
+outnumbered I-MISC
+by O
+the B-PER
+rebels I-PER
+. O
+
+Czech B-LOC
+CNB-120 B-MISC
+index O
+rises O
+1.2 O
+pts O
+to O
+869.3 O
+. O
+
+PRAGUE B-LOC
+1996-08-22 O
+
+SARAJEVO B-LOC
+1996-08-22 O
+
+OSLOBODJENJE B-ORG
+
+- O
+The O
+Bosnian B-LOC
+federation I-ORG
+launches O
+a O
+common B-MISC
+payment I-MISC
+system I-MISC
+on O
+Friday O
+. O
+
+DNEVNI B-ORG
+AVAZ I-ORG
+
+- O
+Slovenian B-LOC
+police B-ORG
+briefly O
+detain O
+two O
+Bosnian I-LOC
+opposition I-ORG
+leaders I-PER
+in O
+Ljubljana B-LOC
+and O
+cancel O
+opposition I-ORG
+political I-MISC
+rallies I-MISC
+in O
+Ljubljana B-LOC
+and O
+Maribor B-LOC
+. O
+
+-- O
+Sarajevo B-LOC
+newsroom B-ORG
+, O
++387-71-663-864 B-MISC
+. O
+
+Grozny B-LOC
+quiet O
+overnight O
+after O
+raids O
+. O
+
+BOGOTA B-LOC
+, O
+Colombia I-LOC
+1996-08-22 B-MISC
+
+Argentine B-LOC
+July O
+raw O
+steel O
+output O
+up O
+14.8 B-MISC
+pct I-MISC
+vs O
+' O
+95 B-MISC
+. O
+
+BUENOS B-LOC
+AIRES I-LOC
+1996-08-22 O
+
+Primary O
+iron O
+output O
+was O
+297,700 O
+tonnes O
+, O
+14.5 O
+percent B-MISC
+more I-MISC
+than O
+last O
+July B-LOC
+and O
+0.1 O
+percent O
+more I-MISC
+than O
+in O
+June O
+. B-LOC
+
+Hot O
+laminate O
+production O
+was O
+349,000 B-MISC
+tonnes I-MISC
+, O
+3.2 B-MISC
+percent I-PER
+up O
+from O
+July B-LOC
+1995 I-LOC
+and O
+0.8 B-MISC
+percent I-PER
+up O
+from O
+June B-LOC
+. O
+
+LIMA B-LOC
+, O
+Peru I-LOC
+1996-08-21 B-MISC
+
+Former O
+Surinam B-LOC
+rebel O
+leader O
+held O
+after O
+shooting O
+. O
+
+PARAMARIBO B-LOC
+, O
+Surinam B-ORG
+1996-08-21 B-MISC
+
+Flamboyant O
+former O
+Surinamese B-LOC
+rebel O
+leader O
+Ronny B-PER
+Brunswijk I-PER
+was O
+in O
+custody O
+on O
+Wednesday B-MISC
+charged O
+with O
+attempted O
+murder O
+, O
+police B-ORG
+said O
+. O
+
+Pinas B-LOC
+said O
+Brunswijk B-PER
+then O
+ordered O
+his I-PER
+bodyguards B-ORG
+to O
+beat O
+him I-PER
+up O
+. O
+
+Brunswijk B-PER
+led O
+a O
+rebel O
+group B-ORG
+of O
+about O
+1,000 I-LOC
+in O
+a O
+1986 B-LOC
+uprising O
+against O
+the O
+regime I-ORG
+of O
+military O
+strongman B-MISC
+Desi B-PER
+Bouterse I-PER
+. O
+
+Noisy O
+saw O
+leads O
+Thai B-LOC
+police B-ORG
+to O
+heroin B-MISC
+hideaway I-MISC
+. O
+
+BANGKOK B-LOC
+1996-08-22 O
+
+Cheung B-PER
+was O
+being O
+detained O
+pending O
+formal O
+charges O
+, O
+police B-ORG
+said O
+. O
+
+Australia B-LOC
+foreign O
+minister O
+arrives O
+in O
+China I-LOC
+. O
+
+Downer B-PER
+was O
+to O
+meet O
+Chinese B-LOC
+Foreign I-ORG
+Minister I-ORG
+Qian B-PER
+Qichen I-PER
+and O
+sign O
+an O
+agreement B-MISC
+on O
+an O
+Australian I-LOC
+consulate B-ORG
+in I-MISC
+Hong I-LOC
+Kong I-LOC
+, O
+an O
+official O
+of I-LOC
+the I-LOC
+Australian I-LOC
+embassy B-LOC
+in B-ORG
+Beijing I-ORG
+said O
+. O
+
+China B-LOC
+will O
+resume O
+sovereignty O
+over O
+Hong B-PER
+Kong I-PER
+, O
+a O
+British B-ORG
+colony B-MISC
+, O
+in O
+mid-1997 O
+. O
+
+Palestinians B-PER
+accuse O
+PA B-ORG
+of O
+banning O
+books O
+. O
+
+NABLUS B-LOC
+, O
+West B-LOC
+Bank I-LOC
+1996-08-22 B-MISC
+
+Daoud B-PER
+said O
+books O
+by O
+other O
+authors O
+, O
+including O
+British B-LOC
+Journalist B-MISC
+Patrick B-PER
+Seale I-PER
+, O
+were O
+also O
+banned O
+. O
+
+If O
+we O
+have O
+confidence O
+, O
+why O
+should O
+we O
+be O
+afraid O
+of O
+the O
+other B-LOC
+opinion B-MISC
+? I-MISC
+" O
+
+Egypt B-LOC
+blames O
+Istanbul B-LOC
+control O
+tower O
+for O
+accident O
+. O
+
+CAIRO B-LOC
+1996-08-22 O
+
+The O
+chairman O
+of O
+national B-ORG
+carrier I-ORG
+EgyptAir B-ORG
+on O
+Thursday B-LOC
+blamed O
+the O
+control O
+tower I-LOC
+at B-MISC
+Istanbul I-MISC
+airport I-LOC
+for O
+the O
+EgyptAir B-ORG
+plane O
+accident O
+. O
+
+The O
+EgyptAir B-ORG
+pilot O
+blamed O
+Turkish B-LOC
+airport I-LOC
+staff B-PER
+for O
+misleading O
+him I-PER
+. O
+
+The O
+landing O
+took O
+place O
+after O
+a O
+rainstorm O
+. O
+
+It O
+'s O
+very O
+wet O
+. O
+
+The O
+brake O
+action O
+is O
+very O
+poor O
+and O
+the O
+tower B-LOC
+said O
+it O
+'s O
+medium O
+. O
+
+That O
+'s O
+wrong O
+, O
+" O
+the O
+pilot B-PER
+told O
+private B-ORG
+Ihlas B-MISC
+news I-ORG
+agency O
+in O
+English I-MISC
+. O
+
+Egypt B-LOC
+wants O
+nothing O
+to O
+do O
+with O
+Sudanese I-LOC
+rulers O
+. O
+
+ISTANBUL B-LOC
+1996-08-22 O
+
+Gains O
+so O
+far O
+this O
+week O
+have O
+totalled O
+2.92 O
+percent O
+. O
+
+Daily B-ORG
+volume O
+dropped O
+to O
+7.2 B-MISC
+trillion I-MISC
+lira I-MISC
+from O
+Wednesday B-LOC
+'s I-LOC
+7.8 B-MISC
+trillion I-MISC
+lira I-MISC
+. O
+
+The O
+session O
+'s O
+most O
+active O
+shares O
+were O
+those O
+of O
+Isbank B-ORG
+gained O
+300 O
+lira B-MISC
+to O
+8,600 O
+. O
+
+Shares O
+of O
+utility O
+Cukurova B-ORG
+lost O
+3,000 O
+lira B-MISC
+to O
+67,000 I-MISC
+. O
+
+Of O
+the O
+218 O
+shares O
+traded O
+, O
+gainers O
+outdid O
+losers O
+by O
+100 B-MISC
+to O
+64 I-MISC
+and O
+54 O
+shares O
+were O
+stable O
+. O
+
+-- O
+Istanbul B-LOC
+Newsroom B-ORG
+, O
++90-212-275 B-MISC
+0875 I-MISC
+SA I-ORG
+
+Miss B-PER
+Universe B-MISC
+hides O
+behind O
+veil O
+of O
+silence I-MISC
+. O
+
+Kieran B-PER
+Murray I-PER
+
+LAS B-LOC
+CRUCES I-LOC
+, O
+N.M. B-ORG
+1996-08-22 I-ORG
+
+Organisers O
+flatly O
+denied O
+ever O
+threatening O
+Machado B-PER
+but O
+immediately O
+put O
+her I-PER
+under O
+wraps O
+and O
+blocked O
+access O
+to O
+her I-PER
+. O
+
+Very O
+sexy O
+. O
+" O
+
+Machado B-PER
+'s O
+publicists B-ORG
+said O
+on O
+Thursday B-LOC
+she B-MISC
+was O
+scheduled O
+to O
+stay O
+in O
+Los B-LOC
+Angeles I-LOC
+for O
+promotional I-MISC
+work I-ORG
+with O
+sponsors I-PER
+before O
+returning O
+to B-LOC
+Venezuela O
+on B-PER
+Sept B-ORG
+. O
+
+5 O
+. O
+
+There O
+'s O
+no O
+problem O
+whatsoever O
+, O
+" O
+he B-PER
+told O
+Reuters B-ORG
+. O
+
+He B-PER
+said O
+the O
+lifestyle O
+associated O
+with O
+being O
+Miss B-MISC
+Universe I-MISC
+could O
+make O
+routine O
+exercise O
+difficult O
+. O
+
+Kevorkian B-PER
+attends O
+third O
+suicide O
+in B-LOC
+week O
+. O
+
+PONTIAC B-ORG
+, O
+Mich B-LOC
+. O
+
+Moody B-ORG
+'s O
+Investors I-ORG
+Service I-ORG
+- O
+
+Rating O
+Announcement O
+As O
+of O
+08/21/96 B-MISC
+. O
+
+Issuer O
+: O
+Fairview B-ORG
+Town I-ORG
+
+State O
+: O
+TX B-LOC
+
+Sale O
+Amount O
+: O
+1,820,000 O
+
+Expected O
+Sale O
+Date O
+: O
+08/27/96 B-MISC
+
+-- O
+U.S. B-LOC
+Municipal B-ORG
+Desk I-ORG
+, O
+212-859-1650 B-MISC
+
+Defiant B-MISC
+U.S. B-LOC
+neo-Nazi O
+jailed O
+by O
+German I-LOC
+court B-ORG
+. O
+
+Andrew B-PER
+Gray I-PER
+
+HAMBURG B-LOC
+, O
+Germany I-LOC
+1996-08-22 O
+
+The O
+German B-LOC
+government B-ORG
+hailed O
+the O
+conviction O
+as O
+a B-MISC
+major I-MISC
+victory O
+in O
+the O
+fight O
+against O
+neo-Nazism B-MISC
+. O
+
+Lauck B-PER
+'s I-PER
+worldwide O
+network O
+has O
+been O
+the O
+main O
+source O
+of O
+anti-Semitic B-MISC
+propaganda I-MISC
+material O
+flowing O
+into B-LOC
+Germany I-LOC
+since O
+the O
+1970s O
+. O
+
+That O
+'s O
+the O
+truth O
+. O
+" O
+
+Lauck B-PER
+was O
+also O
+convicted O
+of O
+disseminating O
+the O
+symbols O
+of O
+anti-constitutional B-MISC
+organisations I-ORG
+. O
+
+UNITED B-ORG
+NATIONS I-ORG
+1996-08-22 O
+
+Akashi B-PER
+is O
+head O
+of O
+the O
+Department B-ORG
+of I-ORG
+Humanitarian B-MISC
+affairs I-MISC
+. O
+
+His O
+deputy O
+earlier O
+speculated O
+at O
+least O
+10 B-MISC
+days I-MISC
+. O
+
+German B-LOC
+flown O
+cargo O
+January-July B-MISC
+rise O
+3.8 I-MISC
+percent O
+. O
+
+FRANKFURT B-LOC
+1996-08-22 O
+
+The O
+figures O
+exclude O
+trucked O
+airfreight O
+according O
+to O
+the O
+German B-LOC
+airports I-LOC
+association B-ORG
+ADV B-MISC
+. O
+
+Berlin B-LOC
+( O
+total O
+) O
+17,844 O
+up O
+5.9 B-MISC
+pct I-MISC
+
+Dresden B-LOC
+792 O
+up O
+11.4 O
+
+Duessseldorf B-LOC
+31,347 O
+down O
+4.4 O
+
+Frankfurt B-LOC
+768,269 O
+up O
+1.5 O
+
+Hamburg B-LOC
+21,240 O
+down O
+3.5 O
+
+Hannover B-LOC
+6,030 O
+up O
+15.3 O
+
+Munich B-LOC
+44,525 O
+up O
+11.8 O
+
+Nuremberg B-LOC
+25,929 O
+up O
+17.8 O
+
+Saarbruecken B-LOC
+626 O
+up O
+28.3 O
+
+TOTAL O
+1,113,785 O
+up O
+3.8 O
+
+Paribas B-ORG
+repeats O
+buy O
+on O
+Aegon B-LOC
+after O
+results O
+. O
+
+1996 O
+5.83 O
+13.8 O
+2.75 O
+
+1997 O
+6.59 O
+12.2 O
+3.10 O
+
+So O
+Ballybunion B-LOC
+is O
+going O
+to O
+America B-LOC
+instead O
+. O
+
+Ischinger B-PER
+is O
+the O
+political O
+director O
+of O
+Bonn B-LOC
+'s I-LOC
+foreign B-MISC
+ministry I-MISC
+. O
+
+India B-LOC
+says O
+sees O
+no O
+arms O
+race O
+with O
+China B-PER
+, O
+Pakistan B-PER
+. O
+
+NEW B-LOC
+DELHI I-LOC
+1996-08-22 O
+
+The O
+text O
+has O
+already O
+been O
+blocked O
+, O
+" B-MISC
+he B-PER
+said O
+. O
+
+Britain B-LOC
+says O
+death O
+of O
+its O
+citizen I-LOC
+will O
+sour O
+ties O
+. O
+
+DHAKA B-LOC
+1996-08-22 O
+
+" O
+This O
+is O
+one O
+of O
+the O
+reasons O
+of O
+my B-PER
+visit O
+here B-LOC
+... O
+
+Fox O
+said O
+the O
+incident O
+had O
+strained O
+relations O
+between O
+the O
+two B-ORG
+governments I-ORG
+. O
+
+He B-PER
+said O
+the O
+Mia B-PER
+'s I-MISC
+issue B-MISC
+had O
+been O
+raised O
+in O
+the O
+House B-ORG
+of I-ORG
+Commons I-LOC
+. O
+
+Fox B-ORG
+said O
+he B-PER
+had O
+brought O
+up O
+the O
+issue O
+at O
+every O
+meeting O
+he I-PER
+had O
+had O
+with O
+government I-ORG
+leaders I-MISC
+in O
+Dhaka B-LOC
+. O
+
+He B-PER
+said O
+the O
+Bangladesh B-LOC
+government B-ORG
+had O
+assured O
+him I-PER
+it O
+was O
+taking O
+the O
+matter O
+seriously O
+. O
+
+India B-LOC
+fears O
+attempts O
+to O
+disrupt O
+Kashmir B-LOC
+polls B-MISC
+. O
+
+SRINAGAR B-LOC
+, O
+India B-LOC
+1996-08-22 B-MISC
+
+Over O
+a O
+dozen O
+militant O
+groups O
+are O
+fighting O
+New B-LOC
+Delhi I-LOC
+'s B-MISC
+rule I-MISC
+in O
+the O
+state I-ORG
+. O
+
+Dhaka B-LOC
+stocks O
+end O
+up O
+on O
+gains O
+by O
+engineering B-ORG
+, O
+banks I-ORG
+. O
+
+Of O
+the O
+total O
+119 O
+issues O
+traded O
+71 O
+closed O
+higher O
+, O
+44 O
+ended O
+lower O
+and O
+four O
+remained O
+unchanged O
+. O
+
+. O
+
+India B-LOC
+RBI B-ORG
+chief O
+sees O
+cut O
+in O
+cash O
+reserve O
+ratio O
+. O
+
+Two O
+pct O
+India B-LOC
+current O
+account O
+deficit O
+viable O
+- B-PER
+RBI B-ORG
+. O
+
+BOMBAY B-LOC
+1996-08-22 O
+
+-- O
+Bombay B-LOC
+newsroom B-ORG
++91-22-265 B-MISC
+9000 I-MISC
+
+Mother B-PER
+Teresa I-PER
+devoted O
+to O
+world B-LOC
+'s I-LOC
+poor O
+. O
+
+CALCUTTA B-LOC
+1996-08-22 O
+
+The O
+poor O
+do O
+not O
+need O
+our O
+sympathy O
+and O
+pity O
+. O
+
+They O
+need O
+our O
+love O
+and O
+compassion O
+. O
+" B-MISC
+
+More O
+than O
+100 O
+delegates O
+flew O
+in O
+from O
+around O
+the O
+world B-LOC
+to O
+elect O
+a O
+successor O
+. O
+
+They O
+could O
+not O
+agree O
+, O
+so O
+asked O
+her O
+to O
+stay O
+on O
+. O
+
+She O
+agreed O
+. O
+
+In O
+1991 O
+, O
+Mother B-PER
+Teresa I-PER
+was O
+treated O
+at O
+a O
+California B-LOC
+hospital I-ORG
+for O
+heart O
+disease I-MISC
+and O
+bacterial B-MISC
+pneumonia I-MISC
+. O
+
+In O
+1993 O
+, O
+she O
+fell O
+in O
+Rome B-LOC
+and O
+broke O
+three O
+ribs O
+. O
+
+Last O
+April B-LOC
+she O
+fractured O
+her O
+left I-LOC
+collar B-MISC
+bone I-MISC
+. O
+
+The O
+message O
+was O
+quite O
+clear O
+, O
+" B-MISC
+she B-PER
+told O
+one O
+interviewer O
+. O
+" I-MISC
+
+It O
+was O
+an O
+order O
+. O
+
+In O
+India B-LOC
+she O
+was O
+simply O
+called O
+Mother B-PER
+. O
+
+Bernard B-PER
+Hickey I-PER
+
+A O
+budgeted O
+profit O
+increase O
+of O
+at O
+least O
+20 B-MISC
+percent I-MISC
+for O
+the O
+full O
+year O
+currently O
+appears O
+very O
+attainable O
+, O
+" O
+News B-ORG
+Corp I-ORG
+said O
+. O
+
+Analysts O
+had O
+on O
+average O
+expected O
+a O
+pre-abnormals B-MISC
+profit I-MISC
+of O
+A$ B-MISC
+1.343 I-MISC
+billion I-MISC
+. O
+
+Advertising O
+revenues O
+at O
+The B-ORG
+Times I-ORG
+grew O
+20 O
+percent O
+. O
+
+News O
+said O
+dramatically O
+lower O
+earnings O
+from O
+the O
+British B-LOC
+arm I-PER
+of O
+its O
+Harper-Collins B-ORG
+publishing I-ORG
+division O
+more O
+than O
+offset O
+healthy B-MISC
+results I-MISC
+from O
+its O
+U.S. I-LOC
+operation B-PER
+. O
+
+The O
+minimum O
+price O
+setting O
+expired O
+last O
+September B-LOC
+when O
+three O
+publishers B-ORG
+pulled O
+out O
+. O
+
+( O
+A$ B-MISC
+1 I-MISC
+= O
+US$ B-ORG
+0.79 I-ORG
+) O
+
+CANBERRA B-LOC
+1996-08-22 O
+
+BNZ B-ORG
+cuts O
+NZ B-LOC
+fixed O
+home O
+lending O
+rates O
+. O
+
+WELLINGTON B-LOC
+1996-08-22 O
+
+The O
+rates O
+are O
+: O
+
+New O
+rate O
+old O
+rate O
+
+One O
+year O
+10.5 O
+pct B-MISC
+10.95 O
+
+Two O
+year O
+10.5 O
+pct O
+11.25 O
+
+Three O
+year O
+10.5 O
+pct O
+11.25 O
+
+BNZ B-ORG
+said O
+it O
+was O
+responding O
+to O
+lower I-MISC
+wholesale I-MISC
+rates O
+. O
+
+Fixed O
+business O
+and O
+farm O
+lending O
+rates O
+rates O
+were O
+left O
+unchanged O
+although O
+they O
+were O
+under O
+review O
+. O
+
+requirements O
+of O
+the O
+Ministry B-ORG
+of I-ORG
+Commerce I-ORG
+. O
+
+-- O
+Wellington B-LOC
+newsroom B-ORG
+64 B-MISC
+4 I-MISC
+4734 I-MISC
+746 I-MISC
+
+BANGKOK B-LOC
+
+He B-PER
+was O
+believed O
+by O
+prison B-ORG
+officials I-ORG
+to O
+still O
+be O
+in O
+Thailand B-LOC
+. O
+
+There O
+also O
+are O
+about O
+5,000 O
+Thai B-LOC
+inmates O
+in O
+Klongprem B-MISC
+, I-MISC
+a I-MISC
+prison O
+official O
+said O
+. O
+
+Tokyo B-LOC
+Soir O
+- O
+1996 B-MISC
+parent O
+forecast O
+. O
+
+TOKYO B-LOC
+1996-08-22 O
+
+Year O
+to O
+December B-LOC
+31 O
+, O
+1996 O
+
+( O
+in O
+billions B-MISC
+of O
+yen I-MISC
+unless O
+specified O
+) O
+
+LATEST O
+ACTUAL O
+
+( O
+Parent B-PER
+) I-PER
+FORECAST B-MISC
+YEAR-AGO B-MISC
+
+Current O
+400 O
+million O
+329 O
+million O
+
+Net B-ORG
+250 O
+million O
+84 O
+million O
+
+EPS O
+11.61 O
+yen B-MISC
+3.92 O
+yen B-MISC
+
+Ord O
+div O
+10.00 O
+yen B-MISC
+10.00 O
+yen O
+
+Ka B-PER
+Wah I-PER
+Bank B-ORG
+sets O
+HK$ B-MISC
+43 I-MISC
+mln O
+FRCD O
+. O
+
+Other O
+details O
+are O
+not O
+available O
+. O
+
+Malaysia B-LOC
+bans O
+nitrofuran B-MISC
+usage I-MISC
+in O
+chicken B-ORG
+feed I-ORG
+. O
+
+** O
+Security O
+was O
+tight O
+in O
+Jakarta B-LOC
+ahead O
+of O
+a O
+trial O
+involving O
+ousted B-MISC
+Indonesian I-MISC
+Democratic B-PER
+Party I-PER
+leader B-ORG
+Megawati I-ORG
+Sukarnoputri I-LOC
+. O
+
+MARKETS O
+: O
+
+STOCKS O
+TO O
+WATCH O
+
+Key O
+stock O
+and O
+currency O
+market O
+movements O
+at O
+1600 B-MISC
+GMT I-MISC
+. O
+
+CLOSE O
+IN B-LOC
+POINTS O
+
+NEW B-LOC
+YORK I-LOC
+5,710.53 O
+- O
+22.94 O
+5,778.00 O
+5,032.94 O
+
+TOKYO B-LOC
+21,228.80 O
+- O
+134.44 O
+22,666.80 O
+19,734.70 O
+
+( O
+Jun B-MISC
+26 I-MISC
+) O
+( O
+Mar B-MISC
+13 I-MISC
+) O
+
+SYDNEY B-LOC
+2,292.9 O
++18.3 O
+2,326.00 O
+2,096.10 O
+
+HONG B-LOC
+KONG I-LOC
+11,424.64 O
+- O
+54.13 O
+11,594.99 O
+10,204.87 O
+
+FOREIGN O
+EXCHANGE B-ORG
+/ I-ORG
+GOLD B-MISC
+BULLION I-MISC
+CLOSE O
+IN B-LOC
+LONDON B-LOC
+
+1.4871 O
+( O
+1.4935 O
+) O
+
+Dollar B-MISC
+/ O
+yen B-MISC
+.... O
+
+108.50 O
+( O
+108.43 O
+) O
+
+Pound O
+/ O
+dollar B-LOC
+.. I-LOC
+
+$ O
+1.5520 O
+( O
+$ O
+1.5497 O
+) O
+
+$ O
+387.50 O
+( O
+$ O
+386.95 O
+) O
+
+- O
+- O
+- O
+- O
+
+*INDICES O
+USED O
+AND O
+THEIR O
+ALL-TIME B-MISC
+CLOSING I-MISC
+HIGHS I-MISC
+
+New B-LOC
+York I-LOC
+Dow B-PER
+Jones I-PER
+industrial O
+average O
+-- O
+5,778.00 B-MISC
+( O
+May I-MISC
+22/96 I-ORG
+) O
+
+London B-LOC
+FTSE-100 B-ORG
+index O
+-- O
+3,907.5 O
+( O
+Aug B-MISC
+23/96 I-MISC
+) O
+
+Tokyo B-LOC
+Nikkei B-ORG
+average O
+-- O
+38,915.87 O
+( O
+Dec B-MISC
+29/89 I-MISC
+) O
+
+Frankfurt B-LOC
+DAX-3O B-MISC
+index O
+-- O
+2,583.49 O
+( O
+Jul I-LOC
+5/96 I-MISC
+) O
+
+Paris B-LOC
+CAC-40 B-ORG
+General O
+index O
+-- O
+2,355.93 O
+( O
+Feb B-MISC
+2/94 I-MISC
+) O
+
+Ukraine B-LOC
+hails O
+peace O
+as O
+marks O
+five-year B-MISC
+independence I-MISC
+. O
+
+Rostislav B-PER
+Khotin O
+
+KIEV B-LOC
+1996-08-23 O
+
+Kuchma B-PER
+told O
+a O
+solemn O
+ceremony O
+at O
+the O
+Ukraina B-LOC
+Palace I-ORG
+on O
+Friday B-MISC
+that O
+" I-MISC
+there I-MISC
+was I-PER
+a I-MISC
+turning I-MISC
+point I-MISC
+" I-PER
+in I-MISC
+reforms I-MISC
+and O
+that O
+he I-MISC
+expected O
+a O
+rise B-PER
+in O
+the B-ORG
+standard O
+of I-ORG
+living O
+in I-LOC
+the B-MISC
+near I-LOC
+future I-LOC
+. O
+
+The O
+national O
+bank B-ORG
+and I-ORG
+the O
+government B-MISC
+have I-MISC
+every O
+reason O
+to O
+be O
+proud O
+of O
+their B-LOC
+efforts I-LOC
+. O
+" O
+
+Central B-ORG
+bank I-ORG
+officials O
+said O
+on O
+Thursday B-LOC
+that O
+a O
+much-postponed O
+hryvna B-MISC
+currency I-MISC
+would O
+" O
+definitely O
+" O
+be O
+introduced O
+before O
+the I-LOC
+end O
+of I-LOC
+this O
+year I-LOC
+. O
+
+Oldest O
+Albania B-LOC
+book O
+disappears O
+from O
+Vatican B-LOC
+- O
+paper O
+. O
+
+TIRANA B-LOC
+1996-08-23 O
+
+Russia B-LOC
+to O
+clamp O
+down O
+on O
+barter B-MISC
+deals I-MISC
+. O
+
+Volkova B-PER
+said O
+last O
+year O
+goods O
+had O
+been O
+exported O
+under O
+many O
+Russian B-LOC
+barter B-MISC
+deals I-MISC
+, O
+with O
+nothing B-ORG
+imported O
+in I-ORG
+return I-LOC
+. O
+
+But O
+the O
+current O
+share O
+of O
+barter O
+deals O
+in O
+Russian B-LOC
+exports O
+is O
+still O
+high O
+, O
+" B-MISC
+she B-PER
+said I-PER
+. O
+
+LOS B-LOC
+ANGELES I-LOC
+1996-08-22 O
+
+It O
+'s O
+the O
+biggest O
+success O
+for O
+Viacom B-ORG
+Inc-owned I-ORG
+Paramount B-ORG
+since O
+1994 B-LOC
+'s O
+" B-MISC
+Forrest B-PER
+Gump I-PER
+" I-MISC
+. O
+
+However O
+, O
+many O
+critics O
+complained O
+its O
+plot O
+was O
+incomprehensible O
+. O
+
+CRICKET O
+- O
+CRAWLEY B-PER
+FORCED O
+TO O
+SIT O
+AND O
+WAIT O
+. O
+
+SPA-FRANCORCHAMPS B-LOC
+, O
+Belgium B-LOC
+1996-08-23 B-MISC
+
+Leading O
+times O
+
+after O
+Friday B-LOC
+'s I-MISC
+opening O
+practice O
+sessions O
+for O
+Sunday B-LOC
+'s I-MISC
+
+3. O
+Jacques B-PER
+Villeneuve I-PER
+( O
+Canada B-LOC
+) O
+Williams B-ORG
+1:54.443 O
+
+4. O
+Mika B-PER
+Hakkinen I-PER
+( O
+Finland B-LOC
+) O
+McLaren B-ORG
+1:54.754 O
+
+6. O
+Jean B-PER
+Alesi I-PER
+( O
+France B-LOC
+) O
+Benetton B-ORG
+1:55.101 O
+
+7. O
+Damon B-PER
+Hill I-PER
+( O
+Britain B-LOC
+) O
+Williams B-ORG
+1:55.281 O
+
+8. O
+Michael B-PER
+Schumacher I-PER
+( O
+Germany B-LOC
+) O
+1:55.333 O
+
+9. O
+Martin B-PER
+Brundle I-PER
+( O
+Britain B-LOC
+) O
+Jordan B-ORG
+1:55.385 O
+
+[ O
+CORRECTED O
+05:30 B-MISC
+GMT B-LOC
+] O
+
+$ O
+450,000 O
+Toshiba B-ORG
+Classic B-MISC
+tennis B-MISC
+tournament B-MISC
+on O
+Thursday B-LOC
+( O
+prefix B-MISC
+
+Quarter-finals O
+
+6-1 O
+7-5 O
+
+( O
+Slovakia B-LOC
+) I-LOC
+7-6 O
+( O
+7-4 B-ORG
+) I-ORG
+6-2 O
+
+( O
+Corrects O
+that O
+Habsudova B-PER
+is O
+sixth B-MISC
+seed I-MISC
+) O
+. O
+
+SOCCER O
+- O
+ENGLISH B-LOC
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+Results O
+of O
+English B-LOC
+first O
+division O
+
+soccer O
+matches O
+on O
+Friday B-LOC
+: O
+
+Portsmouth B-LOC
+1 O
+Queens B-LOC
+Park I-LOC
+Rangers B-ORG
+2 O
+
+Tranmere B-ORG
+3 O
+Grimsby B-ORG
+2 O
+
+SOCCER O
+- O
+SCOTTISH B-LOC
+THIRD O
+DIVISION O
+RESULT O
+. O
+
+East B-LOC
+Stirling B-PER
+0 O
+Albion B-MISC
+1 I-MISC
+
+English B-MISC
+County O
+Championship B-ORG
+cricket O
+matches O
+on O
+Friday B-PER
+: O
+
+Third O
+day O
+
+R. B-PER
+Harden I-PER
+65 O
+) O
+. O
+
+Essex B-LOC
+194-0 O
+( O
+G. B-PER
+Gooch I-PER
+105 O
+not O
+out O
+, O
+D. B-PER
+Robinson I-PER
+
+72 O
+not O
+out O
+) O
+. O
+
+52 O
+not O
+out O
+) O
+v O
+Glamorgan B-LOC
+. O
+
+At O
+Leicester B-LOC
+: O
+Leicestershire I-LOC
+343-8 O
+( O
+P. B-PER
+Simmons I-PER
+108 O
+, O
+P. B-PER
+Nixon I-PER
+
+79 O
+not O
+out O
+) O
+. O
+
+Worcestershire B-LOC
+10-0 O
+. O
+
+R. B-PER
+Blakey I-PER
+109 O
+not O
+out O
+, O
+M. B-MISC
+Moxon I-MISC
+66 O
+, O
+M. B-MISC
+Vaughan I-MISC
+57 O
+) O
+. O
+
+Lancashire B-LOC
+
+CRICKET O
+- O
+POLLOCK B-PER
+HOPES O
+FOR O
+RETURN O
+TO O
+WARWICKSHIRE B-LOC
+. O
+
+Scoreboard B-MISC
+on O
+the O
+second I-LOC
+day O
+of O
+
+the O
+third O
+and O
+final O
+test O
+between O
+England B-LOC
+and O
+Pakistan I-LOC
+at O
+The B-ORG
+
+England B-LOC
+first O
+innings O
+
+J. B-PER
+Crawley I-PER
+b O
+Waqar B-MISC
+Younis I-MISC
+106 O
+
+R. B-PER
+Croft I-PER
+not O
+out O
+5 O
+
+Extras O
+( O
+lb-12 B-MISC
+w-1 I-MISC
+nb-10 B-MISC
+) O
+23 O
+
+Total O
+326 O
+
+Fall O
+of O
+wickets O
+: O
+1-64 O
+2-85 O
+3-116 O
+4-205 O
+5-248 O
+6-273 O
+7-283 O
+
+8-284 O
+9-295 O
+
+6-1-17-0 O
+
+Ijaz B-PER
+Ahmed I-PER
+not O
+out O
+58 O
+
+Total O
+( O
+for O
+one O
+wicket O
+) O
+229 O
+
+To O
+bat O
+: O
+Inzamam-ul-Haq B-PER
+, O
+Salim B-PER
+Malik I-PER
+, O
+Asif B-ORG
+Mujtaba I-ORG
+, O
+Wasim B-PER
+
+Bowling O
+( O
+to O
+date O
+) O
+: O
+Lewis B-PER
+9-1-49-0 O
+, O
+Mullally B-PER
+9-3-28-0 O
+, I-PER
+Croft O
+
+17-3-42-1 O
+, O
+Cork B-LOC
+7-1-38-0 O
+, O
+Salisbury B-LOC
+14-0-71-0 O
+
+CRICKET O
+- O
+ENGLAND B-LOC
+326 O
+ALL O
+OUT O
+V O
+PAKISTAN B-LOC
+IN B-MISC
+THIRD I-MISC
+TEST I-MISC
+. O
+
+Waqar B-PER
+Younis I-PER
+4-95 O
+) O
+
+SOCCER O
+- O
+SPONSORS O
+CASH O
+IN O
+ON O
+RAVANELLI B-PER
+'S I-MISC
+SHIRT B-MISC
+DANCE O
+. O
+
+TENNIS O
+- O
+AUSTRALIANS B-LOC
+ADVANCE O
+AT O
+CANADIAN B-MISC
+OPEN I-MISC
+. O
+
+TORONTO B-LOC
+1996-08-22 O
+
+Martin B-PER
+overcame O
+Cedric B-PER
+Pioline I-PER
+of O
+France B-LOC
+2-6 O
+6-2 B-MISC
+6-4 I-MISC
+and O
+O'Brien B-PER
+beat O
+Mikael B-PER
+Tillstrom I-PER
+of O
+Sweden B-LOC
+6-3 O
+2-6 B-MISC
+6-3 I-MISC
+. O
+
+Put O
+those O
+two O
+things O
+together O
+and O
+you O
+get O
+a O
+loss O
+. O
+" B-MISC
+
+SOCCER O
+- O
+THREE O
+PULL O
+OUT O
+OF O
+DUTCH B-LOC
+SQUAD O
+FOR O
+BRAZIL B-LOC
+. O
+
+LONDON B-LOC
+1996-08-28 O
+
+No O
+further O
+details O
+were O
+immediately O
+available O
+. O
+
+The O
+present O
+contract O
+with O
+the O
+British B-LOC
+Broadcasting B-ORG
+Corporation I-ORG
+was O
+shared O
+between O
+the O
+four I-LOC
+home B-MISC
+nations I-MISC
+while O
+France B-LOC
+have O
+their O
+own O
+television B-PER
+deal I-PER
+. O
+
+Cricket O
+- O
+NZ B-LOC
+face O
+tough O
+schedule O
+at O
+home B-LOC
+and O
+abroad B-MISC
+. O
+
+WELLINGTON B-LOC
+1996-08-28 O
+
+-- O
+Sydney B-LOC
+Newsroom B-ORG
+61-2 B-MISC
+9373-1800 I-MISC
+
+Rugby B-MISC
+union-England B-LOC
+given O
+final O
+chance O
+to O
+stay O
+in O
+Five B-ORG
+Nations I-ORG
+. O
+
+CAIRO B-LOC
+1996-08-28 O
+
+The O
+Central B-ORG
+African I-ORG
+Republic I-ORG
+qualified O
+on O
+a O
+walkover B-MISC
+to O
+play O
+in O
+group B-LOC
+four I-LOC
+with O
+Guinea B-PER
+, I-PER
+Sierra O
+Leone I-PER
+and O
+Tunisia I-MISC
+. O
+
+COLOMBO B-LOC
+1996-08-28 O
+
+VANCOUVER B-LOC
+, O
+British I-LOC
+Columbia I-MISC
+1996-08-28 B-MISC
+
+Their O
+fate O
+after O
+the O
+territory B-LOC
+reverts O
+to O
+Chinese B-MISC
+rule I-MISC
+is O
+unclear O
+. O
+
+Chris B-PER
+Patten I-PER
+last O
+month O
+that O
+Canada B-LOC
+may O
+grant O
+asylum B-MISC
+to O
+dissidents I-MISC
+who O
+have O
+fled O
+to O
+Hong B-LOC
+Kong I-LOC
+from O
+China B-LOC
+. O
+
+ABIDJAN B-LOC
+1996-08-28 O
+
+Colleagues O
+said O
+he B-PER
+had O
+been O
+charged O
+with O
+theft O
+of O
+administrative B-MISC
+documents I-MISC
+. O
+" O
+
+A O
+court O
+sentenced O
+two O
+in O
+December B-LOC
+and O
+the O
+third O
+in O
+January B-MISC
+. O
+
+FREETOWN B-LOC
+1996-08-28 O
+
+An O
+army O
+spokesman B-PER
+in O
+Freetown B-LOC
+said O
+Monday B-MISC
+night I-MISC
+'s O
+attack O
+was O
+the O
+third B-ORG
+on I-ORG
+a I-LOC
+military O
+post B-ORG
+in I-ORG
+the O
+past O
+week O
+. O
+
+Peace O
+talks O
+in O
+Ivory B-LOC
+Coast I-LOC
+began O
+in O
+February B-MISC
+. O
+
+NAIROBI B-LOC
+1996-08-28 O
+
+Mushota B-PER
+was O
+fired O
+a O
+month O
+ago O
+after O
+a O
+government B-ORG
+tribunal I-ORG
+found O
+he I-PER
+tried O
+to O
+withdraw O
+cash O
+from B-MISC
+state I-MISC
+coffers O
+without O
+authority O
+. O
+
+CONAKRY B-LOC
+1996-08-28 O
+
+( O
+$ B-MISC
+=1,000 I-MISC
+Guinean B-LOC
+francs I-LOC
+) O
+
+MONROVIA B-LOC
+1996-08-28 O
+
+Over O
+a O
+dozen O
+peace O
+deals O
+have O
+collapsed O
+. O
+
+West B-LOC
+African I-LOC
+leaders O
+have O
+threatened O
+individual B-MISC
+sanctions I-MISC
+against O
+faction B-MISC
+leaders I-PER
+to O
+ensure O
+compliance O
+. O
+
+Nigeria B-LOC
+rights O
+group B-ORG
+says O
+four O
+academics I-ORG
+arrested O
+. O
+
+A O
+Nigerian B-LOC
+human O
+rights O
+group B-ORG
+said O
+on O
+Wednesday B-MISC
+that O
+four O
+members O
+of I-ORG
+a O
+recently O
+banned O
+university O
+union O
+had O
+been O
+arrested O
+. O
+
+This O
+was O
+a O
+win O
+I B-PER
+wanted O
+very O
+, O
+very O
+much O
+. O
+" O
+
+76 O
+71 O
+, O
+Paul B-PER
+Goydos I-PER
+66 O
+75 O
+74 O
+71 O
+, O
+Ernie B-PER
+Els I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+71 O
+71 O
+
+3. O
+Theybers B-PER
+
+2. O
+Smets B-PER
+290 O
+
+SOCCER O
+- O
+ENGLISH B-LOC
+PREMIER B-MISC
+LEAGUE I-ORG
+SUMMARY I-MISC
+. O
+
+( O
+Slask B-ORG
+Wroclaw B-LOC
+) O
+, O
+Krzysztof B-PER
+Piskula I-PER
+( O
+Lech B-ORG
+Poznan B-LOC
+) O
+, O
+Mariusz B-PER
+
+Legia B-ORG
+Warsaw B-LOC
+7 O
+5 O
+1 O
+1 O
+13 O
+7 O
+16 O
+
+CSKA B-ORG
+Moscow B-LOC
+25 O
+13 O
+6 O
+6 O
+40 O
+27 O
+45 O
+
+for O
+, O
+against O
+, O
+percentage O
+, O
+total O
+points O
+) O
+: O
+
+Haitai B-ORG
+63 O
+2 O
+40 O
+.610 O
+- O
+
+Every O
+game O
+should O
+be O
+important O
+, O
+but O
+it O
+'s B-MISC
+a O
+little O
+more O
+important O
+now O
+. O
+" O
+
+In O
+New B-LOC
+York I-LOC
+, O
+Wally B-PER
+Whitehurst I-PER
+allowed O
+two O
+runs O
+over O
+seven B-MISC
+innings I-MISC
+for O
+his O
+first O
+win O
+in I-ORG
+more B-ORG
+than I-ORG
+two O
+years B-PER
+and I-PER
+Paul O
+O'Neill O
+'s O
+three-run O
+double O
+snapped B-LOC
+a I-LOC
+sixth-inning I-LOC
+tie B-MISC
+as I-MISC
+the I-MISC
+New I-MISC
+York O
+Yankees O
+held O
+on O
+for O
+a B-ORG
+5-4 I-ORG
+victory O
+over O
+the O
+Oakland O
+Athletics O
+. B-ORG
+
+BASEBALL O
+- O
+BRAVES B-ORG
+RALLY O
+TO O
+BEAT O
+CUBS I-ORG
+. O
+
+ATLANTA B-LOC
+1996-08-25 O
+
+In O
+Los B-LOC
+Angeles I-LOC
+, O
+Tom B-PER
+Candiotti I-PER
+allowed O
+two O
+runs O
+in O
+seven O
+innings O
+and O
+singled O
+home B-LOC
+the O
+go-ahead O
+run B-MISC
+and I-MISC
+Mike O
+Piazza B-PER
+and I-PER
+Todd O
+Hollandsworth B-PER
+drove I-PER
+in O
+two O
+runs O
+apiece B-ORG
+as I-ORG
+the I-ORG
+Los O
+Angeles B-ORG
+Dodgers I-ORG
+defeated I-ORG
+the O
+New B-LOC
+York I-LOC
+Mets B-ORG
+7-5 O
+. B-MISC
+
+In O
+San B-LOC
+Diego I-LOC
+, O
+Joey B-PER
+Hamilton I-PER
+allowed O
+two O
+hits O
+over O
+seven B-MISC
+innings I-MISC
+and O
+Rickey B-PER
+Henderson I-PER
+hit O
+his B-ORG
+major I-ORG
+league-record O
+69th O
+leadoff O
+homer O
+as O
+the B-LOC
+San I-LOC
+Diego B-ORG
+Padres O
+defeated O
+the B-ORG
+Philadelphia I-ORG
+Phillies O
+7-1 O
+for B-MISC
+their I-MISC
+fifth [CLS]
+win [SEP]
+in O
+six O
+games O
+. O
+
+BASEBALL O
+- O
+MAJOR B-ORG
+LEAGUE I-ORG
+RESULTS O
+SATURDAY B-LOC
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-25 O
+
+Baseball O
+games O
+played O
+on O
+Saturday B-LOC
+( O
+home B-ORG
+team I-ORG
+in O
+CAPS B-MISC
+) O
+: O
+
+HOUSTON B-LOC
+3 O
+St I-LOC
+Louis B-PER
+1 O
+
+LOS B-LOC
+ANGELES I-LOC
+7 O
+New B-ORG
+York I-ORG
+5 O
+
+Montreal B-LOC
+3 O
+SAN B-ORG
+FRANCISCO I-ORG
+0 O
+
+FLORIDA B-LOC
+5 O
+Cincinnati B-ORG
+3 O
+
+COLORADO B-LOC
+9 O
+Pittsburgh B-ORG
+3 O
+
+Milwaukee B-LOC
+4 O
+CLEVELAND B-LOC
+3 O
+( O
+10 O
+innings O
+) O
+
+BALTIMORE B-LOC
+5 O
+California B-ORG
+4 O
+
+Toronto B-LOC
+9 O
+CHICAGO B-ORG
+2 O
+
+NEW B-LOC
+YORK I-LOC
+5 O
+Oakland B-PER
+4 O
+
+MINNESOTA B-LOC
+6 O
+Texas B-LOC
+5 O
+
+SOCCER O
+- O
+CHAMPIONS O
+PORTO B-ORG
+KICK O
+OFF O
+SEASON O
+WITH O
+A O
+DRAW O
+. O
+
+He O
+was O
+substituted O
+by O
+Paulao B-PER
+. O
+
+Braga B-LOC
+defender O
+Idalecio B-PER
+gave O
+his O
+team B-ORG
+their I-ORG
+equaliser O
+seven I-LOC
+minutes I-LOC
+from O
+the O
+final B-MISC
+whistle I-MISC
+with O
+a O
+header B-MISC
+into I-MISC
+the O
+back O
+of O
+the O
+net O
+. O
+
+SOCCER B-MISC
+- O
+PORTUGUESE B-LOC
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+Results O
+of O
+Portuguese B-LOC
+first O
+
+division O
+soccer O
+matches O
+on O
+Sunday B-LOC
+: O
+
+FC B-ORG
+Porto I-ORG
+2 O
+Setubal B-LOC
+2 O
+
+SOCCER O
+- O
+FIORENTINA B-ORG
+WIN O
+WITH O
+BATISTUTA B-PER
+DOUBLE O
+. O
+
+MILAN B-LOC
+1996-08-25 O
+
+The O
+scored O
+stayed O
+level O
+to O
+the O
+final O
+minutes O
+but O
+with O
+a O
+penalty O
+shoot O
+out O
+looming O
+, O
+Batistuta B-PER
+took O
+charge O
+. O
+
+New B-PER
+Dutch I-PER
+signing O
+Edgar B-PER
+Davids I-PER
+came O
+on O
+late O
+in O
+the O
+second O
+half O
+as O
+a O
+Milan B-ORG
+substitute O
+but O
+made O
+little O
+impact O
+. O
+
+SOCCER O
+- O
+FIORENTINA B-ORG
+BEAT O
+MILAN I-ORG
+IN O
+ITALIAN B-LOC
+SUPERCUP B-MISC
+. O
+
+Supercoppa B-MISC
+( O
+SuperCup B-MISC
+) O
+in O
+Milan B-LOC
+on O
+Sunday O
+: O
+
+Fiorentina B-ORG
+- O
+Gabriel B-PER
+Batistuta I-PER
+( O
+11th B-MISC
+, O
+83rd I-MISC
+) O
+
+Milan B-LOC
+- O
+Dejan B-PER
+Savicevic I-PER
+( O
+21st O
+) O
+
+Attendance O
+: O
+29,582 O
+
+SOCCER O
+- O
+NORWAY B-LOC
+ELITE O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+OSLO B-LOC
+1996-08-25 O
+
+soccer O
+matches O
+at O
+the O
+weekend B-LOC
+: O
+
+Tromso B-LOC
+2 O
+Kongsvinger B-LOC
+1 O
+
+Valerenga B-ORG
+3 O
+Skeid B-ORG
+0 O
+
+Molde B-LOC
+1 O
+Bodo B-LOC
+/ O
+Glimt B-ORG
+2 O
+
+Viking B-ORG
+1 O
+Moss B-LOC
+0 O
+
+Brann B-PER
+7 O
+Start B-ORG
+1 O
+
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Rosenborg B-ORG
+20 O
+14 O
+4 O
+2 O
+68 O
+21 O
+46 O
+
+Lillestrom B-LOC
+19 O
+9 O
+5 O
+5 O
+38 O
+29 O
+32 O
+
+Skeid B-ORG
+19 O
+10 O
+2 O
+7 O
+29 O
+30 O
+32 O
+
+Brann B-PER
+19 O
+8 O
+5 O
+6 O
+40 O
+37 O
+29 O
+
+Tromso B-LOC
+20 O
+8 O
+5 O
+7 O
+34 O
+33 O
+29 O
+
+Viking B-ORG
+20 O
+7 O
+7 O
+6 O
+33 O
+24 O
+28 O
+
+Molde B-LOC
+19 O
+8 O
+3 O
+8 O
+36 O
+25 O
+27 O
+
+Valerenga B-ORG
+20 O
+6 O
+6 O
+8 O
+26 O
+32 O
+24 O
+
+Moss B-PER
+20 O
+4 O
+6 O
+10 O
+23 O
+40 O
+18 O
+
+Start O
+20 O
+3 O
+3 O
+14 O
+26 O
+56 O
+12 O
+
+SOCCER O
+- O
+SUMMARY O
+OF O
+GERMAN B-LOC
+FIRST O
+DIVISION O
+MATCH O
+. O
+
+BONN B-LOC
+1996-08-25 O
+
+Summary O
+of O
+German B-LOC
+first O
+division O
+
+match O
+played O
+on O
+Sunday B-LOC
+: O
+
+90th O
+, O
+Witechek B-MISC
+59th I-MISC
+) O
+. O
+
+Halftime O
+0-2 O
+. O
+
+Attendance O
+: O
+30,000 O
+. O
+
+SOCCER O
+- O
+RESULT O
+OF O
+GERMAN B-LOC
+FIRST I-ORG
+DIVISION I-ORG
+MATCH B-ORG
+. O
+
+Result O
+of O
+German B-LOC
+first O
+division I-ORG
+
+Bundesliga B-ORG
+standings O
+after O
+Sunday B-LOC
+'s I-MISC
+game O
+( O
+tabulate B-MISC
+under O
+
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals B-MISC
+for I-ORG
+, O
+goals B-MISC
+against I-MISC
+, O
+points O
+) O
+: O
+
+Bayern B-ORG
+Munich B-LOC
+3 O
+2 O
+1 O
+0 O
+7 O
+2 O
+7 O
+
+VfB B-ORG
+Stuttgart I-ORG
+2 O
+2 O
+0 O
+0 O
+6 O
+1 O
+6 O
+
+Bayer B-ORG
+Leverkusen B-LOC
+3 O
+2 O
+0 O
+1 O
+7 O
+4 O
+6 O
+
+Karlsruhe B-LOC
+2 O
+1 O
+1 O
+0 O
+5 O
+3 O
+4 O
+
+St B-LOC
+Pauli I-LOC
+3 O
+1 O
+1 O
+1 O
+7 O
+7 O
+4 O
+
+1860 O
+Munich B-LOC
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Freiburg B-LOC
+3 O
+1 O
+0 O
+2 O
+5 O
+10 O
+3 O
+
+Hansa B-ORG
+Rostock B-LOC
+3 O
+0 O
+2 O
+1 O
+3 O
+4 O
+2 O
+
+Borussia B-ORG
+Moenchengladbach I-ORG
+3 O
+0 O
+2 O
+1 O
+1 O
+3 O
+2 O
+
+Schalke B-ORG
+3 O
+0 O
+2 O
+1 O
+4 O
+8 O
+2 O
+
+SOCCER O
+- O
+SWISS B-LOC
+PREMIER O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+GENEVA B-LOC
+1996-08-25 O
+
+matches O
+played O
+at O
+the O
+weekend B-LOC
+: O
+
+Grasshopper O
+2 O
+Lucerne B-LOC
+2 O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Grasshopper O
+9 O
+4 O
+4 O
+1 O
+17 O
+11 O
+16 O
+
+Lausanne B-LOC
+9 O
+4 O
+2 O
+3 O
+18 O
+13 O
+14 O
+
+Servette B-ORG
+9 O
+2 O
+3 O
+4 O
+10 O
+12 O
+9 O
+
+Lugano B-LOC
+9 O
+1 O
+4 O
+4 O
+6 O
+15 O
+7 O
+
+STUTTGART B-LOC
+, O
+Germany I-LOC
+1996-08-25 O
+
+Leading O
+prize O
+money O
+
+winners O
+on O
+the O
+European B-LOC
+Tour B-ORG
+after O
+Sunday B-MISC
+'s I-MISC
+German B-LOC
+Open I-ORG
+( O
+Britain B-ORG
+
+1. O
+Ian B-PER
+Woosnam I-PER
+480,618 O
+pounds B-MISC
+sterling I-MISC
+
+3. O
+Lee B-PER
+Westwood I-PER
+301,972 O
+
+4. O
+Robert B-PER
+Allenby I-PER
+( O
+Australia B-LOC
+) O
+291,088 O
+
+6. O
+Costantino B-PER
+Rocca I-PER
+( O
+Italy B-LOC
+) O
+253,337 O
+
+7. O
+Andrew B-PER
+Coltart I-PER
+246,077 O
+
+8. O
+Wayne B-PER
+Riley I-PER
+( O
+Australia B-LOC
+) O
+233,713 O
+
+9. O
+Raymond B-PER
+Russell I-PER
+229,360 O
+
+20. O
+Russell B-PER
+Claydon I-PER
+156,996 O
+
+CYCLING B-MISC
+- O
+SWISS B-LOC
+GRAND O
+PRIX O
+RESULT O
+. O
+
+ZURICH B-LOC
+1996-08-25 O
+
+3. O
+Johan B-PER
+Museeuw I-PER
+( O
+Belgium B-LOC
+) O
+
+4. O
+Lance B-PER
+Armstrong I-PER
+( O
+U.S. B-ORG
+) O
+
+6. O
+Alessandro B-PER
+Baronti I-PER
+( O
+Italy B-LOC
+) O
+
+7. O
+Frank B-PER
+Vandenbroucke I-PER
+( O
+Belgium B-LOC
+) O
+all O
+same O
+time O
+
+8. O
+Fabio B-PER
+Baldato I-PER
+( O
+Italy B-LOC
+) O
+11 O
+seconds O
+behind O
+
+9. O
+Maurizio B-PER
+Fondriest I-PER
+( O
+Italy B-LOC
+) O
+
+10. O
+Laurent B-PER
+Jalabert I-PER
+( O
+France B-LOC
+) O
+both O
+same O
+time O
+
+Leading O
+World B-ORG
+Cup I-ORG
+standings O
+( O
+after O
+8 O
+of O
+11 O
+rounds O
+) O
+: O
+
+1. O
+Museeuw B-PER
+162 O
+points O
+
+2. O
+Ferrigato B-PER
+112 O
+
+4. O
+Stefano B-PER
+Zanini I-PER
+( O
+Italy B-LOC
+) O
+88 O
+
+5. O
+Armstrong B-PER
+81 O
+
+6. O
+Baldato B-PER
+77 O
+
+8. O
+Gabriele B-PER
+Colombo I-PER
+( O
+Italy B-LOC
+) O
+58 O
+
+9. O
+Andrei B-PER
+Tchmil I-PER
+( O
+Ukraine B-LOC
+) O
+56 O
+
+CYCLING O
+- O
+FERRIGATO B-PER
+SPRINTS O
+TO O
+SECOND I-LOC
+STRAIGHT I-ORG
+WORLD B-ORG
+CUP B-MISC
+WIN O
+. O
+
+GOLF B-MISC
+- O
+GERMAN B-LOC
+OPEN B-ORG
+SCORES O
+. O
+
+Briton B-LOC
+Ian B-PER
+Woosnam I-PER
+won O
+
+the O
+German B-LOC
+Open B-ORG
+golf O
+championship O
+on O
+Sunday B-MISC
+after O
+the O
+final O
+
+round O
+was O
+abandoned O
+because O
+of O
+torrential O
+rain O
+. O
+
+199 O
+Thomas B-PER
+Gogele I-PER
+( O
+Germany B-LOC
+) O
+67 O
+65 O
+67 O
+, O
+Robert B-PER
+Karlsson I-PER
+
+( O
+Sweden B-LOC
+) O
+67 O
+62 O
+70 O
+, O
+Ian B-PER
+Pyman I-PER
+66 O
+64 O
+69 O
+, O
+Fernando B-PER
+Roca I-PER
+
+( O
+Spain B-LOC
+) O
+66 O
+64 O
+69 O
+. O
+
+200 O
+Diego B-PER
+Borrego I-PER
+( O
+Spain B-LOC
+) O
+69 O
+63 O
+68 O
+, O
+Miguel B-PER
+Angel I-PER
+Martin I-PER
+
+( O
+Spain B-LOC
+) O
+66 O
+66 O
+68 O
+. O
+
+Paul B-PER
+Broadhurst I-PER
+62 O
+70 O
+69 O
+, O
+Stephen B-PER
+Field I-PER
+66 O
+65 O
+70 O
+, O
+
+68 O
+67 O
+67 O
+, O
+David B-PER
+Carter I-PER
+66 O
+69 O
+67 O
+, O
+Michael B-PER
+Jonzon I-PER
+( O
+Sweden B-LOC
+) O
+
+67 O
+67 O
+68 O
+, O
+David B-PER
+Williams I-PER
+67 O
+67 O
+68 O
+
+67 O
+68 O
+68 O
+, O
+Raymond B-PER
+Russell I-PER
+63 O
+69 O
+71 O
+
+SOCCER O
+- O
+PSV B-ORG
+BEAT O
+GRONINGEN B-LOC
+4-1 O
+TO O
+PULL O
+AWAY O
+FROM O
+AJAX B-MISC
+. O
+
+AMSTERDAM B-LOC
+1996-08-25 O
+
+Faber B-PER
+made O
+amends O
+in O
+the O
+32nd O
+minute O
+when O
+he I-PER
+headed O
+in O
+a O
+corner B-MISC
+to O
+score O
+the O
+equaliser I-MISC
+. O
+
+SOCCER O
+- O
+BELGIAN B-LOC
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS B-MISC
+. O
+
+BRUSSELS B-LOC
+1996-08-25 O
+
+Results O
+of O
+Belgian B-LOC
+first O
+
+division O
+soccer O
+matches O
+at O
+the O
+weekend B-LOC
+: O
+
+Genk B-ORG
+1 O
+Club B-PER
+Brugge B-LOC
+1 I-ORG
+
+Harelbeke B-LOC
+3 O
+Mechelen B-LOC
+3 O
+
+Standard B-ORG
+Liege B-LOC
+3 O
+Molenbeek B-LOC
+0 O
+
+Anderlecht B-LOC
+2 O
+Lokeren B-ORG
+2 O
+
+Cercle B-ORG
+Brugge I-ORG
+2 O
+Mouscron B-LOC
+2 O
+
+Antwerp B-LOC
+1 O
+Lommel B-LOC
+4 O
+
+Ghent B-LOC
+3 O
+Aalst B-LOC
+2 O
+
+Mouscron B-LOC
+4 O
+2 O
+2 O
+0 O
+7 O
+4 O
+8 O
+
+Lierse B-LOC
+4 O
+1 O
+3 O
+0 O
+7 O
+3 O
+6 O
+
+Molenbeek B-LOC
+4 O
+1 O
+2 O
+1 O
+4 O
+5 O
+5 O
+
+Aalst B-LOC
+4 O
+1 O
+1 O
+2 O
+5 O
+6 O
+4 O
+
+Lokeren B-LOC
+4 O
+1 O
+1 O
+2 O
+4 O
+5 O
+4 O
+
+Mechelen B-LOC
+4 O
+0 O
+3 O
+1 O
+6 O
+7 O
+3 O
+
+Cercle B-ORG
+Brugge I-ORG
+4 O
+0 O
+3 O
+1 O
+4 O
+5 O
+3 O
+
+SOCCER O
+- O
+DUTCH B-LOC
+FIRST O
+DIVISION O
+SUMMARIES O
+. O
+
+Volendam B-LOC
+0 O
+. O
+
+Halftime O
+2-0 O
+. O
+
+Attendance O
+not O
+given O
+. O
+
+NEC B-ORG
+Nijmegen B-LOC
+0 O
+AZ B-ORG
+Alkmaar B-LOC
+0 O
+. O
+
+Halftime O
+0-0 B-MISC
+. I-MISC
+
+Attendance O
+7,032 O
+. O
+
+Twente B-LOC
+Enschede I-LOC
+1 O
+( O
+Hoogma B-PER
+30th B-MISC
+) O
+Roda B-ORG
+JC I-ORG
+Kerkrade I-LOC
+1 O
+( O
+Roelofsen I-PER
+
+28th O
+) O
+. O
+
+Halftime O
+1-1 O
+. O
+
+PSV B-ORG
+Eindhoven B-LOC
+4 O
+( O
+Faber B-PER
+32nd I-MISC
+, O
+Nilis I-PER
+63rd I-LOC
+79th I-LOC
+, O
+Petrovic I-PER
+78th I-LOC
+) O
+
+Attendance O
+27,500 B-MISC
+
+Played O
+on O
+Saturday B-LOC
+: O
+
+Graafschap B-ORG
+Doetinchem B-LOC
+3 O
+( O
+Ibrahim B-PER
+20th O
+63rd O
+, O
+Godee B-PER
+54th O
+) O
+RKC B-ORG
+
+1-1 O
+. O
+
+Attendance O
+7,000 O
+
+Halftime B-MISC
+
+Attendance O
+7,250 O
+. O
+
+Haldtime O
+0-0 O
+. O
+
+Attendance O
+11,500 B-MISC
+. O
+
+Twente B-ORG
+Enschede B-LOC
+1 O
+Roda B-ORG
+JC I-ORG
+1 O
+
+PSV B-ORG
+Eindhoven B-LOC
+4 O
+Groningen B-LOC
+1 O
+
+Willem B-PER
+II I-PER
+Tilburg B-LOC
+0 O
+Fortuna B-ORG
+Sittard I-LOC
+1 O
+
+Heerenveen B-LOC
+2 O
+Ajax B-ORG
+Amsterdam B-LOC
+0 O
+
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+PSV B-ORG
+Eindhoven B-LOC
+2 O
+2 O
+0 O
+0 O
+8 O
+2 O
+6 O
+
+Graafschap O
+Doetinchem B-LOC
+2 O
+1 O
+1 O
+0 O
+4 O
+3 O
+4 O
+
+Heerenveen B-LOC
+2 O
+1 O
+0 O
+1 O
+3 O
+3 O
+3 O
+
+Utrecht B-LOC
+2 O
+0 O
+1 O
+1 O
+2 O
+3 O
+1 O
+
+Volendam B-LOC
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+
+DUTCH B-LOC
+CAPTAIN O
+BLIND B-PER
+ENDS O
+INTERNATIONAL B-ORG
+CAREER I-ORG
+. O
+
+Dutch O
+soccer O
+captain O
+Danny B-PER
+Blind I-PER
+has O
+decided O
+to O
+end O
+his O
+international O
+career O
+, O
+Ajax B-ORG
+spokesman O
+David B-PER
+Endt I-PER
+said O
+on B-LOC
+Sunday O
+. O
+
+CRICKET O
+- O
+INDIA B-LOC
+BANS B-ORG
+SIDHU B-PER
+FOR O
+50 O
+DAYS O
+. O
+
+SYDNEY B-LOC
+1996-08-26 O
+
+Manly B-LOC
+21 O
+17 O
+0 O
+4 O
+501 O
+181 O
+34 O
+
+Sydney B-LOC
+City O
+20 O
+14 O
+1 O
+5 O
+487 O
+293 O
+29 O
+
+Parramatta B-LOC
+21 O
+10 O
+1 O
+10 O
+388 O
+391 O
+21 O
+
+Sydney B-LOC
+Bulldogs B-ORG
+21 O
+10 O
+0 O
+11 O
+325 O
+356 O
+20 O
+
+Illawarra B-LOC
+21 O
+8 O
+0 O
+13 O
+395 O
+432 O
+16 O
+
+Western B-LOC
+Reds B-ORG
+21 O
+6 O
+1 O
+14 O
+297 O
+398 O
+13 O
+
+Penrith B-LOC
+21 O
+6 O
+1 O
+14 O
+339 O
+448 O
+13 O
+
+Gold B-LOC
+Coast I-LOC
+21 O
+5 O
+1 O
+15 O
+351 O
+483 O
+11 O
+
+South B-LOC
+Sydney I-LOC
+21 O
+5 O
+1 O
+15 O
+304 O
+586 O
+11 O
+
+South B-LOC
+Queensland I-LOC
+21 O
+4 O
+0 O
+17 O
+210 O
+460 O
+8 I-MISC
+
+The O
+maul O
+was O
+there B-LOC
+and O
+I O
+was O
+going B-PER
+to B-MISC
+go O
+in O
+but O
+I O
+thought I-MISC
+I O
+should O
+hold O
+off O
+because O
+we O
+had O
+the O
+ball O
+. O
+
+I O
+just O
+hit O
+through O
+and O
+I O
+was O
+punching O
+the O
+air O
+before O
+the O
+ball O
+got O
+there O
+. O
+
+I O
+was O
+gone O
+in O
+the O
+first O
+20 I-MISC
+minutes I-MISC
+, O
+completely O
+exhausted O
+, O
+but O
+you B-PER
+had O
+no O
+choice B-MISC
+. O
+
+There O
+was O
+just O
+so O
+much O
+riding O
+on O
+it O
+. O
+
+It O
+'s O
+amazing O
+just O
+how O
+big O
+this O
+ground B-LOC
+was O
+yesterday B-MISC
+. O
+' O
+
+Messages O
+of O
+goodwill O
+continued O
+to O
+roll O
+into O
+the O
+team O
+hotel B-ORG
+. O
+
+' O
+
+Australian B-LOC
+Rules O
+- O
+AFL B-ORG
+results O
+and O
+standings O
+. O
+
+MELBOURNE B-LOC
+1996-08-26 O
+
+9 O
+( O
+153 O
+) O
+
+West B-LOC
+Coast I-LOC
+24 O
+. O
+
+7 O
+( O
+151 O
+) O
+Melbourne B-LOC
+11.12 O
+( O
+78 O
+) O
+
+6 O
+( O
+36 O
+) O
+
+Played O
+Saturday O
+: O
+
+Carlton B-PER
+13.18 O
+( O
+96 O
+) O
+Footscray B-LOC
+9.12 O
+( O
+66 O
+) O
+
+Essendon B-ORG
+14.16 O
+( O
+100 O
+) O
+Sydney B-ORG
+12.10 O
+( O
+82 O
+) O
+
+9 O
+( O
+63 O
+) O
+Hawthorn B-LOC
+12 O
+. O
+
+8 O
+( O
+80 O
+) O
+
+Brisbane B-LOC
+10.11 O
+( O
+71 O
+) O
+Fremantle B-ORG
+10.10 O
+( O
+70 O
+) O
+
+Played O
+Friday B-LOC
+: O
+
+Brisbane B-LOC
+21 O
+15 O
+1 O
+5 O
+2123 O
+1631 O
+130.2 O
+62 O
+
+West B-LOC
+Coast I-LOC
+21 O
+15 O
+0 O
+6 O
+2151 O
+1673 O
+128.6 O
+60 O
+
+Carlton B-PER
+21 O
+14 O
+0 O
+7 O
+2009 O
+1844 O
+108.9 O
+56 O
+
+Geelong B-LOC
+21 O
+13 O
+1 O
+7 O
+2288 O
+1940 O
+117.9 O
+54 O
+
+Essendon B-LOC
+21 O
+13 O
+1 O
+7 O
+2130 O
+1947 O
+109.4 O
+54 O
+
+Hawthorn B-LOC
+21 O
+10 O
+1 O
+10 O
+1791 O
+1820 O
+98.4 O
+42 O
+
+Collingwood B-ORG
+21 O
+8 O
+0 O
+13 O
+2103 O
+2091 O
+100.6 O
+32 O
+
+Melbourne B-LOC
+21 O
+7 O
+0 O
+14 O
+1642 O
+2361 O
+69.5 O
+28 O
+
+Fremantle B-LOC
+21 O
+6 O
+0 O
+15 O
+1673 O
+1912 O
+87.5 O
+24 O
+
+Footscray B-LOC
+21 O
+5 O
+1 O
+15 O
+1578 O
+2060 O
+76.6 O
+22 O
+
+Fitzroy B-PER
+21 O
+1 O
+0 O
+20 O
+1381 O
+2778 O
+49.7 O
+4 O
+
+Rugby B-MISC
+league-Australian I-ORG
+rugby O
+league I-MISC
+results O
+. O
+
+Results O
+of O
+Australian B-LOC
+rugby B-MISC
+league I-MISC
+matches O
+played O
+at I-LOC
+the O
+weekend I-ORG
+. O
+
+Played O
+Sunday O
+: O
+
+North B-LOC
+Sydney I-LOC
+46 O
+South B-LOC
+Sydney I-LOC
+4 O
+
+Illawarra B-LOC
+42 O
+Penrith B-LOC
+2 O
+
+Manly B-LOC
+42 O
+Western B-ORG
+Suburbs I-ORG
+12 O
+
+Canberra B-LOC
+30 O
+Auckland B-LOC
+6 O
+
+Anton B-PER
+Ferreira I-PER
+
+But O
+others O
+, O
+such O
+as O
+self-confessed O
+secret O
+police B-ORG
+hit-squad I-ORG
+leader O
+Dirk B-PER
+Coetzee I-PER
+, O
+have O
+yet O
+to O
+testify O
+. O
+
+He B-PER
+added O
+that O
+former I-ORG
+hardline I-MISC
+apartheid I-MISC
+president I-MISC
+P.W. B-PER
+Botha I-PER
+could O
+be O
+among O
+those O
+called O
+. O
+
+At O
+the O
+moment O
+this O
+is O
+not O
+the O
+case O
+. O
+" O
+
+Boraine B-PER
+said O
+the O
+picture O
+was O
+incomplete O
+because O
+officers B-ORG
+of I-ORG
+the O
+apartheid-era B-MISC
+security I-MISC
+forces I-ORG
+had O
+yet O
+to O
+make O
+their I-PER
+scheduled I-LOC
+, O
+separate B-LOC
+submission O
+, O
+but I-LOC
+one O
+black B-PER
+caller I-PER
+to O
+a O
+radio O
+talk B-ORG
+show I-ORG
+declared O
+: O
+
+" O
+Therefore O
+I B-PER
+have O
+some O
+doubts O
+about O
+achieving O
+some O
+form O
+of O
+reconciliation B-MISC
+. O
+
+Professor O
+Tom B-PER
+Lodge I-PER
+of O
+the O
+University B-ORG
+of I-ORG
+the O
+Witwatersrand B-LOC
+demurred I-LOC
+, O
+saying O
+: O
+
+Responsibility O
+is O
+percolating O
+downwards O
+. O
+" O
+
+MATUZICI B-PER
+, O
+Bosnia B-LOC
+1996-08-25 O
+
+We O
+demand O
+to O
+vote O
+in O
+Doboj B-LOC
+, O
+" B-MISC
+other O
+banners I-MISC
+said O
+. O
+
+How O
+can O
+we O
+then O
+expect O
+the O
+reintegration O
+of O
+Bosnia B-LOC
+? O
+
+To O
+loud O
+applause O
+, O
+he O
+added O
+: O
+" O
+We B-PER
+will I-PER
+enter B-ORG
+Doboj B-LOC
+, O
+untie B-MISC
+the I-MISC
+Doboj I-LOC
+knot I-ORG
+and O
+ensure [CLS]
+free O
+movement O
+for O
+all O
+. O
+
+We O
+have O
+to O
+enter O
+Doboj B-LOC
+to O
+free O
+the O
+Serbs B-MISC
+from O
+their I-MISC
+own I-MISC
+( O
+separatist B-PER
+) O
+politics I-MISC
+. O
+" O
+
+But O
+the O
+crowd O
+dispersed O
+without O
+incident O
+. O
+
+Eight O
+killed O
+in O
+Moscow B-LOC
+casino B-MISC
+blaze O
+. O
+
+MOSCOW B-LOC
+1996-08-25 O
+
+Leftist B-ORG
+Mexican B-LOC
+armed O
+group O
+says O
+troops O
+in O
+capital B-LOC
+. O
+
+Ten O
+people O
+gunned O
+down O
+in O
+northwest B-LOC
+Colombia I-LOC
+. O
+
+Port B-LOC
+of I-ORG
+Tauranaga I-LOC
+year O
+profit O
+climbs O
+. O
+
+WELLINGTON B-LOC
+1996-08-26 O
+
+Year O
+to O
+June B-LOC
+30 O
+. O
+
+( O
+million B-MISC
+NZ$ I-MISC
+unless O
+stated O
+) O
+
+Two O
+Thai B-LOC
+border O
+police B-ORG
+wounded I-ORG
+by O
+Burma B-LOC
+gunmen O
+. O
+
+MAE B-PER
+SOT I-PER
+, O
+Thailand B-LOC
+1996-08-25 B-MISC
+
+U.S. B-LOC
+F-14 B-MISC
+catches O
+fire O
+while O
+landing O
+in O
+Israel B-LOC
+. O
+
+Egypt B-LOC
+hopes O
+jars O
+will O
+reveal O
+secrets O
+of O
+mummies O
+. O
+
+CAIRO B-LOC
+1996-08-25 O
+
+Dahshour B-LOC
+is O
+the O
+site O
+of O
+Egypt B-LOC
+'s I-MISC
+second O
+largest O
+pyramid O
+, O
+built O
+for B-ORG
+the I-ORG
+pharaoh O
+Seneferu B-PER
+more O
+than B-MISC
+4,500 I-LOC
+years O
+ago I-MISC
+. O
+
+Saudi B-LOC
+Arabia I-LOC
+executes O
+Pakistani B-PER
+man O
+. O
+
+DUBAI B-LOC
+1996-08-25 O
+
+It O
+quoted O
+an O
+Interior B-ORG
+Ministry I-ORG
+statement O
+as O
+saying O
+Shabir B-PER
+Ahmad I-PER
+Muhammad I-PER
+Jalil I-PER
+was O
+executed O
+in O
+Mecca B-LOC
+. O
+
+PRESS O
+DIGEST O
+- O
+Jordan B-LOC
+- O
+Aug B-MISC
+25 O
+. O
+
+AMMAN B-LOC
+1996-08-25 O
+
+No O
+going O
+back O
+on O
+democracy O
+; O
+attempts O
+to O
+tamper O
+with O
+security O
+and O
+stability O
+will O
+not O
+be O
+tolerated O
+. O
+
+AL O
+RAI B-ORG
+
+- O
+Saudi B-LOC
+Prince B-PER
+Sultan I-PER
+telephones O
+prime B-MISC
+minister I-MISC
+. O
+
+- O
+Jordan B-PER
+releases O
+32 O
+from O
+southern B-LOC
+town I-LOC
+of O
+Karak B-LOC
+. O
+
+AD O
+DUSTOUR B-ORG
+
+AL O
+ASWAQ B-ORG
+
+- O
+State B-LOC
+security O
+court B-ORG
+starts O
+investigating O
+suspects O
+in O
+unrest O
+. O
+
+Netanyahu B-PER
+, O
+Weizman B-PER
+consult O
+on O
+Arafat B-PER
+invitation O
+. O
+
+After O
+Moslem B-MISC
+suicide O
+bombers O
+killed O
+59 O
+people O
+in O
+Israel B-LOC
+in O
+February B-PER
+and I-MISC
+March I-LOC
+, O
+Weizman B-PER
+called O
+for O
+peace O
+efforts O
+with O
+the B-ORG
+PLO I-ORG
+to O
+be O
+suspended O
+. O
+
+Shumer B-PER
+said O
+his O
+current O
+position O
+was O
+that O
+the O
+peace O
+process O
+must O
+continue O
+. O
+
+PRESS O
+DIGEST O
+- O
+Israel B-LOC
+- O
+Aug B-MISC
+25 O
+. O
+
+JERUSALEM B-LOC
+1996-08-25 O
+
+HAARETZ B-ORG
+
+- O
+Israel B-LOC
+bans O
+plane O
+donated O
+by O
+the O
+Netherlands B-ORG
+to O
+Arafat B-PER
+to O
+land O
+at O
+Gaza B-LOC
+airport B-MISC
+. O
+
+- O
+Netanyahu B-PER
+opposes O
+transit O
+camps O
+for O
+foreign O
+workers O
+facing O
+expulsion O
+. O
+
+MAARIV B-ORG
+
+- O
+Shimon B-PER
+Peres I-PER
+to O
+Morocco B-LOC
+, O
+will O
+stay O
+at O
+king B-MISC
+'s I-MISC
+private I-MISC
+residence I-MISC
+. O
+
+- O
+Prime B-ORG
+minister I-ORG
+names O
+former B-MISC
+general I-MISC
+Avraham B-PER
+Tamir I-PER
+to O
+staff O
+after O
+failing O
+to O
+establish O
+national B-LOC
+security I-LOC
+council I-LOC
+. O
+
+- O
+Cabinet B-ORG
+puts O
+off O
+decision O
+on O
+foreign B-LOC
+workers I-ORG
+. O
+
+Voting O
+begins O
+in O
+second O
+round O
+of O
+Lebanese B-LOC
+election O
+. O
+
+Corporate B-ORG
+America B-LOC
+taking O
+new I-MISC
+view B-MISC
+on O
+compensation O
+. O
+
+Anne B-PER
+Murray I-PER
+
+NEW B-LOC
+YORK I-LOC
+1996-08-23 O
+
+But O
+as O
+the O
+economy O
+became O
+global B-MISC
+, O
+customers B-ORG
+were O
+more I-MISC
+demanding O
+and O
+problems O
+became O
+more [CLS]
+complex I-MISC
+. O
+
+Now O
+organisations B-ORG
+must O
+change O
+to O
+stay O
+competitive O
+. O
+
+If O
+your O
+team O
+does O
+well O
+, O
+you O
+'ll O
+do O
+well O
+. O
+
+It O
+'s O
+not O
+a O
+question O
+we O
+ask O
+any O
+more O
+. O
+
+It O
+will O
+improve O
+a O
+company B-ORG
+'s I-MISC
+bottom O
+line O
+. O
+" O
+
+Geert B-PER
+de I-PER
+Clercq I-PER
+
+NEUFCHATEAU B-LOC
+, O
+Belgium B-LOC
+1996-08-25 O
+
+Two O
+other O
+girls O
+have O
+been O
+rescued O
+and O
+police B-ORG
+are I-ORG
+hunting O
+for O
+at B-LOC
+least I-LOC
+two I-LOC
+more O
+who I-PER
+Dutroux B-PER
+has O
+admitted O
+kidnapping B-MISC
+a I-MISC
+year O
+ago O
+. O
+
+French B-LOC
+1997 O
+budget B-MISC
+due O
+around O
+September I-LOC
+10 O
+- O
+Juppe B-PER
+. O
+
+BREGANCON B-PER
+, O
+France B-LOC
+1996-08-25 O
+
+The O
+budget O
+had O
+been O
+widely O
+expected O
+a O
+week B-LOC
+or I-LOC
+so O
+later O
+. O
+
+-- O
+Paris B-LOC
+newsroom B-ORG
++331 B-MISC
+4221 I-MISC
+5452 I-MISC
+
+MUZAFFARABAD B-LOC
+, O
+Pakistan B-LOC
+1996-08-25 B-MISC
+
+Five O
+people O
+died O
+later O
+in O
+hospital B-LOC
+. O
+
+ISLAMABAD B-LOC
+1996-08-25 O
+
+Students O
+burn O
+Hasina B-PER
+effigy O
+, O
+battle O
+police B-ORG
+. O
+
+Anis B-PER
+Ahmed I-PER
+
+DHAKA B-LOC
+1996-08-25 O
+
+Police B-ORG
+stormed O
+ten O
+residence B-LOC
+halls I-ORG
+on O
+the O
+campus I-LOC
+, O
+flushed O
+out O
+people B-PER
+at O
+gunpoint B-MISC
+and O
+searched O
+their O
+baggage I-MISC
+. O
+
+They O
+seized O
+revolvers O
+, O
+sawn-off O
+rifles O
+, O
+shotguns O
+and O
+knives O
+. O
+
+The O
+students O
+were O
+later O
+allowed O
+to O
+return O
+. O
+
+16 O
+die O
+as O
+bus O
+crashes O
+in O
+Pakistani B-LOC
+Kashmir I-LOC
+. O
+
+Two O
+died O
+later O
+in O
+hospital B-LOC
+. O
+
+Irene B-PER
+Marushko I-PER
+
+BATKIVSHCHYNA B-ORG
+COLLECTIVE I-ORG
+FARM I-ORG
+, O
+Ukraine B-LOC
+1996-08-26 B-MISC
+
+And O
+it O
+went O
+too O
+fast O
+. O
+
+Privatising O
+too O
+quickly O
+can O
+also O
+have O
+a O
+negative O
+outcome O
+. O
+" B-MISC
+
+" O
+Not O
+everything O
+has O
+gone O
+well O
+. O
+
+We O
+'ve O
+had O
+substantial O
+production O
+difficulties O
+at B-LOC
+a I-MISC
+number I-LOC
+of O
+our I-ORG
+operations O
+. O
+
+Implats B-ORG
+posted O
+year O
+attributable O
+profit O
+of O
+176 B-MISC
+million I-MISC
+rand B-MISC
+from O
+281 B-MISC
+million I-MISC
+previously O
+. O
+
+The O
+rand B-MISC
+was O
+last I-MISC
+bid I-MISC
+at O
+4.5350 B-MISC
+against O
+the O
+dollar B-MISC
+. O
+
+It O
+forfeited O
+nearly O
+one O
+million O
+tonnes O
+of O
+production O
+to O
+flooding O
+at O
+its B-ORG
+mines I-ORG
+in O
+Mpumulanga B-LOC
+province I-LOC
+. O
+
+Looking O
+ahead O
+to O
+the O
+current O
+financial O
+year O
+, O
+he B-PER
+said O
+that O
+Gencor B-ORG
+would O
+boost O
+earnings O
+further O
+. O
+
+I O
+think O
+we O
+can O
+look O
+forward O
+to O
+further O
+growth O
+" B-MISC
+. O
+
+The O
+biggest O
+of O
+those O
+was O
+Malbak B-PER
+. O
+
+Overall O
+a O
+very O
+substantial O
+pruning O
+... I-MISC
+
+at O
+quite O
+a O
+bit O
+lower O
+than O
+the O
+price O
+is O
+now O
+... O
+
+-- O
+Johannesburg B-LOC
+newsroom B-ORG
++27 B-MISC
+11 O
+482-1003 O
+
+Advanced B-ORG
+Medical I-ORG
+Inc. I-ORG
+said O
+Monday B-LOC
+it O
+will O
+buy O
+IVAC B-MISC
+Medical I-MISC
+Systems I-MISC
+Inc. I-ORG
+, O
+a O
+former O
+Eli B-PER
+Lilly I-PER
+& O
+Co B-ORG
+. I-ORG
+
+The O
+combined O
+company B-ORG
+will O
+have O
+estimated O
+revenues O
+of O
+$ B-MISC
+353 I-MISC
+million I-MISC
+. O
+
+Advanced B-ORG
+Medical I-ORG
+, O
+through O
+IMED B-MISC
+, O
+is O
+already O
+one O
+of O
+the O
+nation B-LOC
+'s I-MISC
+largest O
+developers O
+and O
+manufacturers O
+of O
+intravenous O
+infusion O
+pumps O
+and O
+proprietary O
+disposable O
+products O
+. O
+
+It O
+did O
+not O
+say O
+when O
+the O
+charge O
+would O
+be O
+taken O
+. O
+
+IMED B-ORG
+introduced O
+the O
+world O
+'s O
+first O
+volumetric B-MISC
+infusion I-MISC
+pump I-MISC
+in O
+1974 B-LOC
+. O
+
+Dow B-ORG
+rises O
+on O
+Philip B-PER
+Morris I-PER
+, O
+other O
+stocks O
+lower O
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-26 O
+
+The O
+Dow B-ORG
+Jones I-ORG
+industrial O
+average O
+opened O
+slightly O
+higher O
+on O
+Monday B-LOC
+, O
+boosted B-PER
+by I-PER
+Philip O
+Morris B-MISC
+, I-MISC
+which O
+gained O
+four O
+to O
+92 O
+. O
+
+Other O
+shares O
+were O
+slightly O
+lower O
+, O
+mirroring O
+bonds O
+. O
+
+New B-LOC
+York I-LOC
+Stock B-ORG
+Exchange I-ORG
+advances O
+lagged O
+declines O
+by O
+476/698 O
+while B-MISC
+NASDAQ O
+advances O
+led O
+declines O
+837/763 O
+. O
+
+RUGBY B-MISC
+LEAGUE I-MISC
+- O
+ST B-PER
+HELENS I-PER
+CLINCH O
+SUPER B-MISC
+LEAGUE I-MISC
+TITLE O
+. O
+
+RALLYING O
+- O
+1,000 O
+LAKES B-LOC
+RALLY B-MISC
+RESULT I-MISC
+/ O
+WORLD B-ORG
+CHAMPIONSHIP I-ORG
+STANDINGS I-MISC
+. O
+
+Result O
+of O
+the O
+1,000 O
+
+Lakes B-ORG
+Rally I-ORG
+which O
+ended O
+on O
+Monday B-LOC
+: O
+
+13 O
+seconds O
+
+2. O
+Juha B-PER
+Kankkunen I-PER
+( O
+Finland B-LOC
+) O
+Toyota B-ORG
+Celica B-MISC
+46 I-MISC
+seconds O
+behind O
+
+4. O
+Marcus B-PER
+Gronholm I-PER
+( O
+Finland B-LOC
+) O
+Toyota B-ORG
+Celica B-MISC
+2:42 O
+
+6. O
+Thomas B-PER
+Radstrom I-PER
+( O
+Sweden B-LOC
+) O
+Toyota B-ORG
+Celica B-MISC
+4.09 I-MISC
+
+9. O
+Rui B-PER
+Madeira I-PER
+( O
+Portugal B-LOC
+) O
+Toyota B-ORG
+Celica B-MISC
+16:34 O
+
+RALLYING O
+- O
+MAKINEN B-PER
+STEPS O
+UP O
+TITLE O
+BID O
+WITH O
+LAKES B-LOC
+WIN O
+. O
+
+JYVASKYLA B-LOC
+, O
+Finland B-LOC
+1996-08-26 O
+
+RALLYING O
+- O
+MAKINEN B-PER
+WINS O
+1,000 O
+LAKES B-LOC
+RALLY B-ORG
+. O
+
+LEEDS B-LOC
+, O
+England B-LOC
+1996-08-26 B-MISC
+
+Summary O
+of O
+Monday B-LOC
+'s O
+English O
+
+premier B-MISC
+league I-MISC
+soccer O
+match O
+: O
+
+Leeds B-LOC
+1 O
+( O
+Sharpe B-PER
+58th O
+minute O
+) O
+Wimbledon B-ORG
+0 O
+. O
+
+SOCCER O
+- O
+ENGLISH B-LOC
+PREMIER B-MISC
+LEAGUE I-MISC
+RESULT O
+/ O
+STANDINGS B-ORG
+. O
+
+LONDON B-LOC
+1996-08-26 O
+
+Result O
+of O
+an O
+English B-ORG
+premier B-MISC
+
+Leeds B-LOC
+1 O
+Wimbledon B-LOC
+0 O
+
+Sheffield B-LOC
+Wednesday B-ORG
+3 O
+3 O
+0 O
+0 O
+6 O
+2 O
+9 O
+
+Arsenal B-ORG
+3 O
+2 O
+0 O
+1 O
+4 O
+2 O
+6 O
+
+Manchester B-LOC
+United B-ORG
+3 O
+1 O
+2 O
+0 O
+7 O
+4 O
+5 O
+
+Nottingham B-LOC
+Forest B-ORG
+3 O
+1 O
+1 O
+1 O
+5 O
+5 O
+4 O
+
+Leeds B-LOC
+3 O
+1 O
+1 O
+1 O
+4 O
+5 O
+4 O
+
+Leicester B-LOC
+3 O
+1 O
+1 O
+1 O
+2 O
+3 O
+4 O
+
+Newcastle B-LOC
+3 O
+1 O
+0 O
+2 O
+3 O
+4 O
+3 O
+
+Coventry B-LOC
+3 O
+0 O
+1 O
+2 O
+1 O
+6 O
+1 O
+
+Wimbledon B-LOC
+3 O
+0 O
+0 O
+3 O
+0 O
+6 O
+0 O
+
+for O
+Pakistan B-LOC
+in O
+England B-LOC
+'s I-MISC
+second B-MISC
+innings O
+at O
+The B-ORG
+Oval I-ORG
+on O
+Monday O
+
+gave O
+him O
+his O
+300th B-MISC
+test B-ORG
+match I-ORG
+wicket I-MISC
+. O
+
+bowlers O
+and O
+the O
+second O
+Pakistani B-LOC
+, O
+after O
+Imran B-PER
+Khan I-PER
+, O
+to O
+achieve O
+
+the O
+feat O
+. O
+
+Dennis B-PER
+Lillee I-PER
+( O
+Australia B-LOC
+) O
+355 O
+, O
+70 O
+
+Bob B-PER
+Willis I-PER
+( O
+England B-LOC
+) O
+325 O
+, O
+90 O
+
+Lance B-PER
+Gibbs I-PER
+( O
+West B-LOC
+Indies I-LOC
+) O
+309 O
+, O
+79 O
+
+Fred B-PER
+Trueman I-PER
+( O
+England B-LOC
+) O
+307 O
+, O
+67 O
+
+Courtney B-PER
+Walsh I-PER
+( O
+West B-LOC
+Indies I-LOC
+) O
+309 O
+, O
+82 O
+
+English O
+County B-LOC
+Championship I-ORG
+
+cricket O
+standings O
+after O
+Monday B-LOC
+'s I-MISC
+matches O
+( O
+tabulated O
+under O
+
+played O
+, O
+won O
+, O
+lost O
+, O
+drawn O
+, O
+batting B-MISC
+bonus I-MISC
+points O
+, O
+bowling B-MISC
+bonus I-MISC
+
+points O
+, O
+total O
+points O
+) O
+: O
+
+Essex B-LOC
+13 O
+7 O
+2 O
+4 O
+45 O
+43 O
+212 O
+
+Leicestershire B-LOC
+13 O
+6 O
+1 O
+6 O
+43 O
+45 O
+202 O
+
+Yorkshire B-LOC
+14 O
+6 O
+5 O
+3 O
+41 O
+46 O
+192 O
+
+Warwickshire B-LOC
+13 O
+6 O
+4 O
+3 O
+32 O
+43 O
+180 O
+
+Worcestershire B-LOC
+13 O
+3 O
+3 O
+7 O
+33 O
+48 O
+150 O
+
+Glamorgan B-LOC
+13 O
+4 O
+5 O
+4 O
+36 O
+32 O
+144 O
+
+Gloucestershire B-LOC
+14 O
+3 O
+6 O
+5 O
+19 O
+47 O
+129 O
+
+Lancashire B-LOC
+13 O
+1 O
+4 O
+8 O
+38 O
+37 O
+115 O
+
+Nottinghamshire B-LOC
+13 O
+1 O
+6 O
+6 O
+34 O
+40 O
+108 O
+
+Results O
+on O
+the O
+final O
+day O
+of O
+
+At O
+Colchester B-LOC
+: O
+Essex I-LOC
+beat O
+Gloucestershire B-ORG
+by O
+an O
+innings B-MISC
+and I-MISC
+
+64 O
+runs O
+. O
+
+N. O
+Williams B-PER
+5-43 O
+) O
+. O
+
+P. B-PER
+Prichard I-PER
+88 O
+, O
+D. B-PER
+Robinson I-PER
+72 O
+; O
+M. B-PER
+Alleyne I-PER
+4-80 O
+) O
+. O
+
+Gloucestershire B-LOC
+3 O
+. O
+
+At O
+Cardiff B-LOC
+: O
+Match O
+drawn O
+. O
+
+D. B-PER
+Fulton I-PER
+64 O
+, O
+N. B-PER
+Llong I-PER
+63 O
+, O
+M. B-MISC
+Walker I-MISC
+59 O
+) O
+and O
+second O
+innings O
+
+forfeited O
+. O
+
+Glamorgan B-LOC
+5 O
+points O
+, O
+Kent B-LOC
+6 O
+. O
+
+Northamptonshire B-LOC
+361 O
+and O
+142-4 O
+. O
+
+Northamptonshire B-LOC
+24 O
+points O
+, O
+Sussex B-LOC
+8 O
+. O
+
+Surrey B-LOC
+128-4 O
+declared O
+
+( O
+A. B-PER
+Brown I-PER
+56 O
+not O
+out O
+) O
+. O
+
+Warwickshire B-LOC
+310 O
+and O
+162-4 O
+
+Worcestershire B-LOC
+205-9 O
+declared O
+( O
+K. B-PER
+Spiring I-PER
+52 O
+; O
+A. B-MISC
+Giles I-MISC
+
+3-12 O
+) O
+and O
+164-4 O
+( O
+P. O
+Weston B-PER
+52 I-PER
+) O
+. O
+
+Worcestershire B-LOC
+8 O
+points O
+, O
+
+Warwickshire B-LOC
+10 O
+. O
+
+Lancashire B-LOC
+323 O
+( O
+N. B-MISC
+Fairbrother B-PER
+86 I-PER
+, O
+M. B-MISC
+Watkinson B-PER
+64 I-PER
+; O
+D. B-MISC
+Gough B-PER
+4-53 I-MISC
+) O
+
+Yorkshire B-LOC
+11 O
+points O
+, O
+Lancashire B-LOC
+8 O
+. O
+
+At O
+Leicester B-LOC
+: O
+Match O
+drawn O
+. O
+
+Leicestershire B-LOC
+353 O
+. O
+
+Leicestershire B-LOC
+11 O
+points O
+, O
+Hampshire B-LOC
+
+7. O
+
+CRICKET O
+- O
+PAKISTAN B-LOC
+BEAT O
+ENGLAND B-LOC
+BY O
+NINE O
+WICKETS O
+IN O
+THIRD O
+TEST O
+. O
+
+RUGBY B-ORG
+LEAGUE I-ORG
+- O
+EUROPEAN B-LOC
+SUPER B-MISC
+LEAGUE I-MISC
+RESULT O
+/ O
+FINALS B-MISC
+STANDINGS B-MISC
+. O
+
+rugby O
+league O
+match O
+on O
+Monday B-LOC
+: B-MISC
+
+English B-LOC
+and O
+Scottish I-LOC
+league B-ORG
+soccer B-MISC
+
+fixtures O
+for O
+August B-LOC
+30 O
+to O
+September I-LOC
+1 O
+: O
+
+English O
+division O
+three O
+- O
+Swansea B-LOC
+v O
+Lincoln B-ORG
+. O
+
+English O
+division O
+one O
+- O
+Birmingham B-LOC
+v O
+Barnsley B-MISC
+, O
+Bradford B-MISC
+v O
+
+German-based O
+striker B-LOC
+Bachirou B-PER
+Salou I-PER
+returned O
+home O
+to O
+Togo B-LOC
+to O
+score O
+the O
+decisive O
+only O
+goal O
+of O
+their O
+tie O
+against O
+Congo B-LOC
+. O
+
+Ethiopia B-LOC
+needed O
+a O
+penalty O
+shoot-out O
+in O
+Addis B-LOC
+Ababa I-LOC
+to O
+overcome O
+Uganda B-LOC
+after O
+a O
+2-2 B-MISC
+aggregate I-ORG
+scoreline I-MISC
+. O
+
+SOCCER B-MISC
+- O
+AFRICAN B-LOC
+NATIONS I-MISC
+CUP I-MISC
+COLLATED O
+RESULTS O
+. O
+
+JOHANNESBURG B-LOC
+1996-08-26 O
+
+Ethiopia B-LOC
+1 O
+Uganda B-LOC
+1 O
+
+Metalurg B-ORG
+6 O
+3 O
+2 O
+1 O
+9 O
+6 O
+11 O
+
+Zirka-Nibas B-MISC
+6 O
+3 O
+1 O
+2 O
+6 O
+8 O
+10 O
+
+MOSCOW B-LOC
+1996-08-26 O
+
+But O
+he O
+is O
+conscious O
+and O
+is O
+talking O
+and O
+smiling O
+. O
+" O
+
+Maslova B-PER
+said O
+the O
+wound O
+had O
+affected O
+a O
+lung B-LOC
+and O
+a O
+kidney O
+. O
+
+Doctors O
+operated O
+on O
+Popov B-PER
+, O
+24 B-MISC
+, O
+for O
+three O
+hours O
+. O
+
+There O
+'s O
+no O
+need O
+to O
+worry O
+. O
+
+It O
+said O
+the O
+row O
+started O
+when O
+Popov B-PER
+and O
+a O
+group B-ORG
+of I-ORG
+his I-ORG
+friends I-MISC
+were O
+returning O
+from O
+a B-LOC
+party B-MISC
+. O
+
+I O
+am O
+not O
+a O
+doctor O
+but O
+I O
+think O
+he B-PER
+is O
+doing O
+all O
+right O
+, O
+" O
+said O
+Smirnov I-PER
+. O
+
+SOCCER O
+- O
+SLOVAK B-LOC
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS B-MISC
+. O
+
+BRATISLAVA B-LOC
+1996-08-26 O
+
+Results O
+of O
+Slovak B-LOC
+first O
+
+DAC B-ORG
+Dunajska B-LOC
+Streda I-LOC
+1 O
+Spartak B-ORG
+Trnava B-LOC
+3 O
+
+MSK B-ORG
+Zilina B-LOC
+0 O
+FC B-MISC
+Kosice B-LOC
+2 O
+
+Petrimex B-ORG
+Prievidza B-LOC
+2 O
+FC B-MISC
+Rimavska B-LOC
+Sobota I-LOC
+0 O
+
+Lokomotiva B-ORG
+Kosice I-ORG
+2 O
+Kerametal B-ORG
+Dubnica B-LOC
+0 O
+
+FC B-ORG
+Kosice B-LOC
+4 O
+2 O
+2 O
+0 O
+6 O
+3 O
+8 O
+
+DAC B-ORG
+Dunajska B-LOC
+Streda I-LOC
+4 O
+2 O
+0 O
+2 O
+5 O
+6 O
+6 O
+
+FC B-ORG
+Rimavska B-LOC
+Sobota I-LOC
+4 O
+2 O
+0 O
+2 O
+4 O
+5 O
+6 O
+
+JAS B-PER
+Bardejov B-LOC
+4 O
+1 O
+2 O
+1 O
+2 O
+2 O
+5 O
+
+Kerametal B-ORG
+Dubnica B-LOC
+4 O
+0 O
+1 O
+3 O
+3 O
+9 O
+1 O
+
+MSK B-MISC
+Zilina B-LOC
+4 O
+0 O
+0 O
+4 O
+0 O
+6 O
+0 O
+
+SOCCER O
+- O
+HUNGARY B-LOC
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS B-PER
+. O
+
+BUDAPEST B-LOC
+1996-08-26 O
+
+Hungarian B-LOC
+first O
+division O
+
+Vac O
+0 O
+Vasas B-ORG
+1 O
+
+Kispest B-LOC
+3 O
+Pecs B-LOC
+1 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+1. O
+Ujpest B-LOC
+TE B-ORG
+3 O
+3 O
+- O
+- O
+10 O
+2 O
+9 O
+
+2. O
+MTK B-ORG
+3 O
+3 O
+- O
+- O
+7 O
+1 O
+9 O
+
+4. O
+Debrecen B-LOC
+3 O
+2 O
+- O
+1 O
+10 O
+4 O
+6 O
+
+10. O
+Kispest B-LOC
+3 O
+1 O
+1 O
+1 O
+6 O
+7 O
+4 O
+
+12. O
+Csepel B-LOC
+3 B-ORG
+- B-MISC
+3 I-ORG
+- I-MISC
+3 I-MISC
+3 O
+3 O
+
+13. O
+Pecs B-LOC
+3 B-ORG
+1 O
+- O
+2 O
+3 O
+5 O
+3 O
+
+14. O
+ZTE B-ORG
+3 O
+1 O
+- O
+2 O
+3 O
+10 O
+3 O
+
+15. O
+Stadler B-ORG
+FC I-ORG
+3 O
+- O
+1 O
+2 O
+2 O
+6 O
+1 O
+
+16. O
+III.ker.TVE B-MISC
+3 O
+- O
+1 O
+2 O
+2 O
+7 O
+1 O
+
+17. O
+Siofok B-LOC
+3 O
+- O
+- O
+3 O
+2 O
+7 O
+0 O
+
+-- O
+Budapest B-LOC
+newsroom B-ORG
+, O
++361 B-MISC
+266 I-MISC
+2410 I-MISC
+
+SK B-ORG
+Slavia I-ORG
+Praha B-LOC
+3 O
+SK B-ORG
+Ceske B-LOC
+Budejovice I-LOC
+0 O
+
+Banik B-PER
+Ostrava B-LOC
+3 O
+FK B-ORG
+Teplice B-MISC
+1 I-MISC
+
+SK B-MISC
+Hradec B-LOC
+Kralove I-LOC
+0 O
+Kaucuk B-ORG
+Opava B-LOC
+0 O
+
+Playing O
+Monday O
+: O
+Viktoria B-PER
+Plzen B-LOC
+v O
+AC B-ORG
+Sparta I-ORG
+Praha I-LOC
+
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Boby B-PER
+Brno B-LOC
+3 O
+3 O
+0 O
+0 O
+5 O
+2 O
+9 O
+
+FK B-MISC
+Teplice B-LOC
+3 O
+1 O
+1 O
+1 O
+3 O
+4 O
+4 O
+
+AC B-ORG
+Sparta B-LOC
+Praha O
+2 O
+0 O
+1 O
+1 O
+3 O
+4 O
+1 O
+
+FC B-ORG
+Bohemians I-ORG
+3 O
+0 O
+1 O
+2 O
+1 O
+4 O
+1 O
+
+SOCCER O
+- O
+MEXICAN B-LOC
+CHAMPIONSHIP O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+Results O
+of O
+weekend O
+matches O
+
+Atlante B-MISC
+1 O
+Atlas B-ORG
+1 B-PER
+
+Cruz B-PER
+Azul I-PER
+2 O
+Leon B-ORG
+2 I-ORG
+
+Guadalajara B-LOC
+5 O
+America B-ORG
+0 O
+
+UAG B-ORG
+1 O
+Neza B-LOC
+2 O
+
+for O
+, O
+against O
+, O
+points O
+) O
+
+Puebla B-LOC
+3 O
+3 O
+0 O
+0 O
+7 O
+2 O
+9 O
+
+Pachuca B-LOC
+3 O
+1 O
+1 O
+1 O
+6 O
+7 O
+4 O
+
+Leon B-PER
+3 O
+0 O
+3 O
+0 O
+3 O
+3 O
+3 O
+
+America B-LOC
+3 O
+1 O
+0 O
+2 O
+5 O
+7 O
+3 O
+
+Group B-ORG
+4 O
+
+Monterrey B-LOC
+4 O
+1 O
+1 O
+2 O
+2 O
+5 O
+4 O
+
+Brian B-PER
+Homewood B-LOC
+
+RIO B-LOC
+DE I-ORG
+JANEIRO I-LOC
+1996-08-26 O
+
+Tulio B-PER
+, O
+who O
+has O
+been O
+top-scorer B-MISC
+in I-MISC
+the B-LOC
+competition I-LOC
+for I-LOC
+the B-LOC
+last I-LOC
+two I-LOC
+seasons I-LOC
+, O
+has O
+been O
+struggling O
+against I-MISC
+injury B-ORG
+for I-ORG
+most B-LOC
+of I-LOC
+this I-LOC
+year I-LOC
+. I-LOC
+
+SOCCER O
+- O
+ARGENTINE B-LOC
+CHAMPIONSHIP B-ORG
+RESULTS O
+. O
+
+Results O
+of O
+matches O
+on O
+the O
+
+opening O
+weekend O
+of O
+the O
+Argentine B-LOC
+Apertura B-MISC
+championship I-MISC
+: O
+
+Estudiantes B-ORG
+2 O
+Boca B-ORG
+Juniors I-ORG
+3 O
+
+Newell B-PER
+'s O
+Old B-ORG
+Boys I-ORG
+0 O
+Velez B-LOC
+Sarsfield I-LOC
+2 O
+
+River B-LOC
+Plate I-LOC
+0 O
+Gimnasia-La B-ORG
+Plata I-ORG
+0 O
+
+Playing O
+Monday O
+: O
+Deportivo B-ORG
+Espanol I-ORG
+v O
+Colon B-MISC
+
+There O
+is O
+no O
+overall O
+champion O
+. O
+
+SOCCER O
+- O
+HONDURAS B-LOC
+BEAT O
+CUBA I-LOC
+4-0 O
+IN O
+FRIENDLY B-MISC
+. O
+
+TEGUCIGALPA B-LOC
+1996-08-26 O
+
+Honduras B-LOC
+beat O
+Cuba B-LOC
+4-0 O
+
+( O
+halftime O
+3-0 O
+) O
+in O
+a O
+friendly B-MISC
+soccer I-MISC
+international I-MISC
+on O
+Sunday B-LOC
+. O
+
+84th O
+) O
+, O
+Carlos B-PER
+Pavon I-PER
+( O
+37th B-MISC
+) O
+
+SOCCER O
+- O
+BRAZILIAN B-LOC
+CHAMPIONSHIP B-ORG
+RESULTS O
+/ O
+STANDINGS B-MISC
+. O
+
+Results O
+of O
+Brazilian B-LOC
+
+Cruzeiro B-ORG
+2 O
+Flamengo B-ORG
+1 O
+
+Juventude B-ORG
+5 O
+3 O
+1 O
+1 O
+5 O
+4 O
+10 O
+
+Portuguesa B-LOC
+4 O
+3 O
+0 O
+1 O
+8 O
+3 O
+9 O
+
+Palmeiras B-ORG
+5 O
+2 O
+3 O
+0 O
+8 O
+1 O
+9 O
+
+Goias B-LOC
+5 O
+2 O
+2 O
+1 O
+7 O
+4 O
+8 O
+
+Parana B-LOC
+4 O
+2 O
+1 O
+2 O
+5 O
+5 O
+7 O
+
+Flamengo B-ORG
+4 O
+2 O
+0 O
+2 O
+4 O
+4 O
+6 O
+
+Vitoria B-LOC
+5 O
+1 O
+2 O
+2 O
+5 O
+6 O
+5 O
+
+Atletico B-ORG
+Paranaense I-ORG
+3 O
+1 O
+0 O
+2 O
+4 O
+6 O
+3 O
+
+Guarani O
+3 O
+0 O
+1 O
+2 O
+1 O
+5 O
+1 O
+
+Bragantino B-ORG
+4 O
+0 O
+0 O
+4 O
+3 O
+12 O
+0 O
+
+number O
+of O
+games O
+won O
+. O
+
+SOCCER O
+- O
+RESULTS O
+OF O
+SOUTH B-LOC
+KOREAN I-LOC
+PRO-SOCCER B-ORG
+GAMES I-ORG
+. O
+
+Results O
+of O
+South B-LOC
+Korean I-LOC
+pro-soccer B-MISC
+
+games O
+played O
+on O
+Sunday B-LOC
+. O
+
+Puchon B-LOC
+3 O
+Chonan B-LOC
+0 O
+( O
+halftime B-MISC
+1-0 I-MISC
+) O
+
+Pohang B-LOC
+3 O
+Chonbuk B-LOC
+2 O
+( O
+halftime B-MISC
+0-0 I-MISC
+) O
+
+Standings O
+after O
+games O
+played O
+on O
+Sunday B-LOC
+( O
+tabulate O
+under B-MISC
+- I-MISC
+
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+Chonan B-LOC
+2 O
+0 O
+1 O
+9 O
+9 O
+6 O
+
+Ulsan B-LOC
+1 O
+0 O
+1 O
+6 O
+6 O
+3 O
+
+Anyang B-LOC
+0 O
+3 O
+0 O
+5 O
+5 O
+3 O
+
+Suwon B-LOC
+0 O
+3 O
+0 O
+3 O
+3 O
+3 O
+
+Pusan B-LOC
+0 O
+2 O
+0 O
+3 O
+3 O
+2 O
+
+Results O
+of O
+South B-LOC
+Korean I-LOC
+
+OB O
+2 O
+Lotte B-ORG
+1 O
+
+Hanwha B-ORG
+3 O
+Haitai B-ORG
+2 O
+
+Hyundai B-ORG
+8 O
+Samsung B-ORG
+1 O
+
+drawn O
+, O
+lost O
+, O
+winning O
+percentage O
+, O
+games O
+behind O
+first B-LOC
+place B-MISC
+) O
+
+W O
+D O
+L B-ORG
+PCT B-MISC
+GB I-MISC
+
+LG B-ORG
+44 O
+5 O
+58 O
+.435 O
+18 O
+
+soccer O
+matches O
+played O
+on O
+Sunday B-LOC
+: O
+
+Widad B-PER
+Fes B-LOC
+3 O
+Oujda B-LOC
+1 O
+
+Raja B-PER
+Casablanca B-LOC
+4 O
+Tetouan I-LOC
+0 O
+
+Settat B-LOC
+1 O
+Marrakesh B-LOC
+0 O
+
+Khouribga B-LOC
+3 O
+Mohammedia B-LOC
+0 O
+
+When O
+the O
+tournament O
+began O
+on O
+Monday B-LOC
+it O
+was O
+the O
+fans O
+' I-MISC
+turn O
+to O
+be B-MISC
+offended I-MISC
+. O
+
+And O
+that O
+little O
+snack O
+is O
+guaranteed O
+to O
+make O
+you O
+thirsty O
+. O
+
+Of O
+course O
+, O
+it O
+is O
+served O
+on O
+a O
+tuscan B-LOC
+roll O
+. O
+
+Then O
+we O
+'ll O
+see O
+if O
+Arantxa B-PER
+will O
+be O
+there O
+, O
+too O
+. O
+" O
+
+The O
+fast-moving O
+Olsza B-PER
+, O
+18 O
+, O
+was O
+cool I-PER
+in O
+her O
+opening O
+match O
+. O
+
+Richard B-PER
+Finn I-PER
+
+They O
+did O
+n't O
+really O
+get O
+hurt O
+as O
+much O
+as O
+I B-PER
+think O
+they B-ORG
+should B-MISC
+have O
+, O
+" O
+said O
+Stich I-PER
+. O
+" O
+
+TENNIS O
+- O
+MONDAY B-LOC
+'S O
+RESULTS B-ORG
+FROM I-ORG
+U.S. B-MISC
+OPEN I-MISC
+. O
+
+Women O
+'s O
+singles O
+
+Aleksandra B-PER
+Olsza I-PER
+( O
+Poland B-LOC
+) O
+beat O
+12 B-MISC
+- I-MISC
+Magdalena B-PER
+Maleeva I-PER
+( O
+Bulgaria B-LOC
+) O
+6-4 O
+6-2 O
+
+Men O
+'s O
+singles O
+
+Helena B-PER
+Sukova I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+beat O
+Yone B-PER
+Kamio I-PER
+( O
+Japan B-LOC
+) O
+6-2 O
+6-3 O
+
+Irina B-PER
+Spirlea I-PER
+( O
+Romania B-LOC
+) O
+beat O
+Petra B-PER
+Begerow I-PER
+( O
+Germany B-LOC
+) O
+6-3 O
+6-2 O
+
+Carlos B-PER
+Moya I-PER
+( O
+Spain B-LOC
+) O
+beat O
+Scott B-PER
+Humphries I-PER
+( O
+U.S. B-ORG
+) O
+6-1 O
+6-7 O
+( B-MISC
+3-7 I-MISC
+) I-ORG
+6-7 O
+( B-MISC
+1-7 I-MISC
+) I-ORG
+6-0 O
+6-4 O
+
+Jason B-PER
+Stoltenberg I-PER
+( O
+Australia B-LOC
+) O
+beat O
+Stefano B-PER
+Pescosolido I-PER
+( O
+Italy B-LOC
+) O
+7-5 O
+6-4 O
+6-1 O
+
+Amanda B-PER
+Coetzer I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+beat O
+6 O
+- O
+Anke B-PER
+Huber I-PER
+( O
+Germany B-LOC
+) O
+6-1 O
+2-6 O
+6-2 O
+
+Anna B-PER
+Kournikova I-PER
+( O
+Russia B-LOC
+) O
+beat O
+Ludmila B-PER
+Richterova I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+7-6 O
+( O
+7-4 O
+) O
+6-3 O
+
+Linda B-PER
+Wild I-PER
+( O
+U.S. B-ORG
+) O
+beat O
+Sung-Hee B-PER
+Park I-PER
+( O
+South B-LOC
+Korea I-LOC
+) O
+6-2 O
+6-3 O
+
+Jan B-PER
+Siemerink I-PER
+( O
+Netherlands B-LOC
+) O
+beat O
+Carl-Uwe B-PER
+Steeb I-PER
+( O
+Germany B-LOC
+) O
+4-6 O
+6 O
+- O
+1 O
+7-6 O
+( B-MISC
+7-4 I-MISC
+) O
+6-4 O
+
+Neville B-PER
+Godwin I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+beat O
+Tomas B-PER
+Carbonell I-PER
+( O
+Spain B-LOC
+) O
+6-4 O
+6-2 O
+3-6 O
+6-1 O
+
+Alexandra B-PER
+Fusai I-PER
+( O
+France B-LOC
+) O
+beat O
+Jill B-MISC
+Craybas I-MISC
+( O
+U.S. B-ORG
+) O
+6-1 O
+2-6 O
+7-5 O
+
+Ai B-PER
+Sugiyama I-PER
+( O
+Japan B-LOC
+) O
+beat O
+Jana B-PER
+Kandarr I-PER
+( O
+Germany B-LOC
+) O
+6-2 O
+6-1 O
+
+BASEBALL O
+- O
+CUBS B-ORG
+EDGE O
+BRAVES B-ORG
+WITH O
+RUN O
+IN O
+TOP O
+OF O
+NINTH O
+. O
+
+He B-PER
+added O
+a O
+three-run B-MISC
+homer I-MISC
+in O
+the O
+eighth I-LOC
+off O
+John B-PER
+Ericks I-PER
+to O
+make O
+it O
+13-8 O
+. O
+
+But O
+I O
+ca O
+n't O
+wait O
+to O
+see O
+how O
+good O
+he B-PER
+'ll I-MISC
+be O
+when O
+he I-PER
+grows O
+up O
+. O
+" O
+
+He B-PER
+left O
+the O
+game O
+with O
+a O
+knot O
+in O
+his I-PER
+right O
+shoulder O
+. O
+
+standings O
+after O
+games O
+played O
+on O
+Sunday B-LOC
+( O
+tabulate B-MISC
+under I-MISC
+won O
+, O
+
+BALTIMORE B-LOC
+68 O
+61 O
+.527 O
+6 O
+
+BOSTON B-LOC
+66 O
+65 O
+.504 O
+9 O
+
+KANSAS B-LOC
+CITY I-LOC
+59 O
+73 O
+.447 O
+19 O
+
+TEXAS B-LOC
+75 O
+56 O
+.573 O
+- O
+
+OAKLAND B-LOC
+63 O
+70 O
+.474 O
+13 O
+
+CALIFORNIA B-LOC
+61 O
+69 O
+.469 O
+13 O
+1/2 O
+
+MONDAY O
+, O
+AUGUST B-LOC
+26TH I-LOC
+SCHEDULE B-MISC
+
+CLEVELAND B-LOC
+AT O
+DETROIT B-LOC
+
+OAKLAND B-LOC
+AT O
+BALTIMORE B-LOC
+
+MILWAUKEE B-LOC
+AT O
+CHICAGO B-LOC
+
+FLORIDA B-LOC
+61 O
+70 O
+.466 O
+21 O
+
+NEW B-LOC
+YORK I-LOC
+59 O
+72 O
+.450 O
+23 O
+
+HOUSTON B-LOC
+70 O
+61 O
+.534 O
+- O
+
+PHILADELPHIA B-LOC
+AT O
+SAN B-LOC
+FRANCISCO I-LOC
+
+CINCINNATI B-LOC
+AT O
+COLORADO B-LOC
+
+SOCCER O
+- O
+JONK B-PER
+RETURNS O
+TO O
+DUTCH B-LOC
+SQUAD B-ORG
+FOR O
+BRAZIL I-LOC
+FRIENDLY I-MISC
+. O
+
+ROTTERDAM B-LOC
+1996-08-26 O
+
+Feyenoord B-ORG
+midfielder O
+Jean-Paul B-PER
+van I-PER
+Gastel I-PER
+was O
+also O
+named O
+to O
+make O
+his O
+debut O
+in O
+the O
+18-man O
+squad O
+. O
+
+Ronald B-PER
+de I-PER
+Boer I-PER
+and O
+Dennis B-PER
+Bergkamp I-PER
+are O
+the O
+likely O
+contenders O
+to O
+lead O
+the B-ORG
+team I-ORG
+. O
+
+Squad B-ORG
+: O
+
+SOCCER O
+- O
+BARCELONA B-LOC
+BEAT O
+ATLETICO B-ORG
+5-2 O
+IN I-PER
+SUPERCUP B-MISC
+. O
+
+BARCELONA B-LOC
+1996-08-26 O
+
+Attendance O
+30,000 O
+
+SOCCER O
+- O
+AUSTRIA B-LOC
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+VIENNA B-LOC
+1996-08-26 O
+
+Result O
+of O
+an O
+Austrian B-LOC
+first O
+
+division O
+soccer O
+match O
+played O
+on O
+Sunday B-LOC
+: O
+
+SV B-ORG
+Ried I-ORG
+6 O
+1 O
+1 O
+4 O
+6 O
+9 O
+4 O
+
+Admira B-ORG
+/ O
+Wacker I-ORG
+6 O
+0 O
+3 O
+3 O
+5 O
+10 O
+3 O
+
+CRICKET O
+- O
+AUSTRALIA B-LOC
+BEAT O
+ZIMBABWE B-LOC
+BY O
+125 B-MISC
+RUNS I-MISC
+IN O
+ONE-DAY B-MISC
+MATCH I-MISC
+. O
+
+COLOMBO B-LOC
+1996-08-26 O
+
+Scoreboard O
+in O
+the O
+Singer B-ORG
+World B-MISC
+
+Zimbabwe B-LOC
+on O
+Monday B-PER
+: O
+
+I. O
+Healy B-PER
+b I-PER
+Brandes B-ORG
+5 I-ORG
+
+Extras B-MISC
+( O
+b-1 B-MISC
+lb-8 B-MISC
+w-3 B-MISC
+nb-3 B-MISC
+) O
+15 O
+
+Total O
+( O
+for O
+seven O
+wickets O
+- O
+50 B-MISC
+overs O
+) O
+263 I-MISC
+
+Bowling B-PER
+: O
+Streak I-PER
+10-1-50-1 O
+( O
+2w B-MISC
+, O
+2nb I-MISC
+) O
+, O
+Brandes B-PER
+10-1-47-2 O
+( O
+1w B-MISC
+) O
+, O
+
+Zimbabwe B-LOC
+
+C. B-PER
+Evans I-PER
+c O
+Healy B-PER
+b O
+S. B-PER
+Waugh I-PER
+15 O
+
+M. B-PER
+Dekker I-PER
+not O
+out O
+8 O
+
+Fall O
+of O
+wickets O
+: O
+1-16 B-MISC
+2-16 I-MISC
+3-33 I-MISC
+4-35 I-MISC
+5-56 I-MISC
+6-98 I-MISC
+7-100 I-MISC
+8-120 I-MISC
+
+9-2-26-1 O
+( O
+1nb O
+, O
+3w O
+) O
+, O
+M. B-PER
+Waugh I-PER
+5-1-24-3 O
+
+Result O
+: O
+Australia B-LOC
+won O
+by O
+125 O
+runs O
+. O
+
+PRESS O
+DIGEST O
+- O
+MOZAMBIQUE B-LOC
+- O
+AUGUST B-MISC
+26 I-MISC
+. O
+
+MAPUTO B-LOC
+1996-08-26 O
+
+NOTICIAS O
+
+[ O
+CORRECTED O
+18:00 B-MISC
+GMT B-ORG
+] O
+
+1996-08-26 O
+
+( O
+Corrects O
+to O
+make O
+clear O
+a O
+reorganization B-ORG
+plan I-ORG
+has O
+been O
+filed O
+) O
+. O
+
+Passengers O
+rescued O
+from O
+blazing O
+ferry O
+off O
+France B-LOC
+. O
+
+OSCE B-ORG
+delays O
+decision O
+on O
+refugee O
+voting O
+. O
+
+Kurt B-PER
+Schork I-PER
+
+SARAJEVO B-LOC
+1996-08-26 O
+
+the O
+Provisional B-ORG
+Election I-ORG
+Commission I-ORG
+will O
+consider O
+the O
+possible O
+postponement B-MISC
+of I-MISC
+municipal O
+elections B-MISC
+only O
+... O
+
+the O
+other O
+elections O
+will O
+be O
+held O
+on O
+September B-LOC
+14 O
+, O
+" O
+OSCE B-ORG
+spokeswoman O
+Agota B-PER
+Kuperman I-PER
+told O
+reporters O
+in O
+Sarajevo B-LOC
+. O
+
+Kuperman B-PER
+added O
+that O
+options O
+other O
+than O
+postponement O
+were O
+also O
+on O
+the O
+table O
+, O
+but O
+she I-PER
+refused O
+to O
+specify O
+what O
+they O
+were O
+. O
+
+More O
+than O
+600,000 O
+refugees O
+have O
+registered O
+to O
+vote O
+in O
+55 B-LOC
+countries I-LOC
+around O
+the O
+world O
+, O
+representing O
+about O
+20 B-MISC
+per I-MISC
+cent I-MISC
+of O
+Bosnia B-PER
+'s I-PER
+total O
+electorate O
+. O
+
+OSCE B-ORG
+and O
+independent O
+monitors O
+allege O
+that O
+Serb B-MISC
+authorities I-ORG
+have O
+systematically O
+discouraged O
+refugees O
+from O
+registering O
+to O
+cast O
+a O
+ballot B-PER
+in B-LOC
+the I-LOC
+places O
+they I-LOC
+lived I-MISC
+before I-PER
+the I-LOC
+war I-LOC
+. O
+
+After O
+truce O
+, O
+Lebed B-PER
+faces O
+tougher O
+Chechen B-LOC
+problem O
+. O
+
+Alastair B-PER
+Macdonald I-PER
+
+But O
+then O
+he B-PER
+apparently O
+thought O
+better O
+of O
+it B-LOC
+. O
+
+It O
+is O
+not O
+known O
+what O
+caused O
+the O
+delay O
+in O
+the O
+peace B-MISC
+plan I-MISC
+. O
+
+Lebed B-PER
+may O
+be O
+be O
+finding O
+that O
+closing O
+that O
+political B-MISC
+gap I-MISC
+between O
+the O
+two O
+sides O
+is O
+more O
+difficult O
+than O
+just O
+ending O
+a O
+war O
+. O
+
+Yeltsin B-PER
+on O
+holiday O
+from O
+Monday B-LOC
+- O
+Interfax B-ORG
+. O
+
+Yeltsin B-PER
+went O
+on O
+a O
+two-day B-MISC
+trip I-MISC
+outside O
+Moscow B-LOC
+last O
+week O
+to O
+check O
+out O
+a O
+holiday O
+home O
+. O
+
+Yugo B-ORG
+Zastava I-ORG
+workers O
+' O
+protest O
+enters O
+2nd B-MISC
+week I-LOC
+. O
+
+BELGRADE B-LOC
+1996-08-26 O
+
+Federal B-ORG
+Yugoslav B-LOC
+elections O
+are O
+due O
+on O
+November I-LOC
+3 B-MISC
+. O
+
+-- O
+Gordana B-PER
+Kukic I-PER
+, O
+Belgrade B-LOC
+Newsroom B-ORG
++381 B-MISC
+11 I-MISC
+222 I-MISC
+4254 I-MISC
+
+ZAGREB B-LOC
+1996-08-26 O
+
+Interbank B-ORG
+call O
+money O
+was O
+down O
+to O
+8.0 O
+from O
+10.0 O
+percent O
+. O
+
+Supply O
+stood O
+at O
+a O
+high O
+180 O
+million B-MISC
+kuna I-MISC
+. O
+
+The O
+director O
+general O
+of O
+the O
+air O
+traffic O
+service B-ORG
+Valentin I-ORG
+Valkov B-PER
+said I-PER
+last O
+Friday B-LOC
+that O
+a O
+controllers B-MISC
+' I-MISC
+strike O
+would O
+be O
+illegal O
+. O
+
+-- O
+Liliana B-PER
+Semerdjieva I-PER
+, O
+Sofia B-LOC
+Newsroom B-ORG
+, O
+359-2-84561 B-MISC
+
+Mrs O
+Yeltsin B-PER
+would O
+be O
+released O
+from O
+hospital B-ORG
+in O
+a O
+few O
+days O
+. O
+
+WARSAW B-LOC
+1996-08-26 O
+
+He B-PER
+also O
+said O
+shareholders O
+approved O
+the O
+issue O
+of O
+2.6 O
+million O
+new O
+shares O
+, O
+two O
+million O
+of O
+which O
+are O
+earmarked O
+for O
+large O
+investors B-MISC
+and I-MISC
+600,000 O
+for O
+retail B-LOC
+domestic I-LOC
+investors O
+. O
+
+-- O
+Warsaw B-LOC
+Newsroom B-ORG
++48 B-MISC
+22 O
+653 O
+9700 O
+
+SAN B-LOC
+JOSE I-LOC
+, O
+Costa B-MISC
+Rica I-MISC
+1996-08-26 B-MISC
+
+Col O
+. O
+
+Wisinga B-PER
+was O
+believed O
+to O
+be O
+travelling O
+in O
+Europe B-LOC
+, I-LOC
+they O
+said O
+. O
+
+Interacciones B-ORG
+ups O
+Mexico B-LOC
+GDP B-MISC
+forecast O
+, O
+lowers O
+peso O
+. O
+
+It O
+bumped O
+up O
+its O
+average O
+interest O
+rate O
+projection O
+in O
+1997 B-LOC
+to O
+25.8 B-MISC
+percent I-MISC
+from O
+23 B-MISC
+percent I-MISC
+. O
+
+MEXICO B-LOC
+CITY I-LOC
+1996-08-26 O
+
+BOGOTA B-LOC
+1996-08-26 O
+
+-- O
+Juan B-PER
+Guillermo I-PER
+Londono I-PER
+, O
+Bogota B-LOC
+newsroom B-ORG
+, O
+571 B-MISC
+610 I-MISC
+7944 I-MISC
+
+BRASILIA B-LOC
+1996-08-26 O
+
+After O
+Peru B-LOC
+, O
+he O
+was O
+due O
+to O
+go O
+to O
+Costa B-LOC
+Rica I-LOC
+. O
+
+MANAGUA B-LOC
+, O
+Nicaragua B-LOC
+1996-08-26 O
+
+She O
+is O
+scheduled O
+to O
+step O
+down O
+in O
+January B-LOC
+after O
+a O
+term O
+of O
+nearly O
+seven O
+years O
+. O
+
+MARACAIBO B-LOC
+, O
+Venezuela I-LOC
+1996-08-26 B-MISC
+
+The O
+cause O
+of O
+the O
+sinking O
+was O
+not O
+known O
+but O
+officials B-ORG
+said O
+the O
+boat B-MISC
+had O
+a O
+hole O
+in O
+the I-LOC
+stern I-MISC
+and O
+no O
+lifejackets O
+. O
+
+Three O
+members O
+of O
+the O
+party B-ORG
+were O
+rescued O
+unhurt O
+. O
+
+The O
+auctions O
+were O
+offered O
+as O
+follows O
+: O
+
+AMOUNT O
+TERM O
+
+1.206 O
+bln O
+9 O
+days O
+
+1.206 O
+bln O
+3 O
+days O
+
+No O
+other O
+details O
+were O
+immediately O
+available O
+. O
+
+RTRS O
+- O
+Melbourne B-LOC
+train O
+collides O
+with O
+truck O
+, O
+15 O
+injured O
+. O
+
+-- O
+Sydney B-LOC
+Newsroom B-ORG
+61-2 B-MISC
+373-1800 I-MISC
+
+Police B-ORG
+capture O
+Auckland B-LOC
+gunman B-PER
+. O
+
+AUCKLAND B-LOC
+1996-08-27 O
+
+Police B-ORG
+said O
+he B-PER
+did O
+not O
+have O
+a O
+weapon B-MISC
+when O
+taken O
+into O
+custody I-ORG
+and O
+was B-LOC
+now I-PER
+cooperating I-MISC
+with O
+them B-PER
+. O
+
+Radio B-ORG
+New B-PER
+Zealand I-LOC
+reported O
+earlier O
+that O
+an O
+armed O
+man B-PER
+on O
+Monday B-LOC
+entered O
+the O
+Northcote B-ORG
+College I-ORG
+swimming O
+pool O
+changing O
+sheds O
+and O
+confronted O
+a O
+16-year-old I-PER
+schoolgirl B-MISC
+. O
+
+-- O
+Wellington B-LOC
+newsroom B-ORG
+64 B-MISC
+4 B-MISC
+473-4746 I-MISC
+
+Police B-ORG
+seek O
+fugitive O
+after O
+Auckland B-LOC
+gun B-MISC
+incident I-MISC
+. O
+
+WELLINGTON B-LOC
+1996-08-27 O
+
+SINGAPORE B-LOC
+1996-08-26 O
+
+Contracts O
+traded O
+in O
+Singapore B-LOC
+are O
+mutually O
+offset O
+against O
+contracts O
+traded O
+in O
+London B-LOC
+. O
+
+-- O
+Singapore B-LOC
+Newsroom B-ORG
+( O
++65 B-MISC
+870 I-MISC
+3081 I-PER
+) O
+
+Metro B-ORG
+slides O
+3.3 O
+pct O
+after O
+market O
+opens O
+. O
+
+Shares O
+in O
+retailer O
+Metro B-ORG
+Holdings I-ORG
+dropped O
+3.31 B-MISC
+percent I-MISC
+, O
+or O
+Singapore B-LOC
+$ O
+0.20 O
+, O
+to O
+S$ I-LOC
+5.85 O
+minutes O
+after O
+the O
+market O
+opened O
+on O
+Monday O
+. O
+
+By O
+0120 B-MISC
+GMT I-MISC
+, O
+357,000 O
+Metro B-ORG
+shares I-ORG
+had O
+been O
+traded O
+. O
+
+Indonesian B-MISC
+rupiah I-MISC
+stable O
+in O
+quiet O
+late B-LOC
+trading I-ORG
+. O
+
+Spot O
+rupiah B-MISC
+was O
+quoted O
+at O
+2,342.0 I-MISC
+/ O
+42.5 I-MISC
+at O
+0915 B-MISC
+GMT B-LOC
+, O
+unchanged O
+from O
+the O
+opening O
+level O
+. O
+
+It O
+was O
+softer O
+in O
+the O
+morning B-LOC
+due O
+to O
+relatively B-MISC
+ample I-MISC
+rupiah B-MISC
+liquidity I-MISC
+but O
+recovered O
+later O
+. O
+
+Tomorrow O
+and O
+today O
+rupiah B-MISC
+closed O
+at O
+2,342.00 I-MISC
+/ O
+42.45 I-MISC
+and O
+2,341.5 I-MISC
+/ O
+42.0 I-MISC
+, O
+respectively O
+. O
+
+Another O
+dealer O
+said O
+operators O
+were O
+reluctant O
+to O
+unload O
+rupiah B-MISC
+despite O
+ample I-MISC
+conditions O
+due O
+to O
+the O
+month-end B-MISC
+factor I-MISC
+. O
+
+The O
+hearing O
+is O
+due O
+to O
+resume O
+on O
+Thursday B-LOC
+. O
+
+He B-PER
+said O
+liquidity B-MISC
+would O
+be O
+the O
+main I-MISC
+concern I-MISC
+for O
+the O
+next I-MISC
+few I-LOC
+days I-MISC
+. O
+
+DUBAI B-LOC
+1996-08-26 O
+
+The O
+United B-LOC
+States I-LOC
+has O
+5,000 O
+U.S. B-ORG
+air I-ORG
+force I-ORG
+and O
+other O
+military B-PER
+personnel I-PER
+in O
+Saudi B-LOC
+Arabia I-LOC
+. O
+
+ANKARA B-LOC
+1996-08-26 O
+
+The O
+KDP B-ORG
+said O
+29 O
+PUK B-ORG
+fighters O
+were O
+killed O
+in O
+the O
+attack O
+. O
+
+Egypt B-LOC
+to O
+press O
+Britain B-ORG
+over O
+Islamist B-MISC
+conference I-MISC
+. O
+
+CAIRO B-LOC
+1996-08-26 O
+
+It O
+is O
+not O
+clear O
+when O
+the O
+conference B-ORG
+will O
+be O
+held O
+. O
+
+Israeli B-LOC
+army O
+ransacks O
+Bedouin B-MISC
+Palestinian B-PER
+camp O
+. O
+
+The O
+spokesman O
+Peter B-PER
+Lerner I-PER
+said O
+he O
+knew O
+nothing O
+about O
+soldiers O
+having O
+stolen O
+anything O
+from O
+the O
+Palestinians B-LOC
+. O
+
+Premium O
+includes O
+price O
+for O
+delivery O
+to O
+consumer O
+'s O
+works O
+. O
+
+-- O
+
+Aluminum B-MISC
+: O
+Western B-ORG
+grade I-MISC
+3.25-3.75 O
+cents O
+/ O
+pound O
+
+Russian B-LOC
+grade O
+A7E B-MISC
+3.25-3.75 O
+cents I-MISC
+/ O
+pound B-ORG
+
+Nickel B-MISC
+( O
+melting O
+grade O
+) O
+9.0-12.0 O
+cents O
+/ O
+pound O
+
+delivered O
+to O
+consumer O
+
+Old O
+Sheet O
+and O
+Cast O
+metal B-MISC
+42 I-MISC
+to O
+44 I-MISC
+cents O
+/ O
+pound O
+
+Turnings B-MISC
+, O
+clean O
+and O
+dry O
+43 B-LOC
+to O
+44 I-LOC
+cents I-MISC
+/ O
+pound O
+
+Mixed O
+low-copper O
+clips O
+48 O
+to O
+49 O
+cents O
+/ O
+pound O
+
+Copper B-MISC
+scrap O
+, O
+Midwest B-LOC
+and O
+East B-LOC
+coast I-LOC
+average O
+price O
+, O
+
+No1 O
+Bare O
+Bright O
+91 O
+to O
+92 O
+cents O
+/ O
+pound B-MISC
+
+No1 O
+Burnt O
+87 O
+to O
+90 O
+cents O
+/ O
+pound O
+
+Lead O
+batteries O
+, O
+delivered O
+consumer O
+4.5 B-MISC
+to O
+6.0 I-MISC
+cents O
+/ O
+pound O
+
+U.S. B-LOC
+Producer O
+list O
+/ O
+transaction O
+prices O
+
+ingot O
+75 O
+cents B-MISC
+/ O
+pound B-MISC
+
+extrusion O
+billet O
+85 O
+cents B-MISC
+/ O
+pound O
+
+52 O
+cents O
+/ O
+pound O
+
+50 O
+cents O
+/ O
+pound O
+
+premium O
+over O
+LME B-ORG
+cash O
+7.5 O
+cents O
+/ O
+pound O
+
+FORT B-LOC
+LAUDERDALE I-LOC
+, O
+Fla. B-ORG
+1996-08-26 B-MISC
+
+His O
+father O
+cut O
+him O
+down O
+and O
+tried O
+to O
+revive O
+him O
+but O
+paramedics B-ORG
+pronounced O
+him O
+dead O
+when O
+they B-LOC
+arrived O
+. O
+
+They O
+said O
+there O
+was O
+no O
+sign O
+of O
+foul O
+play O
+and O
+that B-ORG
+investigators I-ORG
+believed O
+the O
+death O
+was O
+a O
+suicide O
+. O
+
+Sam B-PER
+Nelson I-PER
+312-408-8721 O
+
+Talbott B-PER
+to O
+meet O
+Russian B-MISC
+, I-LOC
+Canadian B-LOC
+counterparts O
+. O
+
+WASHINGTON B-LOC
+1996-08-26 O
+
+Attempts O
+to O
+move O
+prices O
+higher O
+again O
+Tuesday B-LOC
+could O
+be O
+offset O
+by O
+expected B-MISC
+increased I-MISC
+hog O
+marketings O
+this I-LOC
+week I-ORG
+, O
+sources B-ORG
+said O
+. O
+
+-- O
+Bob B-PER
+Janis I-PER
+312-983-7347-- O
+
+Michael B-PER
+Posner I-PER
+
+At O
+a O
+downtown B-LOC
+hotel B-ORG
+Monday O
+, O
+the O
+48-year-old B-MISC
+Gore B-PER
+gave O
+Wisconsin B-LOC
+delegates I-ORG
+a O
+taste O
+again O
+of O
+the O
+new O
+Gore I-PER
+. O
+
+Gore B-PER
+said O
+. O
+
+He B-PER
+painted O
+a O
+scene O
+of O
+horrors O
+he B-PER
+saw O
+if O
+Republicans B-ORG
+controlled O
+the O
+White B-LOC
+House I-LOC
+and O
+the O
+Congress I-ORG
+they O
+hold O
+now O
+. O
+" O
+
+Our O
+personal O
+and O
+religious O
+liberties O
+would O
+be O
+at O
+risk O
+. O
+
+Medicare B-ORG
+would O
+be O
+at O
+risk O
+of O
+withering O
+on O
+the O
+vine O
+. O
+
+Education O
+would O
+be O
+at O
+risk O
+. O
+
+The O
+environment O
+would O
+be O
+at O
+risk O
+from O
+the B-ORG
+polluters O
+that O
+control O
+that B-ORG
+coalition I-ORG
+, O
+" B-MISC
+he B-PER
+said O
+. O
+
+Actor B-PER
+Reeve I-PER
+highlights O
+Democrats B-ORG
+' I-MISC
+first B-LOC
+night I-LOC
+. O
+
+CHICAGO B-LOC
+1996-08-26 O
+
+Richard B-PER
+Gephardt I-PER
+and O
+Sen B-MISC
+. O
+
+Here O
+are O
+thumbnail O
+profiles O
+of O
+the O
+convention B-MISC
+'s I-MISC
+key B-LOC
+Monday B-PER
+speakers I-ORG
+. O
+
+As O
+head O
+of O
+Handgun B-ORG
+Control I-ORG
+Inc. I-ORG
+, O
+Sarah B-PER
+Brady I-PER
+, O
+54 B-MISC
+, O
+campaigned O
+nonstop O
+for O
+tough O
+gun O
+control B-LOC
+in I-LOC
+the I-LOC
+years O
+following O
+the O
+shooting O
+of O
+her O
+husband O
+and B-PER
+then I-MISC
+President B-ORG
+Reagan I-PER
+in I-ORG
+1981 B-MISC
+. O
+
+That O
+allowed O
+him B-PER
+to O
+be O
+moved O
+to O
+a O
+semi-upright B-MISC
+position I-MISC
+. O
+
+Reeve B-PER
+, O
+43 O
+, O
+was O
+classically O
+trained O
+as O
+an O
+actor O
+but O
+became O
+the B-ORG
+prototypical B-MISC
+handsome I-MISC
+leading I-MISC
+man I-MISC
+. O
+
+He B-PER
+advocated O
+tough O
+action O
+against O
+foreign B-LOC
+countries I-LOC
+to O
+cut O
+U.S. B-ORG
+trade I-ORG
+deficits I-ORG
+but O
+sometimes O
+been O
+out O
+of O
+step O
+with O
+the O
+party B-ORG
+'s O
+liberal B-MISC
+wing I-MISC
+. O
+
+He B-PER
+was O
+an O
+opponent O
+of O
+abortion O
+until I-LOC
+1986 O
+and O
+voted O
+for O
+President B-MISC
+Ronald B-PER
+Reagan I-PER
+'s I-MISC
+big O
+tax O
+cut O
+bill O
+. O
+
+Gephardt B-PER
+, O
+a O
+red-haired O
+square-jawed O
+man I-PER
+, O
+is O
+a O
+less O
+than O
+fiery O
+orator B-MISC
+. O
+
+He B-PER
+has O
+made O
+clear O
+he B-PER
+opposed O
+Clinton B-ORG
+'s I-MISC
+signing B-MISC
+of I-LOC
+the O
+Republican-initiated I-ORG
+welfare I-ORG
+reform B-LOC
+bill B-LOC
+. O
+
+U.S. B-LOC
+boy O
+, O
+13 O
+, O
+accused O
+of O
+murdering O
+adoptive O
+mother B-PER
+. O
+
+DALLAS B-LOC
+1996-08-26 O
+
+A O
+shotgun O
+and O
+a O
+.357 B-MISC
+handgun I-MISC
+were O
+found O
+in O
+the O
+car O
+. O
+
+They O
+are O
+talking O
+to O
+him O
+now O
+about O
+the O
+motive O
+and O
+everything O
+else O
+. O
+" O
+
+McCullough B-PER
+had O
+adopted O
+the O
+boy O
+, O
+who O
+was I-PER
+the O
+grandson O
+of O
+her I-LOC
+late I-MISC
+husband B-MISC
+, B-ORG
+shortly O
+after I-ORG
+his O
+birth B-LOC
+but O
+neighbours I-LOC
+said O
+they B-PER
+often I-PER
+had O
+loud O
+arguments O
+. O
+
+Pakistani B-LOC
+bourse O
+to O
+use O
+new B-MISC
+recomposed I-MISC
+index B-ORG
+. O
+
+Eurograde B-ORG
+barges O
+were O
+offered O
+at O
+$ B-MISC
+207 I-MISC
+fob O
+ARA B-LOC
+for O
+Amsterdam-Rotterdam I-LOC
+barrels I-LOC
+, O
+and O
+at O
+$ B-MISC
+206 I-MISC
+for O
+full B-LOC
+ARA O
+material O
+. O
+
+Maybe O
+sentiment O
+is O
+a O
+little O
+bit O
+weaker O
+but O
+prices O
+have O
+not O
+changed O
+. O
+" O
+
+Asian B-LOC
+traders O
+had O
+earlier O
+expected O
+an O
+IOC B-ORG
+tender I-ORG
+for O
+around I-LOC
+400,000 I-MISC
+tonnes B-MISC
+. O
+
+Fuel O
+oil O
+markets B-ORG
+were O
+also O
+listless O
+. O
+
+Offers O
+were O
+around O
+a O
+dollar B-MISC
+a O
+tonne O
+higher O
+at O
+$ I-MISC
+102 I-MISC
+fob O
+ARA B-LOC
+but O
+bids O
+were O
+scarce O
+. O
+
+-- O
+Nicholas B-PER
+Shaxson I-PER
+, O
+London B-LOC
+newsroom B-MISC
++44 I-MISC
+171 I-MISC
+542 I-MISC
+8167 I-MISC
+
+Lows O
+on O
+August B-LOC
+28 O
+across O
+the O
+Prairies I-LOC
+should O
+range O
+from O
+8.0 B-MISC
+to O
+12.0 I-MISC
+Celsius I-MISC
+with O
+highs O
+around O
+30.0 B-MISC
+Celsius I-MISC
+. O
+
+-- O
+Gilbert B-PER
+Le I-PER
+Gras I-PER
+204 O
+947 O
+3548 O
+
+Brush B-PER
+Wellman I-PER
+comments O
+on O
+beryllium B-MISC
+lawsuits I-MISC
+. O
+
+CLEVELAND B-LOC
+1996-08-26 O
+
+The O
+company B-ORG
+was O
+responding O
+to O
+an O
+article O
+in O
+Sunday B-LOC
+'s I-MISC
+New B-PER
+York I-LOC
+Times B-MISC
+. O
+
+After O
+a O
+delayed O
+opening O
+, O
+the O
+stock B-MISC
+was O
+off I-MISC
+1-1/2 O
+to O
+18-7/8 I-MISC
+. O
+
+-- O
+Cleveland B-LOC
+Newsdesk B-ORG
+216-579-0077 B-MISC
+
+Salomon B-ORG
+cuts O
+refiner O
+Q3 B-MISC
+EPS I-MISC
+view O
+on O
+margin O
+concern O
+. O
+
+-- O
+Sun B-ORG
+Co I-ORG
+to O
+$ B-MISC
+0.15 I-MISC
+from O
+$ B-MISC
+0.85 I-MISC
+versus O
+the O
+consensus O
+$ B-MISC
+0.63 I-MISC
+
+-- O
+Tosco B-ORG
+Corp I-ORG
+to O
+$ B-MISC
+0.95 I-MISC
+from O
+$ B-MISC
+1.03 I-MISC
+versus O
+the O
+consensus O
+$ B-MISC
+0.94 I-MISC
+
+-- O
+Total B-ORG
+Petroleum I-ORG
+( O
+North B-LOC
+America I-LOC
+) O
+Ltd I-ORG
+to O
+$ B-MISC
+0.15 I-MISC
+from O
+$ B-MISC
+0.46 I-MISC
+versus O
+the O
+consensus O
+$ B-MISC
+0.33 I-MISC
+
+AMT B-MISC
+: O
+3,250,000 I-MISC
+DATE B-MISC
+: O
+09/04/96 I-MISC
+NYC B-LOC
+Time B-PER
+: O
+1200 I-PER
+CUSIP B-MISC
+: O
+569399 I-MISC
+
+ISSUER O
+: O
+Marion B-PER
+County B-LOC
+Board B-ORG
+of I-ORG
+Education I-LOC
+ST B-MISC
+: O
+WV I-MISC
+
+DTD O
+: O
+09/01/96 B-LOC
+SURE B-MISC
+BID B-MISC
+: O
+N B-MISC
+
+DUE O
+: O
+5/1/98-02 B-LOC
+SR B-ORG
+MGR I-ORG
+: O
+
+LAST O
+SALE O
+: O
+$ O
+7,330,000 O
+( O
+MBIA B-ORG
+) I-ORG
+3/1/90 B-LOC
+@ B-MISC
+6.14900 I-MISC
+% O
+NIC B-MISC
+; O
+4yrs I-LOC
+4mos I-LOC
+Avg O
+; O
+BBI-7.27 B-MISC
+% O
+
+Year O
+Amount O
+Coupon O
+Yield O
+Price O
+Conc B-MISC
+. O
+
+1998 O
+575,000 O
+
+1999 O
+610,000 O
+
+2000 O
+650,000 O
+
+2001 O
+685,000 O
+
+2002 O
+730,000 O
+
+RE O
+: O
+$ B-MISC
+70,375,000 O
+
+( O
+OHIO B-LOC
+BUILDING I-ORG
+AUTHORITY I-ORG
+) O
+
+STATE O
+FACILITIES O
+REFUNDING O
+BONDS O
+
+1996 O
+SERIES B-MISC
+A B-MISC
+
+CONFIRMED O
+CONFIRMED O
+
+Delivery O
+Date O
+: O
+08/29/1996 B-LOC
+
+Maturity O
+Balance O
+Coupon O
+List O
+
+10/01 O
+/ O
+1998C B-LOC
+125M B-MISC
+4.50 I-MISC
+4.20 I-MISC
+
+6,045,000.00 O
+
+VERN B-PER
+RIFFE I-PER
+CENTER B-ORG
+
+( O
+D O
+) O
+
+10/01 O
+/ O
+1998D B-LOC
+165M B-MISC
+4.50 I-MISC
+4.20 I-MISC
+
+Grand O
+Total O
+: O
+290M O
+
+Chelsea B-PER
+makes O
+political O
+debut O
+on O
+Clinton B-PER
+train O
+trip O
+. O
+
+She O
+even O
+worked O
+ropelines O
+, O
+shaking O
+hands O
+with O
+excited O
+fans O
+. O
+
+She O
+has O
+to O
+go O
+back O
+to O
+school B-LOC
+. O
+" B-MISC
+
+The O
+AEX B-ORG
+index O
+of O
+leading O
+shares O
+closed O
+4.54 O
+points O
+easier O
+at O
+556.19 O
+, B-MISC
+the B-LOC
+day I-LOC
+'s B-MISC
+low I-MISC
+. O
+
+IHC B-ORG
+also O
+forecast O
+post O
+tax O
+earnings O
+rising O
+21 B-MISC
+percent I-MISC
+for O
+the O
+full B-LOC
+year I-LOC
+. O
+
+Banking O
+group O
+ING B-ORG
+traded O
+ex-dividend B-MISC
+today B-LOC
+and O
+finished O
+0.60 I-MISC
+guilders O
+weaker O
+at I-LOC
+52.90 I-MISC
+as O
+a O
+result O
+. O
+
+-- O
+Amsterdam B-LOC
+Newsroom B-ORG
++31 B-MISC
+20 I-MISC
+504 I-PER
+5000 I-PER
+
+PARIS B-LOC
+1996-08-26 O
+
+A B-PER
+Seguin I-PER
+spokeswoman O
+confirmed O
+that O
+no O
+letter O
+or O
+call O
+had O
+yet O
+been O
+received O
+. O
+
+Bank B-ORG
+of I-ORG
+France I-ORG
+drains O
+3.9 O
+bln B-MISC
+Ffr I-MISC
+at O
+tender O
+. O
+
+-- O
+Paris B-LOC
+Newsroom B-ORG
++33 B-MISC
+1 O
+4221 O
+5452 O
+
+RABOBANK B-ORG
+[ O
+RABN.CN B-MISC
+] O
+SEES O
+H2 I-MISC
+NET B-MISC
+GROWTH B-MISC
+UNDER I-ORG
+10 I-LOC
+PCT B-MISC
+. O
+
+AMSTERDAM B-LOC
+1996-08-26 O
+
+But O
+Wijffels B-PER
+was O
+unable O
+to O
+quantify O
+second I-LOC
+half I-ORG
+investment B-ORG
+to O
+improve O
+and O
+extend O
+domestic B-MISC
+and I-MISC
+offshore B-MISC
+services I-ORG
+. O
+
+PRESS B-ORG
+DIGEST I-ORG
+- O
+FRANCE B-LOC
+- O
+LE B-MISC
+MONDE I-MISC
+AUG O
+26 O
+. O
+
+These O
+are O
+leading O
+stories O
+in O
+Monday B-LOC
+'s O
+afternoon B-MISC
+daily I-MISC
+Le B-ORG
+Monde I-ORG
+, O
+dated O
+Aug O
+27 I-LOC
+. I-LOC
+
+-- O
+World B-LOC
+steel B-MISC
+market I-MISC
+shows O
+signs O
+of O
+upturn I-ORG
+. O
+
+HELSINKI B-LOC
+1996-08-26 O
+
+BRUSSELS B-LOC
+
+Thai B-LOC
+PM B-MISC
+proposes O
+Sept O
+18 O
+for O
+no-confidence B-MISC
+debate I-MISC
+. O
+
+BANGKOK B-LOC
+1996-08-26 O
+
+His O
+critics O
+allege O
+he B-PER
+may I-MISC
+be I-MISC
+attempting B-MISC
+to O
+delay O
+the O
+debate B-LOC
+. O
+
+Banharn B-PER
+'s O
+13-month-old B-MISC
+, O
+six-party B-ORG
+coalition I-ORG
+government I-ORG
+controls O
+209 O
+seats O
+in O
+the B-LOC
+391-seat I-LOC
+lower I-LOC
+house I-LOC
+of O
+parliament O
+. O
+
+Fontaine B-PER
+- O
+6mth B-MISC
+parent O
+forecast O
+. O
+
+TOKYO B-LOC
+1996-08-26 O
+
+LATEST O
+PREVIOUS O
+ACTUAL O
+
+NOTE O
+- O
+Fontaine B-PER
+Co B-ORG
+Ltd I-ORG
+sells O
+women O
+" O
+s B-MISC
+fashion I-MISC
+wigs O
+. O
+
+Manila B-LOC
+international O
+coconut B-MISC
+oil I-MISC
+prices O
+. O
+
+MANILA B-LOC
+1996-08-26 O
+
+Buyers O
+Sellers O
+Last O
+Prev O
+
+AugSep O
+752.50 O
+758.75 O
+unq B-MISC
+unq I-MISC
+
+SepOct O
+733.75 O
+743.50 O
+unq B-MISC
+unq I-MISC
+
+OctNov O
+unq O
+740 O
+unq O
+unq O
+
+NovDec O
+unq O
+732.50 O
+unq O
+unq O
+
+PRESS O
+DIGEST O
+- O
+Tunisia B-LOC
+- O
+Aug B-MISC
+26 I-MISC
+. O
+
+- O
+English B-MISC
+langage I-MISC
+to O
+be O
+taught O
+as O
+of O
+the B-LOC
+eighth I-LOC
+year I-LOC
+of O
+the O
+primary B-LOC
+school I-LOC
+instead I-ORG
+of B-ORG
+the O
+third B-LOC
+year I-LOC
+of O
+the B-LOC
+secondary I-LOC
+school I-ORG
+. B-ORG
+
+LE B-MISC
+TEMPS O
+
+Senior O
+United B-ORG
+Nations I-ORG
+arms O
+official O
+Rolf B-PER
+Ekeus I-PER
+left O
+Bahrain B-LOC
+for O
+Baghdad B-LOC
+on O
+Monday B-MISC
+for O
+talks O
+with O
+Iraqi I-LOC
+officials I-MISC
+, O
+a O
+U.N. O
+spokesman B-ORG
+said O
+. O
+
+PRESS O
+DIGEST O
+- O
+Lebanon B-LOC
+- O
+Aug B-MISC
+26 I-MISC
+. O
+
+BEIRUT B-LOC
+1996-08-26 O
+
+These O
+are O
+the O
+leading O
+stories O
+in O
+the O
+Beirut B-LOC
+press B-ORG
+on O
+Monday B-MISC
+. O
+
+AS-SAFIR B-ORG
+
+- O
+Parliament B-ORG
+Speaker O
+Berri B-PER
+: O
+The O
+occupied B-LOC
+south I-LOC
+should O
+not O
+be O
+used O
+as O
+a O
+winning B-MISC
+card I-MISC
+in O
+elections I-ORG
+. O
+
+VALLETTA B-LOC
+1996-08-26 O
+
+THE B-ORG
+TIMES I-ORG
+
+- O
+Visitors O
+slam O
+bus O
+and O
+taxi O
+drivers O
+for O
+cheating O
+. O
+
+He B-PER
+reiterates O
+promise O
+that O
+a O
+future O
+Labour B-ORG
+government I-ORG
+will O
+remove O
+VAT B-MISC
+. O
+
+Tamils B-LOC
+demonstrate O
+outside O
+U.N. B-ORG
+headquarters I-ORG
+. O
+
+GENEVA B-LOC
+1996-08-26 O
+
+Thousands O
+of O
+Tamils B-PER
+demonstrated O
+outside O
+the O
+United B-ORG
+Nations I-ORG
+' I-MISC
+European B-MISC
+headquarters I-ORG
+in O
+Geneva B-LOC
+on O
+Monday B-MISC
+to O
+appeal O
+for O
+U.N. B-MISC
+recognition B-MISC
+of O
+their O
+fight I-PER
+for O
+independence O
+from I-LOC
+Sri O
+Lanka B-PER
+. I-PER
+
+FOCUS B-ORG
+- O
+Eurobourses I-ORG
+end O
+mixed O
+but O
+London B-LOC
+recovers O
+. O
+
+Leonard B-PER
+Santorelli I-PER
+
+But O
+it O
+recovered O
+at O
+the O
+close O
+of O
+trade O
+. O
+
+Consequently O
+, O
+stocks B-MISC
+and O
+bonds B-MISC
+are O
+both I-MISC
+subject O
+to O
+rapid O
+swings B-MISC
+. O
+" O
+
+There O
+is O
+still O
+the O
+summer O
+malaise O
+hanging O
+over O
+the O
+market B-ORG
+. O
+" O
+
+The O
+Japanese B-LOC
+discount O
+rate O
+is O
+currently O
+at O
+a O
+record O
+low O
+of O
+0.5 B-MISC
+percent O
+. O
+
+STOCK B-MISC
+MARKETS I-MISC
+
+In O
+Paris B-LOC
+, O
+the O
+CAC-40 B-ORG
+share I-ORG
+index O
+finished O
+down O
+2.43 I-MISC
+at O
+2,017.99 B-MISC
+. O
+
+The O
+30-share O
+DAX B-ORG
+index I-ORG
+in O
+Frankfurt B-LOC
+closed O
+up O
+6.48 B-MISC
+at I-MISC
+2,558.84 B-MISC
+. I-MISC
+
+PRECIOUS B-MISC
+METALS I-MISC
+
+Silver O
+ended O
+up O
+one O
+cent O
+$ B-MISC
+5.24 O
+. O
+
+STANSTED B-LOC
+, O
+England B-LOC
+1996-08-27 O
+
+LONDON B-LOC
+1996-08-27 O
+
+Activist O
+groups O
+are O
+no O
+longer O
+seen O
+by O
+British B-LOC
+firms B-ORG
+as O
+a O
+harmless O
+, O
+badly B-MISC
+organised I-MISC
+ragbag O
+of O
+students O
+and O
+hippies O
+. O
+
+There O
+'s O
+no O
+doubt O
+it O
+'s O
+a O
+big O
+issue O
+now O
+. O
+" O
+
+Watts B-PER
+said O
+the O
+cost O
+of O
+protesting O
+can O
+be O
+heavy O
+once O
+the O
+company B-ORG
+is O
+locked O
+into O
+a O
+contract I-MISC
+. O
+
+ARC B-ORG
+says O
+it O
+'s O
+not O
+just O
+contractors O
+in O
+the B-LOC
+front I-LOC
+line I-ORG
+but I-MISC
+also B-MISC
+suppliers O
+like O
+itself B-PER
+. O
+
+As O
+a O
+result O
+of O
+eco-terrorism B-MISC
+we O
+are O
+looking O
+at O
+controversial I-MISC
+jobs I-MISC
+more O
+closely O
+to O
+see O
+if O
+the O
+profit B-LOC
+margins I-LOC
+are I-LOC
+wide I-LOC
+enough I-ORG
+to O
+cover O
+things B-ORG
+like I-ORG
+extra B-MISC
+security O
+. I-PER
+" [CLS]
+
+London B-LOC
+Carnival B-MISC
+ends O
+in O
+high I-MISC
+spirits I-MISC
+. O
+
+Police B-ORG
+said O
+they O
+made O
+30 O
+arrests O
+and O
+there O
+were O
+two O
+stabbings O
+. O
+
+ANNEX O
+
+STATEMENT O
+OF O
+THE O
+COUNCIL B-ORG
+'S I-MISC
+REASONS O
+
+ANNEX O
+I O
+
+Indonesia B-LOC
+newspaper O
+reports O
+central B-ORG
+bank I-ORG
+scandal B-MISC
+. O
+
+Hick B-PER
+13 O
+2 O
+42 O
+1 O
+42.00 O
+
+Croft B-PER
+47.4 O
+10 O
+125 O
+2 O
+62.50 O
+
+Brown B-PER
+33 O
+4 O
+138 O
+2 O
+69.00 O
+
+Ann B-PER
+Grossman I-PER
+( O
+U.S. B-ORG
+) I-ORG
+beat O
+Silvia B-PER
+Farina I-PER
+( O
+Italy B-LOC
+) I-LOC
+6-4 O
+6-3 O
+
+8 O
+- O
+Lindsay B-PER
+Davenport I-PER
+( O
+U.S. B-ORG
+) O
+beat O
+Adriana B-PER
+Serra-Zanetti I-PER
+( O
+Italy B-LOC
+) O
+6 O
+- O
+2 O
+6-1 O
+
+Elena B-PER
+Wagner I-PER
+( O
+Germany B-LOC
+) O
+beat O
+Gigi B-MISC
+Fernandez I-MISC
+( O
+U.S. B-ORG
+) O
+6-1 O
+6-4 O
+
+Stefan B-PER
+Edberg I-PER
+( O
+Sweden B-LOC
+) O
+beat O
+5 B-MISC
+- I-MISC
+Richard B-PER
+Krajicek I-PER
+( O
+Netherlands B-LOC
+) O
+6- B-MISC
+3 I-MISC
+6-3 I-MISC
+6-3 B-MISC
+
+FLORIDA B-LOC
+AT O
+ST B-ORG
+LOUIS B-PER
+
+BASEBALL O
+- O
+GIANTS B-ORG
+EDGE O
+PHILLIES B-ORG
+1-0 O
+. O
+
+OKD B-MISC
+111.50 O
+112.56 O
+95975 I-MISC
+10752.092 O
+
+PF O
+IKS O
+KB O
+PLUS O
+156.00 O
+156.00 O
+6000 O
+936.000 O
+
+RIF O
+900.00 O
+900.00 O
+5500 O
+4950.000 O
+
+SELIKO B-MISC
+4000.00 O
+20000.00 O
+3565 O
+32607.500 O
+
+It O
+was O
+their O
+fourth O
+meeting O
+this B-LOC
+year I-LOC
+. O
+
+Nationalists B-ORG
+want O
+Iliescu B-PER
+ousted O
+for O
+Hungary B-LOC
+pact B-MISC
+. O
+
+Estonian B-LOC
+MPS B-ORG
+see O
+little B-MISC
+hope I-MISC
+of O
+electing O
+president B-PER
+. O
+
+Belinda B-PER
+Goldsmith I-PER
+
+TALLINN B-LOC
+1996-08-27 O
+
+His O
+relations O
+with O
+a O
+leftist-led B-MISC
+government B-ORG
+have O
+sometimes O
+been O
+tense O
+. O
+
+Support O
+for O
+Ruutel B-PER
+, O
+68 O
+, O
+remained O
+constant O
+at O
+34 O
+votes O
+. O
+
+Estonia B-LOC
+assembly O
+fails O
+to O
+elect O
+state O
+president O
+. O
+
+The O
+final O
+decision O
+will O
+now O
+be O
+made O
+by O
+a O
+larger O
+assembly B-ORG
+. O
+
+Albania B-LOC
+charges O
+Briton B-PER
+with O
+child O
+sex O
+abuse O
+. O
+
+TIRANA B-LOC
+1996-08-27 O
+
+Thompson B-PER
+has O
+denied O
+the O
+charges O
+. O
+
+He B-PER
+could O
+face O
+up O
+to O
+five B-LOC
+years I-LOC
+in O
+jail B-LOC
+if O
+convicted B-MISC
+. O
+
+Estonia B-LOC
+assembly O
+again O
+fails O
+to O
+elect O
+president O
+. O
+
+Slovak B-LOC
+women O
+visited O
+Dutroux B-PER
+, O
+police B-ORG
+say O
+. O
+
+Peter B-PER
+Laca I-PER
+
+Dutroux B-PER
+'s I-MISC
+last O
+visit O
+to O
+Slovakia B-LOC
+was O
+reported O
+to O
+have O
+been O
+as B-MISC
+recent O
+as O
+July I-LOC
+. O
+
+MOSCOW B-LOC
+1996-08-27 O
+
+-- O
+Moscow B-LOC
+Newsroom B-ORG
++7095 B-MISC
+941 I-MISC
+8520 I-MISC
+
+Quarracino B-PER
+and O
+other O
+Church B-ORG
+leaders I-ORG
+are O
+regular O
+critics O
+of O
+the O
+government O
+'s B-MISC
+free-market I-MISC
+economic I-MISC
+policy I-LOC
+. O
+
+SAO B-LOC
+PAULO I-LOC
+1996-08-27 O
+
+Bernini B-PER
+is O
+expected O
+to O
+take O
+office O
+Thursday B-LOC
+, O
+a O
+Eletropaulo B-ORG
+spokeswoman I-PER
+said O
+. O
+
+-- O
+Romina B-PER
+Nicaretta I-PER
+, O
+Sao B-LOC
+Paulo I-LOC
+newsroom B-ORG
+, O
+5511 B-MISC
+232 I-MISC
+4411 I-MISC
+. O
+
+Dutch B-LOC
+government B-ORG
+wo O
+n't I-MISC
+pay O
+ransom B-MISC
+for I-ORG
+kidnap O
+victims O
+. O
+
+Depending O
+on O
+you O
+, O
+we B-PER
+will O
+either O
+live O
+or O
+die O
+, O
+" B-MISC
+it I-MISC
+said O
+. O
+
+The O
+two O
+were O
+held O
+for O
+71 O
+days O
+until O
+relatives O
+paid O
+a O
+ransom O
+. O
+
+Two O
+of O
+the O
+suspected O
+abductors O
+have O
+since O
+been O
+arrested O
+. O
+
+Venezuela B-LOC
+unions O
+harden O
+towards O
+CVG B-ORG
+privatization B-MISC
+. O
+
+CARACAS B-LOC
+1996-08-27 O
+
+Nicaraguan B-LOC
+drunks O
+fear O
+" B-MISC
+lovebite I-MISC
+" B-MISC
+bandit O
+. O
+
+In O
+spite O
+of O
+the O
+collective O
+fear O
+gripping O
+Matagalpa B-LOC
+'s O
+drinkers O
+, O
+local O
+women B-MISC
+expressed I-MISC
+little O
+sympathy O
+. O
+
+Brazil B-LOC
+likely O
+to O
+turn O
+Banespa B-ORG
+federal B-MISC
+bank I-MISC
+- O
+paper B-MISC
+. O
+
+Sao B-LOC
+Paulo I-LOC
+state O
+'s O
+debt O
+is O
+now O
+estimated O
+at O
+19 O
+billion B-MISC
+reais I-MISC
+. O
+
+O O
+Globo B-ORG
+also O
+said O
+another O
+delicate O
+case O
+to O
+be O
+solved O
+involves O
+private I-ORG
+bank B-MISC
+Bamerindus I-MISC
+. O
+
+O O
+Globo B-ORG
+also O
+said O
+the O
+loan O
+would O
+give O
+Bamerindus B-ORG
+time O
+to O
+sell O
+assets O
+. O
+
+Bamerindus B-ORG
+declined O
+to O
+comment O
+on O
+negotiations O
+being O
+held O
+with O
+the O
+Central B-LOC
+Bank I-ORG
+. O
+
+BRASILIA B-LOC
+1996-08-27 O
+
+15-21 O
+, O
+Brazil B-LOC
+'s O
+Foreign B-ORG
+Relations I-ORG
+Ministry I-ORG
+said O
+on O
+Tuesday B-MISC
+. O
+
+BUENOS B-LOC
+AIRES I-LOC
+1996-08-26 O
+
+Pendleton B-PER
+OR B-LOC
+--- O
+--- O
+--- O
+--- O
+4.7300 O
+up O
+.01 O
+
+ref O
+. O
+
+( O
+YMCA B-ORG
+Proj I-ORG
+. O
+
+96 O
+
+ISLAMABAD B-LOC
+1996-08-27 O
+
+KABUL B-LOC
+1996-08-27 O
+
+Afghan B-LOC
+guerrilla O
+factions O
+have O
+been O
+locked O
+in O
+a O
+bloody O
+power O
+struggle O
+since B-MISC
+the I-MISC
+fall B-ORG
+of I-ORG
+the I-ORG
+communist O
+government O
+in O
+April B-PER
+1992 I-PER
+. O
+
+The O
+bank B-ORG
+said O
+it O
+had O
+accepted O
+bids O
+of O
+250 I-LOC
+million I-MISC
+rupees B-LOC
+at O
+par B-MISC
+for O
+three-year I-ORG
+bonds I-PER
+, O
+3.5 O
+million B-PER
+rupees I-MISC
+at B-LOC
+par O
+for B-MISC
+five-year O
+bonds I-ORG
+and I-PER
+1.126 O
+billion B-ORG
+at I-MISC
+par B-LOC
+for O
+10-year B-MISC
+bonds O
+. I-LOC
+
+Nepal B-LOC
+offers O
+to O
+talk O
+to O
+Maoist B-ORG
+insurgents I-ORG
+. O
+
+Gopal B-PER
+Sharma I-PER
+
+KATHMANDU B-LOC
+1996-08-27 O
+
+But O
+the O
+Nepali B-LOC
+government B-ORG
+said O
+the O
+insurgents O
+must O
+give O
+up O
+violence O
+before O
+it I-ORG
+negotiates O
+with O
+them O
+. O
+
+Some O
+human O
+rights O
+groups B-ORG
+have O
+criticised O
+the O
+government B-ORG
+'s I-MISC
+handling O
+of O
+the O
+situation O
+. O
+
+The O
+Nepali B-LOC
+Congress B-ORG
+leads O
+the O
+three-party B-MISC
+coalition I-MISC
+government I-MISC
+while O
+the O
+UML B-ORG
+is O
+the O
+main O
+opposition O
+party I-ORG
+. O
+
+Indian B-LOC
+soybean O
+prices O
+on O
+Tuesday B-PER
+remained O
+steady B-MISC
+at I-MISC
+12,900-13,100 I-LOC
+rupees O
+per O
+tonne O
+in O
+plant B-ORG
+delivery I-ORG
+condition I-ORG
+, O
+dealers I-PER
+said O
+
+Soyoil B-MISC
+solvent O
+was O
+down O
+by O
+400 O
+rupees O
+per I-MISC
+tonne O
+and O
+soyoil B-MISC
+refined O
+was O
+down O
+by O
+400 O
+rupees O
+. O
+
+Export O
+demand O
+was O
+good O
+but O
+availability O
+was O
+limited O
+. O
+
+Market O
+Arrivals O
+Auction O
+Traders O
+Plant B-ORG
+
+( O
+in O
+tonnes B-MISC
+) O
+
+Black O
+11,900-12,100 B-LOC
+
+Nalkhera B-LOC
+n.a O
+Yellow B-MISC
+- O
+- O
+
+---------------------------------- O
+
+Soyoil O
+solvent O
+plant O
+delivery O
+30,300-30,400 B-MISC
+
+Emnid B-ORG
+April O
+28 O
+40.0 O
+32.0 O
+5.0 O
+11.0 O
+5.0 O
+
+OFFICIAL O
+RESULTS O
+OF O
+THE O
+OCTOBER B-LOC
+16 I-LOC
+, O
+1994 I-LOC
+GENERAL B-ORG
+ELECTION I-ORG
+: O
+
+Most O
+hostages O
+freed O
+from O
+hijacked O
+Sudanese B-LOC
+plane O
+. O
+
+British B-LOC
+Data B-ORG
+in O
+merger O
+talks O
+with O
+Mentmore B-MISC
+. O
+
+Hijacked O
+Sudan B-LOC
+plane O
+lands O
+at O
+a O
+London B-LOC
+airport O
+. O
+
+Hijacked O
+Sudan B-LOC
+plane O
+expected O
+at O
+London B-LOC
+'s B-MISC
+Stansted I-LOC
+. O
+
+The O
+identity O
+and O
+number O
+of O
+the O
+hijackers B-PER
+was O
+not O
+known O
+. O
+
+Painted O
+parrot O
+scam O
+lands O
+Australian B-LOC
+in O
+jail O
+. O
+
+PERTH B-LOC
+, O
+Australia I-LOC
+1996-08-27 O
+
+A O
+New B-LOC
+Zealand I-LOC
+motorist O
+got O
+an O
+unexpected O
+free B-MISC
+flight I-MISC
+to O
+Tonga B-LOC
+on O
+Tuesday O
+after O
+being O
+caught O
+drinking B-PER
+and I-PER
+driving O
+. O
+
+Indonesia B-LOC
+'s O
+SBPUs B-MISC
+auction O
+results O
+. O
+
+Total O
+( O
+in O
+billion O
+rupiah B-MISC
+) O
+38.43 O
+218.50 O
+
+-- O
+Jakarta B-LOC
+newsroom B-ORG
++6221 B-MISC
+384-6364 I-MISC
+
+Seoul B-LOC
+embassies O
+warned O
+of O
+terrorist O
+attacks O
+. O
+
+SEOUL B-LOC
+1996-08-27 O
+
+A O
+letter O
+to O
+the O
+Belgrade B-LOC
+embassy B-ORG
+on O
+Monday B-MISC
+under O
+the O
+name O
+of O
+the O
+Macedonian I-ORG
+Communist I-MISC
+Party I-LOC
+demanded O
+South B-LOC
+Korea I-LOC
+release O
+detained O
+student O
+leaders O
+, O
+a O
+ministry B-PER
+spokesman I-PER
+said B-ORG
+. O
+
+Nuclear B-MISC
+pact O
+will O
+be O
+a O
+step O
+to O
+disarmament-China B-LOC
+. O
+
+BEIJING B-LOC
+1996-08-27 O
+
+China B-LOC
+was O
+the O
+last O
+declared O
+nuclear B-MISC
+power I-MISC
+to O
+announce O
+a O
+halt I-LOC
+to O
+testing O
+. O
+
+Japan B-LOC
+declares O
+food O
+poisoning O
+threat O
+receding O
+. O
+
+TOKYO B-LOC
+1996-08-27 O
+
+Japan B-LOC
+aluminium O
+shipments O
+surge O
+8.9 O
+pct O
+in O
+July I-LOC
+. O
+
+A O
+federation B-ORG
+official O
+added O
+that O
+the O
+half-year O
+through B-LOC
+September I-LOC
+1996 B-MISC
+also I-MISC
+appeared O
+likely O
+to O
+set O
+a O
+new O
+record I-ORG
+for O
+can O
+production O
+, O
+despite O
+cooler B-ORG
+temperatures I-PER
+in O
+August B-PER
+. O
+
+July B-LOC
+foil O
+output O
+was O
+off O
+0.2 O
+percent B-MISC
+year-on-year I-MISC
+at O
+11,525 O
+tonnes B-MISC
+, O
+while O
+foil O
+shipments O
+fell I-LOC
+0.8 I-MISC
+percent O
+to O
+11,244 O
+tonnes I-LOC
+. I-MISC
+
+June B-LOC
+mill O
+output O
+data O
+were O
+revised O
+slightly O
+downward I-LOC
+to O
+210,622 B-MISC
+tonnes I-MISC
+from B-ORG
+the I-ORG
+preliminary O
+210,683 B-MISC
+, I-MISC
+while O
+shipments O
+were B-PER
+revised I-PER
+marginally O
+upward I-LOC
+to O
+213,989 B-MISC
+tonnes I-MISC
+from B-ORG
+213,845 I-ORG
+. O
+
+Exports O
+dipped O
+3.7 O
+percent O
+to O
+18,867 O
+tonnes B-MISC
+. O
+
+Taiwan B-LOC
+'s O
+Cooperative B-ORG
+Bank I-ORG
+cuts O
+prime O
+lending O
+rate O
+. O
+
+TAIPEI B-LOC
+1996-08-27 O
+
+-- O
+Taipei B-LOC
+Newsroom B-ORG
+( O
+5080815 B-MISC
+) O
+
+The O
+Palestinian B-ORG
+Authority I-ORG
+was O
+set O
+up O
+under O
+the O
+1993 O
+PLO-Israel B-MISC
+interim B-PER
+peace I-PER
+deal I-MISC
+. O
+
+It O
+says O
+it O
+will O
+never O
+cede O
+any O
+part O
+of O
+the O
+city B-LOC
+. O
+
+The O
+rules O
+will O
+also O
+require O
+that O
+customer O
+limit O
+orders O
+be O
+displayed O
+with O
+prices O
+better O
+than O
+those O
+available O
+in O
+quotes B-MISC
+publicly I-MISC
+available O
+at O
+the B-LOC
+time I-LOC
+. O
+
+The O
+SEC B-ORG
+'s I-MISC
+limit O
+order O
+display O
+rule O
+will O
+mean O
+a O
+major O
+change O
+for O
+Nasdaq I-ORG
+, O
+where B-LOC
+such B-MISC
+orders O
+have O
+never O
+been O
+displayed O
+. O
+
+ROME B-LOC
+1996-08-28 O
+
+Passengers O
+injured O
+in O
+train O
+collision O
+in B-LOC
+Linz O
+. O
+
+LINZ B-ORG
+, O
+Austria B-LOC
+1996-08-28 O
+
+WINNIPEG B-LOC
+1996-08-28 O
+
+ROVERETO B-LOC
+, O
+Italy I-LOC
+1996-08-28 B-MISC
+
+Leading O
+results O
+from O
+an O
+
+international O
+athletics O
+meeting O
+on O
+Wednesday B-LOC
+: O
+
+Women O
+'s O
+long O
+jump O
+: O
+
+1. O
+Colonna B-PER
+8:22:00 O
+
+3. O
+McEwen B-PER
+same O
+time O
+
+4. O
+Teutenberg B-PER
+4 O
+seconds O
+
+BASEBALL O
+- O
+MAJOR B-ORG
+LEAGUE I-ORG
+STANDINGS O
+AFTER O
+TUESDAY B-LOC
+'S I-MISC
+GAMES O
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-28 O
+
+standings O
+after O
+games O
+played O
+on B-LOC
+Tuesday O
+( O
+tabulate B-MISC
+under I-MISC
+won O
+, O
+
+MADRID B-LOC
+1996-08-28 O
+
+( O
+Barcelona B-LOC
+win O
+6-5 O
+on O
+aggregate O
+) O
+
+Teams B-ORG
+: O
+
+PRESS O
+DIGEST O
+- O
+ANGOLA B-LOC
+- O
+AUG B-MISC
+28 I-MISC
+. O
+
+LUANDA B-LOC
+1996-08-28 O
+
+JORNAL B-ORG
+DE O
+ANGOLA B-LOC
+
+CAPE B-LOC
+TOWN I-LOC
+1996-08-28 O
+
+Subpoenas O
+are O
+due O
+to O
+be O
+served O
+on O
+a O
+number O
+of O
+people O
+this O
+week O
+. O
+" B-MISC
+
+SOFIA B-LOC
+1996-08-28 O
+
+Arch B-PER
+Alberta B-LOC
+well O
+tests O
+1,100 B-MISC
+bbl I-MISC
+/ I-LOC
+day O
+. O
+
+FORT B-LOC
+WORTH I-LOC
+, O
+Texas B-LOC
+1996-08-28 B-MISC
+
+Testing O
+has O
+begun O
+and O
+results O
+will O
+be O
+announced O
+within O
+the O
+next O
+several O
+days O
+, O
+Arch B-PER
+said O
+. O
+
+-- O
+Jim B-PER
+Brumm I-PER
+212-859-1710 B-MISC
+. O
+
+U.S. B-LOC
+judge O
+orders O
+Biogen B-ORG
+, O
+Berlex B-ORG
+officials O
+deposed O
+. O
+
+BOSTON B-LOC
+1996-08-28 O
+
+Both O
+drugs O
+are O
+types O
+of O
+interferon B-MISC
+. O
+
+One O
+analyst O
+said O
+sales O
+of O
+Avonex B-ORG
+had O
+already O
+cut O
+into O
+Betaseron B-MISC
+market O
+share O
+. O
+
+He B-PER
+added O
+Chiron B-ORG
+Corp I-ORG
+reported O
+its O
+sales O
+of O
+inventory O
+to O
+Berlex B-ORG
+was O
+down O
+. O
+
+Chiron B-ORG
+makes O
+Betaseron B-MISC
+; O
+Berlex B-ORG
+markets O
+it O
+, O
+he B-PER
+said O
+. O
+
+the O
+FDA B-ORG
+said O
+. O
+
+Wolf B-PER
+ordered O
+the O
+depositions O
+to O
+determine O
+if O
+he I-PER
+or O
+U.S. B-ORG
+District I-ORG
+Judge B-MISC
+John B-PER
+Bissell I-PER
+of O
+Newark B-LOC
+should O
+preside O
+over O
+the O
+case O
+. O
+
+WASHINGTON B-LOC
+1996-08-28 O
+
+( O
+BILLIONS B-MISC
+OF O
+DLRS I-MISC
+) O
+
+Aug O
+27 O
+Aug O
+26 O
+
+Tax O
+/ O
+loan O
+note O
+acct O
+14.828 O
+15.687 O
+
+Village O
+attack O
+kills O
+38 O
+in O
+eastern B-LOC
+Sierra B-MISC
+Leone I-MISC
+. O
+
+But O
+he O
+said O
+a O
+power O
+struggle O
+in O
+Russia B-LOC
+'s I-MISC
+ruling B-ORG
+circles I-ORG
+could O
+not O
+be O
+ruled O
+out O
+, O
+which B-MISC
+could O
+harm O
+further O
+reforms O
+. O
+
+BUCHAREST B-LOC
+1996-08-28 O
+
+No O
+new O
+deficit O
+forecast O
+has O
+been O
+issued O
+so O
+far O
+. O
+
+On O
+Wednesday B-LOC
+, O
+the O
+leu B-ORG
+'s I-ORG
+official I-ORG
+rate I-ORG
+was B-MISC
+3,161 I-MISC
+to O
+the O
+dollar B-MISC
+. O
+
+SAN B-LOC
+JOSE I-LOC
+, O
+Costa B-ORG
+Rica I-ORG
+1996-08-28 B-MISC
+
+They O
+were O
+held O
+for O
+71 O
+days O
+before O
+relatives O
+paid O
+a O
+ransom O
+to O
+free O
+them O
+. O
+
+BOGOTA B-LOC
+, O
+Colombia I-LOC
+1996-08-28 B-MISC
+
+He B-PER
+added O
+that O
+he B-PER
+did O
+not O
+oppose O
+the O
+idea B-MISC
+of I-MISC
+opening O
+a O
+public O
+debate O
+over O
+the O
+issue O
+. O
+
+Quake O
+shakes O
+Costa B-LOC
+Rica I-LOC
+during O
+Hashimoto B-PER
+visit O
+. O
+
+The O
+quake O
+was O
+felt O
+for O
+about O
+seven O
+seconds I-LOC
+in O
+most O
+of O
+the B-LOC
+country I-LOC
+but O
+preliminary B-MISC
+reports I-MISC
+said O
+no B-ORG
+one I-ORG
+was I-PER
+hurt B-PER
+, I-PER
+it O
+added B-PER
+. O
+
+Barrier O
+removed O
+to O
+Brazil B-LOC
+CVRD B-ORG
+sell-off O
+. O
+
+BRASILIA B-LOC
+1996-08-28 O
+
+-- O
+William B-PER
+Schomberg I-PER
+, O
+Brasilia B-LOC
+newsroom B-ORG
+55-61-2230358 B-MISC
+
+Year O
+to O
+June B-LOC
+30 O
+
+( O
+million O
+A$ B-MISC
+unless O
+stated O
+) O
+
+Operating O
+profit O
+9.75 O
+vs O
+5.79 O
+
+Net B-ORG
+profit O
+6.08 O
+vs O
+3.98 O
+
+Final O
+dividend O
+( O
+cents O
+) O
+4.0 O
+vs O
+4.0 O
+
+Political O
+observers O
+said O
+the O
+turn-out O
+was O
+disappointing O
+for O
+a O
+city B-LOC
+of I-LOC
+about I-LOC
+12 O
+million B-MISC
+people I-PER
+, I-MISC
+possibly O
+indicating O
+that O
+the B-ORG
+MQM O
+, I-ORG
+although I-ORG
+a O
+member O
+of O
+the O
+opposition O
+alliance O
+, O
+had O
+not O
+mobilised O
+its B-LOC
+supporters I-LOC
+for B-MISC
+the I-PER
+event I-MISC
+. I-ORG
+
+We O
+will O
+dislodge O
+the O
+Bhutto B-PER
+government B-ORG
+. O
+
+India B-LOC
+ACC B-ORG
+Apr-Jul B-MISC
+' O
+96 I-MISC
+sales O
+, O
+output O
+up O
+. O
+
+Belgium B-LOC
+bank O
+sanctions O
+$ B-MISC
+6.5 I-MISC
+mln O
+loan O
+to O
+India B-LOC
+WSRL B-ORG
+. O
+
+BOMBAY B-LOC
+1996-08-28 O
+
+India B-LOC
+fishermen O
+say O
+forced O
+to O
+carry O
+Tamil B-MISC
+refugees O
+. O
+
+P.V. B-PER
+Krishnamoorthy I-PER
+
+RAMESWARAM B-LOC
+, O
+India B-LOC
+1996-08-28 B-MISC
+
+Intelligence O
+officals O
+said O
+more O
+than O
+5,000 O
+Tamils B-PER
+were O
+waiting O
+on O
+the O
+western B-LOC
+coast I-LOC
+of O
+Sri B-MISC
+Lanka I-MISC
+to O
+cross O
+into O
+India B-LOC
+. O
+
+All O
+Fishermen B-ORG
+'s I-ORG
+Association I-ORG
+secretary O
+N.J. B-LOC
+Bose B-PER
+said O
+the O
+strike O
+would O
+continue O
+indefinitely O
+and O
+the O
+fishermen O
+would O
+block O
+road O
+and I-LOC
+rail O
+traffic I-LOC
+if O
+their O
+demands B-MISC
+were I-MISC
+not O
+met O
+. O
+
+Only O
+some O
+take O
+money O
+, O
+" O
+Sri B-PER
+Lankan I-LOC
+boatman O
+Chinnathambi B-PER
+said I-PER
+. O
+
+How O
+could O
+we O
+alone O
+be O
+held O
+responsible O
+for O
+the O
+influx O
+? O
+" O
+
+he O
+said O
+. O
+
+Indian B-LOC
+cotton O
+trade O
+shut O
+for O
+local I-LOC
+festival B-MISC
+. O
+
+German B-LOC
+carmaker O
+Volkswagen B-ORG
+AG I-ORG
+said O
+on O
+Wednesday B-MISC
+that O
+it O
+expected O
+group O
+net O
+profit O
+to O
+double O
+in O
+the O
+third O
+quarter I-LOC
+. O
+
+Adelt B-PER
+did O
+not O
+give O
+a O
+concrete O
+forecast O
+. O
+
+The O
+group B-ORG
+reported O
+a O
+1996 B-MISC
+first-half I-MISC
+group I-ORG
+net O
+profit O
+of O
+282 B-MISC
+million I-MISC
+marks O
+. O
+
+-- O
+John B-PER
+Gilardi I-PER
+, O
+Frankfurt B-LOC
+Newsroom B-ORG
+, I-ORG
++49 B-MISC
+69 I-MISC
+756525 I-MISC
+
+ATHENS B-LOC
+1996-08-28 O
+
+Faster O
+economic O
+growth O
+is O
+a O
+major O
+component O
+of O
+ND B-ORG
+'s I-MISC
+economic O
+programme O
+and O
+Evert B-PER
+has O
+repeatedly O
+blamed O
+the O
+socialists O
+for B-MISC
+the I-ORG
+slow O
+economic B-LOC
+growth I-LOC
+. O
+
+Dow B-ORG
+pushes O
+London B-LOC
+stocks O
+to O
+new O
+record O
+. O
+
+Peter B-PER
+Griffiths I-PER
+
+Better-than-expected O
+British B-LOC
+trade O
+figures O
+had O
+little O
+impact O
+on O
+equities B-MISC
+. O
+
+The O
+non-EU B-MISC
+July B-LOC
+trade O
+deficit O
+totalled O
+506 I-MISC
+million I-MISC
+sterling B-MISC
+( O
+$ B-ORG
+788 I-MISC
+million I-MISC
+) O
+while O
+June B-LOC
+'s I-PER
+world O
+deficit O
+was I-LOC
+1.12 O
+billion O
+pounds O
+. O
+
+The O
+30-share O
+DAX B-ORG
+index O
+closed O
+at O
+2,563.16 B-MISC
+points I-MISC
+, O
+up O
+4.32 O
+. O
+
+The O
+unexpectedly O
+weak O
+figures O
+convinced O
+markets O
+that O
+Japanese B-LOC
+interest O
+rates O
+would O
+stay O
+at O
+rock-bottom B-MISC
+levels I-LOC
+-- O
+weakening O
+the O
+yen B-ORG
+. O
+
+A O
+BOJ B-ORG
+spokesman B-PER
+said O
+" B-MISC
+the O
+doors O
+to O
+the B-LOC
+recovery I-LOC
+have O
+not O
+been O
+shut O
+... I-MISC
+
+the O
+recovery O
+is O
+still O
+continuing O
+. O
+" O
+
+These O
+remarks O
+gave O
+the O
+yen B-MISC
+some I-MISC
+backbone O
+and O
+the O
+dollar B-MISC
+failed O
+to O
+progress O
+further O
+. O
+
+STOCK O
+MARKETS O
+AT B-LOC
+1500 O
+GMT O
+
+The O
+Financial B-ORG
+Times-Stock I-ORG
+Exchange I-ORG
+index O
+of O
+100 O
+leading O
+British B-LOC
+shares O
+had O
+risen O
+15 O
+points O
+to O
+3,920.7 O
+. O
+
+In O
+Paris B-LOC
+, O
+the O
+CAC-40 B-ORG
+share I-ORG
+index I-ORG
+dropped O
+15.09 I-MISC
+to O
+2,002.9 B-MISC
+. O
+
+The O
+30-share O
+DAX B-ORG
+index O
+in O
+Frankfurt B-LOC
+closed O
+up O
+4.32 O
+at O
+2,563.16 O
+. O
+
+Silver B-MISC
+was O
+at O
+521.15 O
+cents O
+. O
+
+AEI B-ORG
+'s O
+Spanish I-LOC
+operation O
+wins O
+ISO B-MISC
+9002 I-MISC
+. O
+
+ANKARA B-LOC
+1996-08-28 O
+
+The O
+statement O
+did O
+not O
+report O
+any O
+military O
+casualties O
+and O
+did O
+not O
+say O
+exactly O
+when O
+the O
+clashes O
+took O
+place O
+. O
+
+Israel B-LOC
+'s O
+Levy B-PER
+to O
+meet O
+Mubarak B-PER
+in O
+Egypt B-LOC
+. O
+
+FSA B-ORG
+qualifies O
+five O
+muni B-MISC
+bond I-MISC
+issues I-MISC
+for O
+insurance I-ORG
+. O
+
+- O
+Order O
+book O
+( O
+billions O
+) O
+1.07 B-MISC
+vs O
+0.98 B-MISC
+
+Industrial O
+services O
+
+- O
+Turnover B-MISC
+657 I-MISC
+vs O
+700 I-MISC
+
+- O
+Operating O
+profit O
+9 O
+vs O
+3 O
+
+TOKYO B-LOC
+1996-08-28 O
+
+The O
+BOJ B-ORG
+governor B-PER
+has O
+made O
+it O
+clear O
+that O
+the O
+BOJ I-ORG
+'s I-MISC
+policy B-MISC
+is O
+aimed O
+at O
+ensuring O
+basis O
+for O
+economic O
+recovery O
+. O
+
+I O
+believe O
+this O
+policy O
+has O
+not O
+changed O
+, O
+" B-MISC
+he B-PER
+said O
+. O
+
+BEIJING B-LOC
+1996-08-28 O
+
+Japan B-LOC
+coalition O
+party I-ORG
+leader B-PER
+plans O
+to O
+resign O
+. O
+
+HONG B-LOC
+KONG I-LOC
+1996-08-28 O
+
+Six O
+months O
+ended O
+June B-LOC
+30 O
+
+( O
+in O
+million B-MISC
+HK$ I-MISC
+unless O
+stated O
+) O
+
+Shr O
+( O
+H.K. B-PER
+cents B-MISC
+) O
+65.61 O
+vs O
+63.87 O
+
+Dividend O
+( O
+H.K. B-LOC
+cents O
+) O
+18.0 O
+vs O
+18.0 O
+
+Exceptional O
+items O
+nil O
+vs O
+nil O
+
+Net B-ORG
+249.53 O
+vs O
+242.94 O
+
+Company B-ORG
+name O
+Liu B-PER
+Chong I-PER
+Hing I-PER
+Investment I-ORG
+Ltd O
+
+Dividend O
+payable O
+October B-LOC
+8 O
+
+3 O
+- O
+Thomas B-PER
+Muster I-PER
+( O
+Austria B-LOC
+) O
+beat O
+Dirk B-PER
+Dier I-PER
+( O
+Germany I-LOC
+) O
+6-3 O
+6-2 O
+6-4 O
+
+Pablo B-PER
+Campana I-PER
+( O
+Ecuador B-LOC
+) O
+beat O
+Mark B-PER
+Knowles I-PER
+( O
+Bahamas B-LOC
+) O
+7-6 O
+( B-MISC
+7-3 I-MISC
+) I-MISC
+3 O
+- O
+6 O
+6-3 O
+6-7 I-LOC
+( I-MISC
+3-7 I-MISC
+) O
+6-3 O
+
+Tami B-PER
+Whitlinger I-PER
+Jones I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Amy B-PER
+Frazier I-PER
+( O
+U.S. B-LOC
+) O
+7-6 O
+( B-MISC
+7-3 I-MISC
+) I-MISC
+6-2 O
+
+Judith B-PER
+Wiesner I-PER
+( O
+Austria B-LOC
+) O
+beat O
+Debbie B-PER
+Graham I-PER
+( O
+U.S. B-ORG
+) O
+6-2 O
+7-5 O
+
+6 O
+- O
+Andre B-PER
+Agassi I-PER
+( O
+U.S. B-ORG
+) O
+beat O
+Leander B-PER
+Paes I-PER
+( O
+India B-LOC
+) O
+3-6 O
+6-4 O
+6-1 O
+6-0 O
+
+Women O
+'s O
+singles B-MISC
+, O
+second I-MISC
+round I-MISC
+
+In O
+Seattle B-LOC
+, O
+
+COLORADO B-LOC
+10 O
+Cincinnati B-LOC
+9 O
+
+MONTREAL B-LOC
+6 O
+Los B-LOC
+Angeles I-LOC
+5 O
+
+San B-LOC
+Diego I-LOC
+3 O
+NEW B-ORG
+YORK I-ORG
+2 O
+( O
+10 O
+innings B-MISC
+) I-MISC
+
+It O
+will O
+also O
+boost O
+both O
+countries O
+' O
+ambitions O
+to O
+join O
+NATO B-ORG
+and O
+the O
+European B-MISC
+Union I-MISC
+. O
+
+U.S. B-LOC
+EMBASSY B-ORG
+IN O
+ATHENS I-LOC
+CLOSED O
+ON O
+LABOUR B-MISC
+DAY I-MISC
+, O
+SEP I-PER
+2 O
+. O
+
+ATHENS B-LOC
+1996-08-29 O
+
+-- O
+George B-PER
+Georgiopoulos I-PER
+, O
+Athens B-LOC
+Newsroom B-ORG
++301 B-MISC
+3311812-4 I-MISC
+
+ND O
+PARTY B-ORG
+PICKS O
+SPOT O
+THOMSON B-PER
+, O
+BOLD B-MISC
+/ O
+OGILVY I-ORG
+, O
+MATHER I-MISC
+FOR O
+AD O
+CAMPAIGN O
+. O
+
+He B-PER
+has O
+always O
+insisted O
+that O
+they O
+were O
+just O
+friends O
+. O
+
+LONDON B-LOC
+1996-08-29 O
+
+London B-LOC
+International B-ORG
+Financial I-ORG
+Futures I-ORG
+Exchange I-ORG
+automated O
+pit O
+trading O
+( O
+APT B-MISC
+) I-MISC
+tabular O
+details O
+: O
+
+CONTRACT O
+( O
+MONTH B-LOC
+) O
+APT B-MISC
+CLOSE I-MISC
+SETTLEMENT B-ORG
+PREVIOUS I-ORG
+SETTLE I-PER
+
+LONG O
+GILT B-MISC
+( O
+SEP I-MISC
+) O
+( O
+1/32 B-MISC
+) O
+107-12 O
+107-10 O
+107-06 O
+
+GERMAN B-LOC
+GOVT B-ORG
+BOND O
+( O
+SEP B-MISC
+) O
+97.42 O
+97.38 O
+97.34 O
+
+EUROMARK B-ORG
+( O
+SEP B-MISC
+) O
+96.84 O
+96.83 O
+96.83 O
+
+LA B-LOC
+VOIE O
+
+Brazil B-LOC
+gov't O
+set O
+to O
+send O
+1997 B-MISC
+budget I-MISC
+to O
+Congress B-ORG
+. O
+
+Co-ordinated O
+guerrilla O
+attacks O
+in O
+two O
+southern B-LOC
+states I-LOC
+overnight O
+that O
+left O
+at O
+least O
+13 B-MISC
+people O
+dead O
+have O
+caused O
+nervousness O
+in O
+Mexico B-ORG
+'s I-MISC
+financial I-ORG
+markets I-ORG
+. O
+
+Dealers B-MISC
+said O
+that O
+the O
+volume O
+of O
+longer-term I-MISC
+government B-ORG
+paper I-ORG
+declined O
+due O
+to O
+market O
+nervousness O
+. O
+
+--- O
+Patricia B-PER
+Lezama I-PER
+, O
+Mexico B-LOC
+City I-LOC
+newroom B-MISC
+( O
+525 I-MISC
+) O
+728 I-MISC
+9554 I-MISC
+
+Tension O
+builds O
+in O
+Mexican B-LOC
+state I-LOC
+ahead O
+of O
+elections O
+. O
+
+The O
+letter O
+was O
+signed O
+by O
+some O
+200 O
+area B-LOC
+residents I-LOC
+and O
+indigenous B-MISC
+leaders I-MISC
+. O
+
+Despite O
+the O
+criticism O
+, O
+acting O
+state B-LOC
+Gov B-MISC
+. O
+
+Brazil B-LOC
+police O
+arrest O
+wanted O
+Italian B-MISC
+man O
+- O
+report O
+. O
+
+SAO B-LOC
+PAULO I-PER
+, O
+Brazil B-LOC
+1996-08-28 B-MISC
+
+Thai B-LOC
+poll O
+shows O
+military O
+wants O
+PM B-MISC
+Banharn B-PER
+out O
+. O
+
+BANGKOK B-LOC
+1996-08-29 O
+
+Hamas B-ORG
+cleric O
+jailed O
+in O
+Israel B-LOC
+hospitalised O
+briefly O
+. O
+
+A O
+prison O
+official O
+said O
+Yassin B-PER
+had O
+a O
+mild O
+case O
+of O
+pneumonia B-MISC
+. O
+
+Moroccan B-LOC
+King O
+meets O
+former B-PER
+Israel B-ORG
+PM B-MISC
+Peres I-PER
+. O
+
+SKHIRAT B-LOC
+, O
+Morocco B-LOC
+1996-08-29 B-MISC
+
+Scandal O
+hits O
+Clinton B-PER
+campaign B-ORG
+at O
+vital O
+moment O
+. O
+
+Michael B-PER
+Conlon I-PER
+
+Aides O
+said O
+Clinton B-PER
+planned O
+to O
+spend O
+most O
+of O
+Thursday B-LOC
+in O
+his I-PER
+hotel O
+room O
+several I-LOC
+miles I-LOC
+( O
+km O
+) O
+from O
+the O
+convention B-ORG
+hall I-ORG
+working O
+on O
+his O
+speech I-PER
+. O
+
+He B-PER
+was O
+also O
+hoarse O
+and O
+was O
+giving O
+his I-PER
+voice O
+a O
+rest O
+. O
+
+He B-PER
+'s O
+excited O
+about O
+the O
+campaign B-ORG
+. O
+
+I O
+always O
+expect O
+elections O
+to O
+get O
+close O
+. O
+
+Montana B-LOC
+weekly O
+muni O
+bond O
+indices O
+- O
+Piper B-ORG
+Jaffray I-ORG
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-29 O
+
+Previous O
+
+Grain O
+and O
+oilseed O
+exports O
+reported O
+by O
+USDA B-ORG
+and O
+private O
+export O
+sources O
+. O
+
+Shipment O
+is O
+for O
+Nov B-LOC
+15 I-LOC
+- O
+Dec B-LOC
+10 I-LOC
+. O
+
+Bunge B-ORG
+sold O
+the O
+first O
+shipment O
+and O
+Cargill B-ORG
+the O
+second O
+, O
+traders B-MISC
+said O
+. O
+
+The O
+soybeans B-MISC
+were O
+for O
+Oct B-LOC
+15-30 I-LOC
+shipment O
+. O
+
+USDA B-ORG
+pegged O
+U.S. B-LOC
+wheat O
+exports O
+at O
+25.0 O
+million I-LOC
+tonnes I-MISC
+in O
+fiscal B-MISC
+1997 O
+versus O
+32.0 O
+million I-LOC
+tonnes I-MISC
+the O
+prior O
+year O
+... O
+
+The O
+EU B-ORG
+'s I-MISC
+grain O
+panel I-ORG
+will O
+add O
+two O
+tranches B-MISC
+of O
+150,000 I-MISC
+tonnes O
+each I-LOC
+to O
+the O
+existing O
+allocation O
+, O
+it O
+said O
+. O
+
+-- O
+Chicago B-LOC
+newsdesk B-MISC
+312-408-8720-- I-MISC
+
+DES O
+MOINES B-LOC
+1996-08-29 O
+
+- O
+USDA B-ORG
+
+In O
+July B-LOC
+, O
+the O
+volume O
+of O
+help-wanted B-MISC
+advertising I-MISC
+fell O
+in O
+five O
+of O
+the O
+nine O
+U.S. B-ORG
+regions I-ORG
+. O
+
+A O
+second O
+man B-PER
+and O
+two I-PER
+women I-MISC
+also O
+were O
+being O
+sought O
+. O
+
+When O
+Schein B-PER
+returned O
+two O
+of O
+the O
+suitcases B-MISC
+were O
+missing I-MISC
+. O
+
+They O
+contained O
+$ O
+650,000 O
+in O
+jewelry B-MISC
+and O
+$ O
+40,000 I-MISC
+in O
+cash B-MISC
+, O
+Andrews B-PER
+said O
+. O
+
+O.J. B-PER
+Simpson I-PER
+hints O
+at O
+more O
+supporting O
+evidence O
+. O
+
+WASHINGTON B-LOC
+1996-08-29 O
+
+17 O
+will O
+be O
+that O
+he B-PER
+did O
+not O
+kill O
+the O
+victims O
+. O
+
+Whatever O
+you O
+want O
+to O
+send O
+me O
+, O
+I B-PER
+need O
+. O
+" O
+
+PARIS B-LOC
+1996-08-29 O
+
+-- O
+Paris B-LOC
+newsroom B-ORG
++331 B-MISC
+4221 I-MISC
+5432 I-MISC
+
+French B-LOC
+shipyard O
+workers O
+march O
+against O
+job B-MISC
+cuts I-MISC
+. O
+
+RENNES B-LOC
+1996-08-29 O
+
+PRESS O
+DIGEST O
+- O
+Pakistan B-LOC
+- O
+August B-MISC
+29 I-MISC
+. O
+
+DAWN O
+
+Some O
+27 O
+people O
+were O
+rescued O
+from O
+the O
+private B-MISC
+jail I-MISC
+set O
+up O
+by B-ORG
+the I-ORG
+police B-LOC
+. I-LOC
+
+Elephant O
+tramples O
+woman B-PER
+to O
+death O
+in O
+Nepal B-LOC
+. O
+
+KATHMANDU B-LOC
+1996-08-29 O
+
+COLOMBO B-LOC
+1996-08-29 O
+
+DENVER B-LOC
+1996-08-29 O
+
+SoCal B-LOC
+Edison B-ORG
+sees O
+2 O
+power O
+lines O
+back O
+today O
+. O
+
+Local B-LOC
+authorities O
+charged O
+a O
+teenager I-PER
+for O
+starting O
+the O
+blaze B-MISC
+. O
+
+-- O
+R B-PER
+Leong I-PER
+, O
+New B-LOC
+York I-LOC
+Power B-ORG
+Desk I-ORG
++1 B-MISC
+212 I-MISC
+859 I-MISC
+1622 I-MISC
+
+Amount O
+$ O
+0.056 B-MISC
+$ O
+0.056 I-MISC
+
+Pay O
+Sept B-LOC
+27 O
+
+* O
+President B-PER
+Clinton I-PER
+proposes O
+five-point B-MISC
+plan I-MISC
+to O
+clean O
+up O
+toxic B-MISC
+waste I-ORG
+sites I-ORG
+. O
+
+* O
+H&R B-ORG
+Block I-ORG
+Inc I-ORG
+delays O
+spinoff O
+of O
+its O
+stake O
+in O
+CompuServe B-PER
+Corp I-PER
+. O
+
+BRUSSELS B-LOC
+1996-08-29 O
+
+MADRID B-LOC
+1996-08-29 O
+
+The O
+rise O
+has O
+been O
+very O
+quick O
+and O
+very O
+crazy O
+. O
+" B-MISC
+
+-- O
+Madrid B-LOC
+Newsroom B-ORG
++34 B-MISC
+1 O
+585 O
+2161 O
+
+Algeria B-LOC
+forces O
+kill O
+guerrillas O
+- O
+papers O
+. O
+
+Finns B-ORG
+hold O
+two O
+men O
+on O
+child O
+sex-abuse B-MISC
+charges I-MISC
+. O
+
+The O
+girl O
+was O
+taken O
+to O
+hospital B-ORG
+. O
+
+INGOLSTADT B-LOC
+1996-08-29 O
+
+Demel B-PER
+said O
+the O
+carmaker B-ORG
+had O
+hedged O
+about O
+half I-LOC
+of I-ORG
+its I-MISC
+currency B-MISC
+risk I-MISC
+for O
+1996 B-LOC
+. O
+
+KEKKILA B-ORG
+SEES O
+FULL-YR B-MISC
+1996 B-LOC
+PROFIT I-MISC
+VS O
+LOSS I-MISC
+. O
+
+HELSINKI B-LOC
+1996-08-29 O
+
+-- O
+Andrew B-PER
+Huddart I-PER
+, O
+London B-LOC
+Newsroom B-ORG
+, I-ORG
++44 B-MISC
+171 I-MISC
+542 I-MISC
+8716 I-MISC
+
+Earthquake O
+jolts O
+New B-LOC
+Zealands I-LOC
+South B-LOC
+Island I-LOC
+. O
+
+WELLINGTON B-LOC
+1996-08-29 O
+
+He B-PER
+said O
+inflation B-MISC
+was O
+under O
+control O
+and O
+the O
+Hong B-LOC
+Kong I-LOC
+dollar I-MISC
+was O
+" O
+rock I-MISC
+solid I-MISC
+" O
+. O
+
+None O
+of O
+our O
+basic O
+precepts O
+have O
+been O
+challenged O
+. O
+" O
+
+Tsang B-PER
+said O
+the O
+market O
+would O
+continue O
+to O
+appreciate O
+because O
+property B-MISC
+and I-ORG
+land I-MISC
+were O
+scarce O
+. O
+
+Taiwan B-LOC
+dollar B-MISC
+ends O
+higher I-MISC
+, O
+narrow O
+trade O
+seen O
+. O
+
+TAIPEI B-LOC
+1996-08-29 O
+
+The O
+rate O
+closed O
+at O
+T$ B-MISC
+27.482 I-MISC
+against O
+Wednesday B-LOC
+'s I-PER
+T$ B-MISC
+27.495 I-MISC
+. O
+
+Turnover O
+was O
+US$ B-MISC
+275 I-MISC
+million I-MISC
+. O
+
+-- O
+Joyce B-PER
+Liu I-PER
+( O
+2-5080815 B-MISC
+) I-MISC
+
+SIMEX B-ORG
+Nikkei B-ORG
+ends O
+down O
+but O
+off O
+lows O
+. O
+
+September O
+Nikkei B-ORG
+settled O
+at O
+20,605 B-MISC
+after O
+touching O
+an O
+intraday O
+low O
+of O
+20,530 I-MISC
+against O
+its I-MISC
+previous O
+close O
+of O
+20,725 I-MISC
+. O
+
+Volume O
+was O
+19,560 O
+contracts O
+. O
+
+Both O
+state O
+agency B-ORG
+bonds B-MISC
+will O
+have O
+seven-year I-MISC
+maturity B-LOC
+and O
+will O
+be O
+issued O
+on O
+September B-LOC
+5 I-LOC
+, O
+he B-PER
+said O
+. O
+
+-- O
+Bangkok B-LOC
+newsroom B-ORG
+( O
+662 O
+) O
+652-0642 B-MISC
+
+TOKYO B-LOC
+1996-08-29 O
+
+Sep.03 O
+
+( O
+Parent B-MISC
+) I-MISC
+FORECAST B-ORG
+FORECAST I-ORG
+YEAR-AGO B-LOC
+
+-- O
+Julia B-PER
+Ferguson I-PER
+, O
+Vienna B-LOC
+newsroom B-ORG
+, O
++431 B-MISC
+53112 I-MISC
+274 I-MISC
+
+Algeria B-LOC
+faults O
+Britain B-LOC
+over O
+Islamists O
+gathering O
+. O
+
+PARIS B-LOC
+1996-08-28 O
