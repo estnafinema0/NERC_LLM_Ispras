@@ -142,27 +142,79 @@ model_primary.push_to_hub("estnafinema0/nerc-extraction", revision="model_primar
 
 In parallel, another model was trained entirely on the LLM-generated annotations (referred to as the "llm_pure" model), which yielded lower performance. A comparative analysis was performed by computing differences in accuracy, F1-score, and loss between the two models. This evaluation informed the next stage of active learning.
 
-## Stage 3: Mixed Annotations
+## Stage 3: Active learning
 
-To bridge the performance gap, Stage 3 introduced an mixed annotations approach. In this stage, a mixed dataset was created by combining the cheap LLM-generated annotations with a small percentage of expert (truth) labels. The mixing function was defined as follows:
+### Overview
 
-```python
-def mix_datasets(expert, cheap, percentage):
-    base_size = len(cheap)
-    additional = Subset(expert, torch.arange(int(base_size * percentage)))
-    dataset = ConcatDataset([cheap, additional])
-    return DataLoader(dataset=dataset, batch_size=BATCH_SIZE, shuffle=True)
+In this section, we implement an active learning framework for Named Entity Recognition (NER). Our goal is to iteratively improve a base model (already fine-tuned on a low-quality dataset plus an initial 12% of expert examples, i.e. our `model_init_12`) by selecting the most uncertain examples from a large expert dataset and using them to further fine-tune the model. Each intermediate model is saved in a separate branch on Hugging Face, and we record performance metrics (entity-level F1-score, seqeval accuracy, and validation loss) to analyze the improvement as we add more expert examples.
+
+### 1. Entity-Level Evaluation Module
+
+It is a improved metric to evaluate the performance of the model at the entity level, which is crucial for NER. A correct prediction requires that the entire entity (with proper boundaries and correct labels) is recognized correctly.
+
+  1. Prediction Collection: The function processes each batch from the evaluation DataLoader and, for each sentence, collects predicted labels and true labels in a list-of-lists format.
+  2. Metric Calculation: It then computes entity-level metrics using the `seqeval` library:
+     - Seqeval Accuracy: The overall accuracy calculated on an entity basis.
+     - F1-Score: The harmonic mean of precision and recall at the entity level.
+     - Classification Report: Detailed precision, recall, and F1 for each entity type.
+
+### 2. Uncertainty Estimation Module
+
+The purpose is to assess the uncertainty of each sentence (example) by computing the average entropy of its tokens. The idea is that a high average entropy indicates the model is less confident in its predictions for that sentence.
+
+
+We will assess the uncertainty of a sentence using the average entropy of its tokens. For each example (sentence) returned by the `NERDataSet` class, we:
+
+1. Pass it through the model in `eval` mode (with gradients disabled);
+2. Retrieve the logits and apply softmax to obtain a probability distribution over labels for each token;
+3. For each token (only the “valid” ones, where `ner_tag_mask == 1`), compute the entropy:
+   $$
+   H(token) = - \sum_{y} P(y\mid token)\log P(y\mid token)
+   $$
+4. The average entropy across all valid tokens serves as the uncertainty measure for the sentence.
+
+### 3. Preliminary Threshold Experiment with K-Fold Cross-Validation
+
+ Before starting the iterative active learning loop, we run a preliminary experiment to determine the minimal volume of expert examples that yield a significant improvement over the baseline (the model already trained on 12% expert data). Using k-fold cross-validation helps to smooth out random fluctuations and outliers.
+
+  1. For each percentage value (e.g., 1%, 2%, 3%, 5%, 7%, 10%, 12%, 15%, 20%) we determine the number of expert examples to add (using the size of the cheap dataset as a reference).
+  2. K-Fold Splitting: The expert dataset is split into *k* folds (we use 5-fold cross-validation).
+  3. Fine-Tuning per Fold: For each fold, a subset of expert examples is selected, combined with the cheap dataset, and the model is fine-tuned for a few epochs.
+  4. Metric Averaging: We compute and average the evaluation metrics (F1, seqeval accuracy, and validation loss) over all folds.
+  5. Graphing: We then build a graph plotting F1-score versus the number of added expert examples to identify the point where improvements saturate.
+
+
+![alt text](images/image-1.png)
+
+Below is a comparison of the initial evaluation metrics for two models. The first model, **model_llm_pure**, was trained solely on the low-quality (cheap) dataset, while the second model, **model_init_12**, was fine-tuned on the low-quality dataset combined with an additional 12% of expert examples. As shown in the table, model_init_12 achieves a lower validation loss, higher seqeval accuracy, and a significantly improved F1-Score compared to model_llm_pure.
+
+| Model           | Validation Loss | Seqeval Accuracy | F1-Score |
+|-----------------|-----------------|------------------|----------|
+| model_llm_pure  | 0.53443         | 0.85185          | 0.47493  |
+| model_init_12   | 0.33402         | 0.93084          | 0.65344  |
+
+### 4. Active Learning Loop
+
+  The core iterative loop that implements active learning. Starting from a base model (model_init_12), it repeatedly:
+  - Computes uncertainty for remaining expert examples,
+  - Selects the top uncertain examples (batch size is controlled by `batch_to_add`, set here to 10),
+  - Fine-tunes the model on the combined dataset (initial training data plus newly added expert examples),
+  - Saves the intermediate model in a separate branch on Hugging Face,
+  - And stops when the improvement (delta F1-score) is below a set threshold (after a minimum number of iterations).
+
+
+Since model_init_12 is already trained on 12% expert data, the active learning loop should start from an initial training dataset that equals that combined dataset. This ensures that the baseline performance is consistent with model_init_12, and that subsequent improvements are measured relative to that baseline.
+
+To note(!):
 ```
-
-Experiments were conducted with varying percentages (1%, 2%, 5%, 10%, 25%, 50%, 100%) of expert annotations. For each mix, the model was retrained, and its evaluation metrics were recorded. The performance improvements were visualized by plotting the increase in seq eval-score against the proportion of expert annotations.  
-![Graph: seq eval-score Improvement vs Expert Annotation Percentage](images/image-3.png)
- 
-![Graph:Validation Loss Improvement vs. Budget of High-Quality Examples](images/image-4.png)
-
-We see that the validation loss is highest when only a minimal fraction of high-quality data is used. As the proportion of high-quality data increases, the validation loss steadily decreases
-
-A representative output from the comparison function highlighted that the primary model (trained on truth) outperformed the llm_pure model by a significant margin (e.g., a 14% increase in accuracy and a 42.9% increase in F1-score). These results underscore the impact of annotation quality on model performance.
-
+def active_learning_loop(model, cheap_dataset, expert_dataset, eval_iter,
+                         initial_epochs=5, fine_tune_epochs=2, batch_to_add=5,
+                         improvement_threshold=0.00005, max_iterations=15,
+                         use_initial_training=False, min_iterations = 10)`:  
+```   
+It now takes an additional parameter `initial_train_dataset`, which is the union of the cheap dataset and the initial 12% expert examples.  
+It iterates up to `max_iterations`, and each iteration saves the updated model in a dedicated branch (named based on iteration and total added examples).  
+The loop records metrics at each step in a history list.
 
 ## Conclusion
 
