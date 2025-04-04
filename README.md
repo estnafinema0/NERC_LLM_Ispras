@@ -3,6 +3,8 @@
 This project presents a study on Named Entity Recognition and Classification (NERC) using large language models (LLMs). The work is made as a part of test task to ISPRAS. The project divided into three stages—from initial prompt engineering and dataset analysis to model training and a mixed annotation approach. In essence, the project starts by exploring various methods to generate token-level markup on the CoNLL 2003 dataset, then compares the performance of a small neural network trained on LLM-generated annotations versus truth labels, and finally investigates how selectively incorporating expert annotations can further improve model quality. Also it compares cost of expert annotations and LLM-generated annotations.
 
 > This project holds its own repository on a Hugging Face account, where the models and code are stored. The collection can be accessed: [Collection: ner-extraction](https://huggingface.co/collections/estnafinema0/ner-extraction-active-learning-approach-67eff0ec5ce21f81fb7fe5e0).
+> [Nerc Extraction Repository](https://huggingface.co/estnafinema0/nerc-extraction).
+> [Active Learning Repository](https://huggingface.co/estnafinema0/active-learning-nerc-models-kfold).
 
 ## Research Assignment Summary
 
